@@ -12,8 +12,8 @@ Once pipenv is installed, install the dependencies by running
 pipenv install
 ```
 
-Activate the virtual environment by running ```
-
+Activate the virtual environment by running 
+```
 pipenv shell
 ```
 
