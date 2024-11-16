@@ -13,4 +13,7 @@ Create your own PostgreSQL database and update the .env file with the appropriat
 
 In your sql editor, run the script create_tables.sql to create the tables
 
-To load the data, run: python Database/load_survivor_data.p
+To load the data, run: 
+'''
+python Database/load_survivor_data.py
+'''
