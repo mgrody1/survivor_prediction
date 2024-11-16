@@ -21,5 +21,3 @@ def setup_logging(log_level=logging.INFO):
     # Suppress overly verbose logs from third-party libraries (optional)
     for lib in ["urllib3", "botocore", "s3transfer"]:
         logging.getLogger(lib).setLevel(logging.WARNING)
-
-    logger.info("Logging setup complete.")
