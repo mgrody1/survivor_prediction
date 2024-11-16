@@ -1,0 +1,59 @@
+{
+    "Advantage Details": {
+      "table_name": "advantage_details",
+      "primary_key_columns": ["advantage_id", "version_season"]
+    },
+    "Advantage Movement": {
+      "table_name": "advantage_movement",
+      "primary_key_columns": ["sequence_id", "version_season"]
+    },
+    "Boot Mapping": {
+      "table_name": "boot_mapping",
+      "primary_key_columns": ["sog_id", "castaway_id", "version_season"]
+    },
+    "Castaway Details": {
+      "table_name": "castaway_details",
+      "primary_key_columns": ["castaway_id"]
+    },
+    "Castaways": {
+      "table_name": "castaways",
+      "primary_key_columns": ["castaway_id", "version_season"]
+    },
+    "Challenge Description": {
+      "table_name": "challenge_description",
+      "primary_key_columns": ["challenge_id", "version_season"]
+    },
+    "Challenge Results": {
+      "table_name": "challenge_results",
+      "primary_key_columns": ["castaway_id", "challenge_id", "sog_id", "version_season"]
+    },
+    "Vote History": {
+      "table_name": "vote_history",
+      "primary_key_columns": ["vote_id", "version_season"]
+    },
+    "Episodes": {
+      "table_name": "episodes",
+      "primary_key_columns": ["episode", "version_season"]
+    },
+    "Confessionals": {
+      "table_name": "confessionals",
+      "primary_key_columns": ["castaway_id", "version_season"]
+    },
+    "Jury Votes": {
+      "table_name": "jury_votes",
+      "primary_key_columns": ["castaway_id", "finalist_id", "version_season"]
+    },
+    "Season Summary": {
+      "table_name": "season_summary",
+      "primary_key_columns": ["version_season"]
+    },
+    "Tribe Mapping": {
+      "table_name": "tribe_mapping",
+      "primary_key_columns": ["castaway_id", "version_season"]
+    },
+    "Episode Summary": {
+      "table_name": "episode_summary",
+      "primary_key_columns": ["version_season"]
+    }
+  }
+  
