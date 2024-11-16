@@ -9,5 +9,6 @@ python_version = "3.12"
 [packages]
 pandas = "*"
 psycopg2-binary = "*"
+python-dotenv = "*"
 
 [dev-packages]
