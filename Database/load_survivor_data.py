@@ -1,4 +1,10 @@
 import logging
+import sys
+from pathlib import Path
+
+# Add the base directory to sys.path
+base_dir = Path(__file__).resolve().parent.parent
+sys.path.append(str(base_dir))
 
 #Repo imports
 import params
@@ -12,17 +18,16 @@ logger = logging.getLogger(__name__)
 # Main script
 if __name__ == "__main__":
     # Establish a database connection
+    logger.info("Establishing db connection")
     conn = connect_to_db()
     
     try:
-        # Iterate over the sheets and load them into the corresponding tables
-        for sheet_name, config in params.table_config.items():
-            load_sheet_to_table(
-                sheet_name=sheet_name,
-                table_name=config["table_name"],
-                conn=conn,
-                primary_key_columns=config.get("primary_key_columns")
-    )
+        logger.info("Loading sheets into db")
+        for config in params.load_order:
+            sheet_name = config["sheet_name"]
+            table_name = config["table_name"]
+            logger.info(f"Loading sheet '{sheet_name}' into table '{table_name}'...")
+            load_sheet_to_table(sheet_name=sheet_name, table_name=table_name, conn=conn)
 
     except Exception as e:
         logger.error("An error occurred: %s", e)
