@@ -1,7 +1,14 @@
 import pandas as pd
+import numpy as np
 import psycopg2
 from psycopg2.extras import execute_values
 import logging
+import sys
+from pathlib import Path
+
+# Add the base directory to sys.path
+base_dir = Path(__file__).resolve().parent.parent
+sys.path.append(str(base_dir))
 
 #Repo imports
 import params
@@ -15,17 +22,17 @@ logger = logging.getLogger(__name__)
 def connect_to_db():
     try:
         conn = psycopg2.connect(
-            host=params.DB_HOST,
-            dbname=params.DB_NAME,
-            user=params.DB_USER,
-            password=params.DB_PASSWORD
+            host=params.db_host,
+            dbname=params.db_name,
+            user=params.db_user,
+            password=params.db_pass
         )
         logger.info("Database Conncetion Successful")
 
+        return conn
+
     except Exception as e:
         logger.error("Error in connecting to database: %s", e)
-
-    return conn
 
 
 # Function to truncate the table before loading new data
@@ -45,9 +52,17 @@ def load_sheet_to_table(sheet_name, table_name, conn, primary_key_columns=None):
     
     # Transform column names to lowercase and underscores for SQL compatibility
     df.columns = df.columns.str.lower().str.replace(" ", "_")
+
+    # Update column names to avoid sql errors
+    df.rename(columns={
+        "order": f"{table_name}_order",
+        "result": f"{table_name}_result"
+    }, inplace=True)
     
     # Handle nullable foreign keys by replacing NaN with None
     df = df.where(pd.notnull(df), None)
+
+    df = preprocess_dataframe(df.copy(), params.timestamp_columns, params.boolean_columns)
     
     # Truncate the table before loading
     truncate_table(table_name, conn)
@@ -73,4 +88,24 @@ def load_sheet_to_table(sheet_name, table_name, conn, primary_key_columns=None):
         execute_values(cur, query, data)
         conn.commit()
     logger.info(f"Sheet '{sheet_name}' successfully loaded into '{table_name}'.")
+
+
+def preprocess_dataframe(df, timestamp_columns, boolean_columns):
+    """
+    Replace problematic placeholders (e.g., NaT, NaN) with proper NULLs for SQL compatibility.
+    """
+    for col in timestamp_columns:
+        if col in df.columns:
+            df[col] = pd.to_datetime(df[col], errors='coerce')  # Convert invalid dates to NaT
+            df[col].replace({pd.NaT: None}, inplace=True)       # Replace NaT with None
+
+    # Convert numeric values to boolean for known boolean columns
+    for col in boolean_columns:
+        if col in df.columns:
+            df[col] = df[col].apply(lambda x: bool(x) if pd.notnull(x) else None)
+
+    df.replace({np.nan: None, pd.NaT: None}, inplace=True)
+    
+    return df
+
 
