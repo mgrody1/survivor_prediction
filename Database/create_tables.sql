@@ -82,7 +82,6 @@ CREATE TABLE Boot_Mapping (
 
 -- Castaways Table
 CREATE TABLE Castaways (
-	castaway_unique_id SERIAL PRIMARY KEY,
    version TEXT,
    version_season VARCHAR(255),
    season_name TEXT,
@@ -110,13 +109,13 @@ CREATE TABLE Castaways (
    ack_smile BOOLEAN,
    ack_quote TEXT,
    ack_score INT,
+   PRIMARY KEY (version_season, castaway_id),
    FOREIGN KEY (version_season) REFERENCES Season_Summary(version_season) ON DELETE cascade
 );
 
 -- Castaway Details Table
 CREATE TABLE Castaway_Details (
-	castaway_details_id SERIAL PRIMARY KEY,
-   castaway_id VARCHAR(255),
+   castaway_id VARCHAR(255) PRIMARY KEY,
    full_name TEXT,
    full_name_detailed TEXT,
    castaway TEXT,
