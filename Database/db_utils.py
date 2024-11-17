@@ -120,16 +120,18 @@ def import_table_to_df(table_name):
     Returns:
     pd.DataFrame: A pandas DataFrame containing the table data.
     """
+    logger.info("Executing SQL query")
     try:
         # Establish connection using the provided connection function
         conn = connect_to_db()
         # Load the entire table into a DataFrame
         query = f"SELECT * FROM {table_name}"
         df = pd.read_sql(query, conn)
+        logger.info("Query successfully loaded into dataframe")
         conn.close()
         return df
     except Exception as e:
-        print(f"Error importing table {table_name}: {e}")
+        logger.info(f"Error importing table {table_name}: {e}")
         return None
 
 # Function to import a custom SQL query into a pandas DataFrame
@@ -143,15 +145,17 @@ def import_query_to_df(query):
     Returns:
     pd.DataFrame: A pandas DataFrame containing the query results.
     """
+    logger.info("Executing SQL query")
     try:
         # Establish connection using the provided connection function
         conn = connect_to_db()
         # Execute the query and load the results into a DataFrame
         df = pd.read_sql(query, conn)
+        logger.info("Query successfully loaded into dataframe")
         conn.close()
         return df
     except Exception as e:
-        print(f"Error executing query: {e}")
+        logger.info(f"Error executing query: {e}")
         return None
 
 
