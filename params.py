@@ -15,7 +15,7 @@ db_user = os.getenv("DB_USER")
 db_pass = os.getenv("DB_PASSWORD")
 
 ### Local Paths
-survivor_wb_path = r"/home/mhgr/Downloads/survivoR.xlsx"
+survivor_wb_path = os.getenv("SURVIVOR_WB_PATH")
 
 ### DB Config
 with open("Database/table_config.json", "r") as f:
