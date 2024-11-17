@@ -33,6 +33,7 @@ def connect_to_db():
 
     except Exception as e:
         logger.error("Error in connecting to database: %s", e)
+        return None
 
 
 # Function to truncate the table before loading new data
@@ -107,5 +108,50 @@ def preprocess_dataframe(df, timestamp_columns, boolean_columns):
     df.replace({np.nan: None, pd.NaT: None}, inplace=True)
     
     return df
+
+# Function to import an entire table into a pandas DataFrame
+def import_table_to_df(table_name):
+    """
+    Imports an entire table from the PostgreSQL database into a pandas DataFrame.
+
+    Parameters:
+    table_name (str): Name of the table to import.
+
+    Returns:
+    pd.DataFrame: A pandas DataFrame containing the table data.
+    """
+    try:
+        # Establish connection using the provided connection function
+        conn = connect_to_db()
+        # Load the entire table into a DataFrame
+        query = f"SELECT * FROM {table_name}"
+        df = pd.read_sql(query, conn)
+        conn.close()
+        return df
+    except Exception as e:
+        print(f"Error importing table {table_name}: {e}")
+        return None
+
+# Function to import a custom SQL query into a pandas DataFrame
+def import_query_to_df(query):
+    """
+    Imports the result of a custom SQL query from the PostgreSQL database into a pandas DataFrame.
+
+    Parameters:
+    query (str): The SQL query to execute.
+
+    Returns:
+    pd.DataFrame: A pandas DataFrame containing the query results.
+    """
+    try:
+        # Establish connection using the provided connection function
+        conn = connect_to_db()
+        # Execute the query and load the results into a DataFrame
+        df = pd.read_sql(query, conn)
+        conn.close()
+        return df
+    except Exception as e:
+        print(f"Error executing query: {e}")
+        return None
 
 
