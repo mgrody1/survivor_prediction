@@ -11,6 +11,7 @@ sys.path.append(str(base_dir))
 #Repo imports
 import params
 from utils import setup_logging
+from Database.db_utils import connect_to_db
 
 setup_logging(logging.DEBUG)  # Use the desired logging level
 logger = logging.getLogger(__name__)
@@ -71,7 +72,7 @@ def get_castaway_features(version_season=None, episode_filter=None):
         c.version_season = o.version_season
         AND c.castaway_id = o.castaway_id
     """
-    
+
     # Adding filters dynamically
     filters = []
     
