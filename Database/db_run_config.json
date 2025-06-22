@@ -1,0 +1,20 @@
+{
+    "excel_path": "survivoR.xlsx",
+    "first_run": true,
+    "truncate_on_load": true,
+    "load_order": [
+        {"sheet_name": "Castaway Details", "table_name": "castaway_details"},
+        {"sheet_name": "Season Summary", "table_name": "season_summary"},
+        {"sheet_name": "Episodes", "table_name": "episodes"},
+        {"sheet_name": "Advantage Details", "table_name": "advantage_details"},
+        {"sheet_name": "Challenge Description", "table_name": "challenge_description"},
+        {"sheet_name": "Castaways", "table_name": "castaways"},
+        {"sheet_name": "Confessionals", "table_name": "confessionals"},
+        {"sheet_name": "Advantage Movement", "table_name": "advantage_movement"},
+        {"sheet_name": "Boot Mapping", "table_name": "boot_mapping"},
+        {"sheet_name": "Challenge Results", "table_name": "challenge_results"},
+        {"sheet_name": "Vote History", "table_name": "vote_history"},
+        {"sheet_name": "Jury Votes", "table_name": "jury_votes"},
+        {"sheet_name": "Tribe Mapping", "table_name": "tribe_mapping"}
+    ]
+}

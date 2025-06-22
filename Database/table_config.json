@@ -1,59 +1,160 @@
 {
     "Advantage Details": {
-      "table_name": "advantage_details",
-      "primary_key_columns": ["advantage_id", "version_season"]
+        "table_name": "advantage_details",
+        "unique_constraint_columns": [
+            "advantage_id",
+            "version_season"
+        ]
     },
     "Advantage Movement": {
-      "table_name": "advantage_movement",
-      "primary_key_columns": ["sequence_id", "version_season"]
+        "table_name": "advantage_movement",
+        "unique_constraint_columns": [
+            "sequence_id",
+            "version_season",
+            "advantage_id"
+        ]
     },
     "Boot Mapping": {
-      "table_name": "boot_mapping",
-      "primary_key_columns": ["sog_id", "castaway_id", "version_season"]
+        "table_name": "boot_mapping",
+        "unique_constraint_columns": [
+            "sog_id",
+            "castaway_id",
+            "version_season"
+        ]
     },
     "Castaway Details": {
-      "table_name": "castaway_details",
-      "primary_key_columns": ["castaway_id"]
+        "table_name": "castaway_details",
+        "unique_constraint_columns": [
+            "castaway_id"
+        ]
     },
     "Castaways": {
-      "table_name": "castaways",
-      "primary_key_columns": ["castaway_id", "version_season"]
+        "table_name": "castaways",
+        "unique_constraint_columns": [
+            "castaway_id",
+            "version_season"
+        ]
     },
     "Challenge Description": {
-      "table_name": "challenge_description",
-      "primary_key_columns": ["challenge_id", "version_season"]
+        "table_name": "challenge_description",
+        "unique_constraint_columns": [
+            "challenge_id",
+            "version_season"
+        ]
     },
     "Challenge Results": {
-      "table_name": "challenge_results",
-      "primary_key_columns": ["castaway_id", "challenge_id", "sog_id", "version_season"]
+        "table_name": "challenge_results",
+        "unique_constraint_columns": [
+            "castaway_id",
+            "challenge_id",
+            "sog_id",
+            "version_season"
+        ]
     },
     "Vote History": {
-      "table_name": "vote_history",
-      "primary_key_columns": ["vote_id", "version_season"]
+        "table_name": "vote_history",
+        "unique_constraint_columns": []
     },
     "Episodes": {
-      "table_name": "episodes",
-      "primary_key_columns": ["episode", "version_season"]
+        "table_name": "episodes",
+        "unique_constraint_columns": [
+            "episode",
+            "version_season"
+        ]
     },
     "Confessionals": {
-      "table_name": "confessionals",
-      "primary_key_columns": ["castaway_id", "version_season"]
+        "table_name": "confessionals",
+        "unique_constraint_columns": [
+            "castaway_id",
+            "version_season",
+            "episode"
+        ]
     },
     "Jury Votes": {
-      "table_name": "jury_votes",
-      "primary_key_columns": ["castaway_id", "finalist_id", "version_season"]
+        "table_name": "jury_votes",
+        "unique_constraint_columns": [
+            "castaway_id",
+            "finalist_id",
+            "version_season"
+        ]
     },
     "Season Summary": {
-      "table_name": "season_summary",
-      "primary_key_columns": ["version_season"]
+        "table_name": "season_summary",
+        "unique_constraint_columns": [
+            "version_season"
+        ]
     },
     "Tribe Mapping": {
-      "table_name": "tribe_mapping",
-      "primary_key_columns": ["castaway_id", "version_season"]
+        "table_name": "tribe_mapping",
+        "unique_constraint_columns": [
+            "castaway_id",
+            "version_season",
+            "episode",
+            "day",
+            "tribe"
+        ]
     },
-    "Episode Summary": {
-      "table_name": "episode_summary",
-      "primary_key_columns": ["version_season"]
-    }
-  }
-  
+    "timestamp_columns": [
+        "premiered",
+        "ended",
+        "filming_started",
+        "filming_ended",
+        "episode_date"
+    ],
+    "boolean_columns": [
+        "african",
+        "asian",
+        "latin_american",
+        "native_american",
+        "bipoc",
+        "lgbt",
+        "jury",
+        "finalist",
+        "winner",
+        "acknowledge",
+        "ack_look",
+        "ack_speak",
+        "ack_gesture",
+        "ack_smile",
+        "success",
+        "chosen_for_reward",
+        "sit_out",
+        "immunity",
+        "split_vote",
+        "nullified",
+        "tie",
+        "balance",
+        "balance_ball",
+        "balance_beam",
+        "endurance",
+        "fire",
+        "food",
+        "knowledge",
+        "memory",
+        "mud",
+        "obstacle_blindfolded",
+        "obstacle_cargo_net",
+        "obstacle_chopping",
+        "obstacle_digging",
+        "obstacle_knots",
+        "obstacle_padlocks",
+        "obstacle_combination_lock",
+        "precision",
+        "precision_catch",
+        "precision_roll_ball",
+        "precision_slingshot",
+        "precision_throw_balls",
+        "precision_throw_coconuts",
+        "precision_throw_rings",
+        "precision_throw_sandbags",
+        "puzzle",
+        "puzzle_slide",
+        "puzzle_word",
+        "race",
+        "strength",
+        "turn_based",
+        "water",
+        "water_paddling",
+        "water_swim"
+    ]
+}
