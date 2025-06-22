@@ -11,5 +11,6 @@ pandas = "*"
 psycopg2-binary = "*"
 python-dotenv = "*"
 openpyxl = "*"
+SQLAlchemy = "*"
 
 [dev-packages]
