@@ -10,8 +10,8 @@ sys.path.append(str(base_dir))
 
 #Repo imports
 import params
-from utils import setup_logging
-from Database.db_utils import connect_to_db
+from Utils.log_utils import setup_logging
+from Utils.db_utils import connect_to_db
 
 setup_logging(logging.DEBUG)  # Use the desired logging level
 logger = logging.getLogger(__name__)
