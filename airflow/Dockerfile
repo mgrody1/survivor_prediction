@@ -2,9 +2,9 @@ FROM apache/airflow:2.9.1
 
 USER root
 
-# Install system dependencies
+# Install system dependencies (including ffmpeg for diarization pipeline)
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends build-essential git \
+    && apt-get install -y --no-install-recommends build-essential git ffmpeg \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 

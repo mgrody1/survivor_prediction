@@ -28,6 +28,12 @@ dbt-core = "<2.0,>=1.9"  # sync-to-requirements
 dbt-postgres = "<2.0,>=1.9"  # sync-to-requirements
 protobuf = "<7,>=6"
 openpyxl = ">=3.0.0,<4.0"  # sync-to-requirements
+"pyannote.audio" = ">=3.1.0"  # sync-to-requirements
+torch = ">=2.0.0"  # sync-to-requirements
+torchaudio = ">=2.0.0"  # sync-to-requirements
+torchcodec = "*"  # sync-to-requirements
+pyarrow = "*"  # sync-to-requirements (required for parquet file support)
+srt = ">=3.5.0"  # sync-to-requirements
 
 [dev-packages]
 pre-commit = "*"

@@ -3,6 +3,8 @@
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 CREATE SCHEMA IF NOT EXISTS bronze;
+CREATE SCHEMA IF NOT EXISTS silver;
+CREATE SCHEMA IF NOT EXISTS gold;
 
 -- ============================================================================
 -- Bronze Layer metadata
@@ -629,3 +631,69 @@ CREATE INDEX IF NOT EXISTS idx_bronze_vote_history_stage ON bronze.vote_history 
 CREATE INDEX IF NOT EXISTS idx_bronze_advantage_movement_version_season ON bronze.advantage_movement (version_season, advantage_id);
 CREATE INDEX IF NOT EXISTS idx_bronze_auction_details_version_season ON bronze.auction_details (version_season, auction_num, item);
 CREATE INDEX IF NOT EXISTS idx_bronze_survivor_auction_version_season ON bronze.survivor_auction (version_season, episode);
+
+-- =============================================================================
+-- Media Diarization Tables (Optional - for users with source video/audio)
+-- =============================================================================
+-- Raw speaker diarization segments aligned with subtitle data
+-- This table stores per-subtitle-segment speaker assignments from audio analysis
+
+-- Speaker timing metadata only - no copyrighted subtitle text
+-- Text data stays in parquet files for NLP processing, only aggregated features go to silver layer
+CREATE TABLE IF NOT EXISTS bronze.diarization_segments (
+    ingest_run_id UUID NOT NULL DEFAULT uuid_generate_v4(),
+    diarization_segment_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    version_season TEXT NOT NULL,
+    episode INT NOT NULL,
+    subtitle_index INT NOT NULL,
+    start_time DOUBLE PRECISION NOT NULL,
+    end_time DOUBLE PRECISION NOT NULL,
+    duration DOUBLE PRECISION GENERATED ALWAYS AS (end_time - start_time) STORED,
+    speaker_label TEXT NOT NULL,
+    -- Metadata only, no text content
+    source_dataset TEXT DEFAULT 'diarization_pipeline',
+    ingested_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT uq_diarization_segments UNIQUE (version_season, episode, subtitle_index),
+    CONSTRAINT fk_diarization_segments_season FOREIGN KEY (version_season) REFERENCES bronze.season_summary (version_season),
+    CONSTRAINT fk_diarization_segments_episode FOREIGN KEY (version_season, episode) REFERENCES bronze.episodes (version_season, episode),
+    CONSTRAINT fk_diarization_segments_ingest FOREIGN KEY (ingest_run_id) REFERENCES bronze.ingestion_runs(run_id),
+    CONSTRAINT ck_diarization_time_order CHECK (start_time < end_time)
+);
+
+CREATE INDEX IF NOT EXISTS idx_bronze_diarization_segments_ingest ON bronze.diarization_segments (ingest_run_id);
+CREATE INDEX IF NOT EXISTS idx_bronze_diarization_segments_version_season ON bronze.diarization_segments (version_season, episode);
+CREATE INDEX IF NOT EXISTS idx_bronze_diarization_segments_speaker ON bronze.diarization_segments (version_season, episode, speaker_label);
+
+-- ============================================================================
+-- Silver Layer: NLP-derived speech features at castaway-episode level
+-- ============================================================================
+
+-- Aggregated NLP features computed from diarized subtitle text (stored in parquet)
+-- This table contains NO copyrighted text, only derived statistical features
+-- Features are computed using Python NLP libraries, not SQL/dbt
+CREATE TABLE IF NOT EXISTS silver.castaway_episode_speech_features (
+    ingest_run_id UUID NOT NULL,
+    feature_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    version_season TEXT NOT NULL,
+    episode INT NOT NULL,
+    speaker_label TEXT NOT NULL,
+    -- Basic speaking metrics
+    utterance_count INT NOT NULL,
+    total_speaking_seconds DOUBLE PRECISION NOT NULL,
+    mean_utterance_duration DOUBLE PRECISION,
+    share_of_voice DOUBLE PRECISION, -- Proportion of episode speaking time
+    -- Text-derived features (computed from parquet, no raw text stored)
+    total_words INT,
+    mean_words_per_utterance DOUBLE PRECISION,
+    vocabulary_richness DOUBLE PRECISION, -- Unique words / total words
+    -- Placeholder columns for future NLP features
+    -- User will add: sentiment scores, topic distributions, linguistic complexity, etc.
+    computed_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT uq_castaway_episode_speech UNIQUE (version_season, episode, speaker_label),
+    CONSTRAINT fk_speech_features_season FOREIGN KEY (version_season) REFERENCES bronze.season_summary (version_season),
+    CONSTRAINT fk_speech_features_episode FOREIGN KEY (version_season, episode) REFERENCES bronze.episodes (version_season, episode),
+    CONSTRAINT fk_speech_features_ingest FOREIGN KEY (ingest_run_id) REFERENCES bronze.ingestion_runs(run_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_silver_speech_features_version_season ON silver.castaway_episode_speech_features (version_season, episode);
+CREATE INDEX IF NOT EXISTS idx_silver_speech_features_speaker ON silver.castaway_episode_speech_features (speaker_label);

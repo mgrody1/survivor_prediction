@@ -28,6 +28,16 @@ x-airflow-common:
     AIRFLOW_CONN_SURVIVOR_POSTGRES: postgresql+psycopg2://${DB_USER:-survivor_dev}:${DB_PASSWORD:-survivor_dev_password}@warehouse-db:5432/${DB_NAME:-survivor_dw_dev}
     # Set Airflow user ID to match host user for file permissions (GID must always be 0)
     AIRFLOW_UID: ${AIRFLOW_UID}
+    # Diarization configuration (optional feature, disabled by default)
+    ENABLE_DIARIZATION: ${ENABLE_DIARIZATION:-false}
+    SURVIVOR_VIDEO_DIR: ${SURVIVOR_VIDEO_DIR:-}
+    SURVIVOR_SUBTITLE_DIR: ${SURVIVOR_SUBTITLE_DIR:-}
+    SURVIVOR_AUDIO_OUT_DIR: ${SURVIVOR_AUDIO_OUT_DIR:-/opt/airflow/data_cache/survivor_audio}
+    HF_TOKEN: ${HF_TOKEN:-}
+    VERSION_COUNTRY: ${VERSION_COUNTRY:-US}
+    USE_RAY: ${USE_RAY:-false}
+    RAY_ADDRESS: ${RAY_ADDRESS:-auto}
+    PYANNOTE_DIARIZATION_MODEL: ${PYANNOTE_DIARIZATION_MODEL:-pyannote/speaker-diarization-3.1}
   volumes:
     - ../airflow/dags:/opt/airflow/dags
     - ../Database/sql:/opt/airflow/sql
@@ -41,6 +51,8 @@ x-airflow-common:
     - ../run_logs:/opt/airflow/run_logs
     - airflow-logs:/opt/airflow/logs
     - airflow-plugins:/opt/airflow/plugins
+    # Diarization data cache (only needed if ENABLE_DIARIZATION=true)
+    - ../data_cache:/opt/airflow/data_cache
   user: "${AIRFLOW_UID:-1000}:0"
   depends_on:
     redis:
@@ -154,7 +166,7 @@ services:
       DB_NAME: ${DB_NAME:-survivor_dw}
       DB_USER: ${DB_USER:-survivor_user}
       DB_PASSWORD: ${DB_PASSWORD:-survivor_pass}
-      PORT: ${PORT:-5432}
+      DB_PORT: ${DB_PORT:-5432}
       SURVIVOR_ENV: ${SURVIVOR_ENV:-prod}
       GAMEBOT_TARGET_LAYER: ${GAMEBOT_TARGET_LAYER:-gold}
     volumes:

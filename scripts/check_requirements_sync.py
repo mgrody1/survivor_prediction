@@ -67,6 +67,12 @@ def parse_pipfile_packages(pipfile_path: Path) -> Tuple[Dict[str, str], Set[str]
             parts = stripped.split("=", 1)
             package_name = parts[0].strip()
 
+            # Strip quotes from package name if present (e.g., "pyannote.audio")
+            if package_name.startswith('"') and package_name.endswith('"'):
+                package_name = package_name[1:-1]
+            elif package_name.startswith("'") and package_name.endswith("'"):
+                package_name = package_name[1:-1]
+
             # Extract version from various formats
             version_part = parts[1].strip()
 

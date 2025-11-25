@@ -1,0 +1,230 @@
+"""
+Survivor Speaker Diarization Airflow DAG.
+
+This DAG orchestrates the speaker diarization pipeline for Survivor episodes:
+1. Discover Survivor episode video files
+2. Extract audio, run diarization, align subtitles to speakers
+3. Store results in bronze.diarization_segments table
+
+CRITICAL: This DAG imports NO heavy libraries (torch, pyannote, ray) at module level
+to keep Airflow DAG parsing lightweight. All heavy imports happen inside task functions.
+
+OPTIONAL FEATURE: This entire DAG is disabled unless ENABLE_DIARIZATION=true in environment.
+Most users won't have access to source video files, so this is opt-in.
+
+Docker / Environment Setup Notes:
+----------------------------------
+For this DAG to work, the Airflow container needs:
+
+1. **Enable Feature**: Set ENABLE_DIARIZATION=true in environment
+
+2. **Media Mount Access**: Video and subtitle directories must be mounted into the
+   container. Update docker-compose.yml to add volume mounts:
+
+   volumes:
+     - /path/to/videos:/mnt/videos:ro  # Read-only mount
+     - /path/to/subtitles:/mnt/subtitles:ro
+
+3. **ffmpeg Installation**: The Airflow Docker image must include ffmpeg.
+   Add to airflow/Dockerfile:
+
+   RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
+
+4. **Python Dependencies**: Ensure airflow/requirements.txt includes:
+   - pyannote.audio
+   - torch
+   - srt
+   - ray (optional, only if using distributed processing)
+
+5. **Environment Variables**: Add to deploy/docker-compose.yml under airflow-common-env:
+
+   ENABLE_DIARIZATION: true
+   SURVIVOR_VIDEO_DIR: /mnt/videos
+   SURVIVOR_SUBTITLE_DIR: /mnt/subtitles
+   SURVIVOR_AUDIO_OUT_DIR: /opt/airflow/data_cache/survivor_audio
+   HF_TOKEN: your_huggingface_token_here
+   VERSION_COUNTRY: US
+   USE_RAY: false  # Set to true if using Ray cluster
+   RAY_ADDRESS: auto  # Or ray://head-node:10001 for remote cluster
+
+Ray Distributed Processing Notes:
+----------------------------------
+For multi-machine Ray clusters:
+
+1. **Start Ray Cluster Externally**: Do NOT start Ray inside Airflow containers.
+   Instead, start a separate Ray cluster on dedicated machines:
+
+   # On head node:
+   ray start --head --port=6379
+
+   # On worker nodes:
+   ray start --address=head-node-ip:6379
+
+2. **Set Environment Variables**:
+   USE_RAY=true
+   RAY_ADDRESS=ray://head-node-ip:10001  # Ray Client address
+
+3. **Network Access**: Ensure Airflow containers can reach Ray cluster nodes.
+
+For single-machine local Ray (for testing):
+   USE_RAY=true
+   RAY_ADDRESS=auto  # Auto-starts local cluster
+"""
+
+import sys
+from datetime import datetime, timedelta
+from pathlib import Path
+
+from airflow.decorators import dag, task
+from airflow.exceptions import AirflowSkipException
+
+# Ensure repo root is importable (same pattern as survivor_medallion_dag.py)
+for candidate in Path(__file__).resolve().parents:
+    if (candidate / "gamebot_core").exists():
+        if str(candidate) not in sys.path:
+            sys.path.append(str(candidate))
+        break
+
+# Default schedule: run once manually (use @once or None)
+# Users can change to a cron schedule if desired
+DEFAULT_SCHEDULE = None  # Run manually only
+
+default_args = {
+    "owner": "survivor-analytics",
+    "depends_on_past": False,
+    "email_on_failure": False,
+    "email_on_retry": False,
+    "retries": 1,
+    "retry_delay": timedelta(minutes=5),
+}
+
+
+@dag(
+    dag_id="survivor_diarization_pipeline",
+    default_args=default_args,
+    description="Survivor TV show speaker diarization (optional, requires source media)",
+    schedule=DEFAULT_SCHEDULE,
+    start_date=datetime(2025, 11, 24),
+    catchup=False,
+    max_active_runs=1,
+    tags=["survivor", "diarization", "ml", "media", "optional"],
+)
+def survivor_diarization_dag():
+    """
+    Survivor Speaker Diarization Pipeline DAG.
+
+    Tasks:
+    1. check_enabled: Skip entire pipeline if ENABLE_DIARIZATION=false
+    2. list_episodes: Discover all episode video files
+    3. run_diarization_task: Process episodes, save to both parquet and database
+    4. build_nlp_features_task: Compute NLP features from parquet, save to silver table
+    """
+
+    @task()
+    def check_enabled() -> bool:
+        """
+        Check if diarization is enabled. Skip entire DAG if disabled.
+
+        Returns:
+            True if enabled
+
+        Raises:
+            AirflowSkipException: If ENABLE_DIARIZATION=false
+        """
+        import os
+
+        enabled = os.getenv("ENABLE_DIARIZATION", "false").lower() == "true"
+        if not enabled:
+            raise AirflowSkipException(
+                "Diarization pipeline disabled. Set ENABLE_DIARIZATION=true to enable."
+            )
+        return True
+
+    @task()
+    def list_episodes() -> list[str]:
+        """
+        Discover all Survivor episode video files in the configured directory.
+
+        Returns:
+            List of absolute paths to video files (as strings)
+
+        Raises:
+            RuntimeError: If video directory doesn't exist or no episodes found
+        """
+        # Import inside task to avoid DAG parse overhead
+        from gamebot_core.media_diarization import list_all_episode_videos
+
+        episode_paths = list_all_episode_videos()
+        return episode_paths
+
+    @task()
+    def run_diarization_task(episode_paths: list[str]) -> dict:
+        """
+        Run diarization - same code as scripts/diarization_pipeline.py.
+
+        Saves to both parquet (with text) and database (no text).
+        """
+        from gamebot_core.db_utils import get_connection, start_ingest_run, end_ingest_run
+        from gamebot_core.media_diarization import process_single_episode
+
+        conn = get_connection()
+        run_id = start_ingest_run(conn, "survivor_diarization", f"Processing {len(episode_paths)} episodes")
+
+        try:
+            total_segments = 0
+            parquet_count = 0
+
+            for video_path in episode_paths:
+                rows, parquet = process_single_episode(video_path, conn, run_id)
+                total_segments += rows
+                parquet_count += 1
+
+            end_ingest_run(conn, run_id, "success", total_segments)
+
+            return {
+                "episodes": len(episode_paths),
+                "segments": total_segments,
+                "parquet_files": parquet_count,
+                "run_id": str(run_id),
+            }
+        except Exception as e:
+            end_ingest_run(conn, run_id, "failure", notes=str(e))
+            raise
+
+    @task()
+    def build_nlp_features_task(diarization_summary: dict) -> dict:
+        """
+        Build NLP features - same code as scripts/diarization_pipeline.py --features-only.
+
+        Reads parquet files, computes features, saves to silver table.
+        """
+        from gamebot_core.db_utils import get_connection, start_ingest_run, end_ingest_run
+        from gamebot_core.media_diarization import build_speech_features_from_parquet
+
+        conn = get_connection()
+        run_id = start_ingest_run(conn, "survivor_speech_features", "Building NLP features")
+
+        try:
+            rows = build_speech_features_from_parquet(conn, run_id)
+            end_ingest_run(conn, run_id, "success", rows)
+
+            return {
+                "feature_records": rows,
+                "run_id": str(run_id),
+            }
+        except Exception as e:
+            end_ingest_run(conn, run_id, "failure", notes=str(e))
+            raise
+
+    # Wire up task dependencies
+    enabled = check_enabled()
+    episodes = list_episodes()
+    diarization_summary = run_diarization_task(episodes)
+    nlp_features = build_nlp_features_task(diarization_summary)
+
+    # Ensure proper ordering
+    enabled >> episodes >> diarization_summary >> nlp_features
+
+
+# Instantiate the DAG
+survivor_diarization_dag()

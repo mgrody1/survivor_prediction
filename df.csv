@@ -1,0 +1,1929 @@
+,index,start,end,text,speaker,speaker_confidence,version_country,version_season,season,episode,episode_id,subtitle_index,start_time,end_time,speaker_label,subtitle_text,word_count
+0,1,2.752,5.755,"From this tiny, Malaysian
+fishing village,",SPEAKER_06,1.9440312499999997,US,US01,1,1,S01E01,1,2.752,5.755,SPEAKER_06,"From this tiny, Malaysian
+fishing village,",6
+1,2,5.755,8.458,"these 16 Americans are
+beginning the adventure",SPEAKER_06,1.4407812500000006,US,US01,1,1,S01E01,2,5.755,8.458,SPEAKER_06,"these 16 Americans are
+beginning the adventure",7
+2,3,8.958,10.96,of a lifetime.,SPEAKER_06,2.0020000000000007,US,US01,1,1,S01E01,3,8.958,10.96,SPEAKER_06,of a lifetime.,3
+3,4,17.467,21.471,"They have volunteered to
+be marooned for 39 days",SPEAKER_06,1.9406250000000007,US,US01,1,1,S01E01,4,17.467,21.471,SPEAKER_06,"They have volunteered to
+be marooned for 39 days",9
+4,5,21.471,23.473,on mysterious Borneo.,SPEAKER_06,1.9487187500000012,US,US01,1,1,S01E01,5,21.471,23.473,SPEAKER_06,on mysterious Borneo.,3
+5,6,26.893,28.395,This is their story.,SPEAKER_06,1.144656249999997,US,US01,1,1,S01E01,6,26.893,28.395,SPEAKER_06,This is their story.,4
+6,7,28.395,31.398,This is Survivor.,SPEAKER_06,2.0278437500000024,US,US01,1,1,S01E01,7,28.395,31.398,SPEAKER_06,This is Survivor.,3
+7,8,84.741,86.824,survivor season1 episode1,UNKNOWN,0.0,US,US01,1,1,S01E01,8,84.741,86.824,UNKNOWN,survivor season1 episode1,3
+8,9,92.125,93.126,Are we getting two of these?,SPEAKER_11,0.9069062500000058,US,US01,1,1,S01E01,9,92.125,93.126,SPEAKER_11,Are we getting two of these?,6
+9,10,93.426,95.728,Where's that box?,SPEAKER_06,0.9112500000000097,US,US01,1,1,S01E01,10,93.426,95.728,SPEAKER_06,Where's that box?,3
+10,11,95.829,98.832,"JEFF: You are witnessing 16
+Americans begin an adventure",SPEAKER_06,3.003,US,US01,1,1,S01E01,11,95.829,98.832,SPEAKER_06,"JEFF: You are witnessing 16
+Americans begin an adventure",9
+11,12,98.832,100.333,"that will forever
+change their lives.",SPEAKER_06,1.5010000000000048,US,US01,1,1,S01E01,12,98.832,100.333,SPEAKER_06,"that will forever
+change their lives.",6
+12,13,100.834,103.336,"They've been given two minutes
+to salvage whatever they can",SPEAKER_06,2.5019999999999953,US,US01,1,1,S01E01,13,100.834,103.336,SPEAKER_06,"They've been given two minutes
+to salvage whatever they can",10
+13,14,103.336,104.838,off this boat.,SPEAKER_06,1.5019999999999953,US,US01,1,1,S01E01,14,103.336,104.838,SPEAKER_06,off this boat.,3
+14,15,108.441,110.443,"Their destination: this
+island right here,",SPEAKER_06,2.0019999999999953,US,US01,1,1,S01E01,15,108.441,110.443,SPEAKER_06,"Their destination: this
+island right here,",6
+15,16,110.543,111.845,"a beautiful, but
+dangerous jungle",SPEAKER_06,1.3019999999999925,US,US01,1,1,S01E01,16,110.543,111.845,SPEAKER_06,"a beautiful, but
+dangerous jungle",5
+16,17,111.845,114.747,"in the middle in the
+South China Sea.",SPEAKER_06,2.902000000000001,US,US01,1,1,S01E01,17,111.845,114.747,SPEAKER_06,"in the middle in the
+South China Sea.",8
+17,18,115.148,116.749,Who's got oars?!,SPEAKER_17,1.600999999999999,US,US01,1,1,S01E01,18,115.148,116.749,SPEAKER_17,Who's got oars?!,3
+18,19,116.749,118.751,"Oh, we got our lifejackets.",SPEAKER_17,2.0020000000000095,US,US01,1,1,S01E01,19,116.749,118.751,SPEAKER_17,"Oh, we got our lifejackets.",5
+19,20,118.751,120.653,"For the next 39 days,
+they'll be marooned,",SPEAKER_06,1.902000000000001,US,US01,1,1,S01E01,20,118.751,120.653,SPEAKER_06,"For the next 39 days,
+they'll be marooned,",8
+20,21,120.653,121.654,"left to fend for themselves,",SPEAKER_06,1.0009999999999906,US,US01,1,1,S01E01,21,120.653,121.654,SPEAKER_06,"left to fend for themselves,",5
+21,22,121.955,122.956,no creature comforts.,SPEAKER_06,1.0010000000000048,US,US01,1,1,S01E01,22,121.955,122.956,SPEAKER_06,no creature comforts.,3
+22,23,122.956,125.959,They are wiping the slate clean.,SPEAKER_06,2.624968750000008,US,US01,1,1,S01E01,23,122.956,125.959,SPEAKER_06,They are wiping the slate clean.,6
+23,24,126.459,128.461,Grab it!,SPEAKER_06,0.9731562500000024,US,US01,1,1,S01E01,24,126.459,128.461,SPEAKER_06,Grab it!,2
+24,25,128.461,129.963,"16 strangers forced
+to band together",SPEAKER_06,1.5019999999999811,US,US01,1,1,S01E01,25,128.461,129.963,SPEAKER_06,"16 strangers forced
+to band together",6
+25,26,129.963,131.464,"to carve out a new existence,",SPEAKER_06,1.5010000000000048,US,US01,1,1,S01E01,26,129.963,131.464,SPEAKER_06,"to carve out a new existence,",6
+26,27,131.564,133.566,"totally accountable
+for their actions.",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,27,131.564,133.566,SPEAKER_06,"totally accountable
+for their actions.",5
+27,28,133.666,135.668,"They must learn to adapt,
+or they're voted off.",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,28,133.666,135.668,SPEAKER_06,"They must learn to adapt,
+or they're voted off.",9
+28,29,136.169,140.273,"In the end, only
+one will remain",SPEAKER_06,3.4026562499999784,US,US01,1,1,S01E01,29,136.169,140.273,SPEAKER_06,"In the end, only
+one will remain",7
+29,30,140.673,141.674,and will leave the island,SPEAKER_06,1.0010000000000048,US,US01,1,1,S01E01,30,140.673,141.674,SPEAKER_06,and will leave the island,5
+30,31,141.674,143.676,"with $1 million in
+cash as their reward.",SPEAKER_06,2.001999999999981,US,US01,1,1,S01E01,31,141.674,143.676,SPEAKER_06,"with $1 million in
+cash as their reward.",8
+31,32,143.877,145.378,"Go, go, go!",SPEAKER_06,0.6883437500000014,US,US01,1,1,S01E01,32,143.877,145.378,SPEAKER_06,"Go, go, go!",3
+32,33,145.578,149.382,"39 days, 16 people,
+one survivor.",SPEAKER_06,2.885468750000001,US,US01,1,1,S01E01,33,145.578,149.382,SPEAKER_06,"39 days, 16 people,
+one survivor.",6
+33,34,149.682,151.684,"Grab it! Hey, behind you!",SPEAKER_11,1.4681249999999864,US,US01,1,1,S01E01,34,149.682,151.684,SPEAKER_11,"Grab it! Hey, behind you!",5
+34,35,151.784,152.785,Get off the raft!,UNKNOWN,0.0,US,US01,1,1,S01E01,35,151.784,152.785,UNKNOWN,Get off the raft!,4
+35,36,153.286,154.287,Get off the other side!,UNKNOWN,0.0,US,US01,1,1,S01E01,36,153.286,154.287,UNKNOWN,Get off the other side!,5
+36,37,154.287,155.788,Get off the raft!,SPEAKER_11,1.4689062500000034,US,US01,1,1,S01E01,37,154.287,155.788,SPEAKER_11,Get off the raft!,4
+37,38,157.29,158.791,"The rod, Sean!",SPEAKER_11,0.11812499999999204,US,US01,1,1,S01E01,38,157.29,158.791,SPEAKER_11,"The rod, Sean!",3
+38,39,158.791,159.792,Listen up!,SPEAKER_11,0.8829062499999907,US,US01,1,1,S01E01,39,158.791,159.792,SPEAKER_11,Listen up!,2
+39,40,159.993,161.494,Grab your backpacks!,SPEAKER_11,1.5010000000000048,US,US01,1,1,S01E01,40,159.993,161.494,SPEAKER_11,Grab your backpacks!,3
+40,41,161.995,162.996,Put them on!,SPEAKER_11,0.8300312499999905,US,US01,1,1,S01E01,41,161.995,162.996,SPEAKER_11,Put them on!,3
+41,42,163.096,164.097,Go! Let's do it!,SPEAKER_11,1.0010000000000048,US,US01,1,1,S01E01,42,163.096,164.097,SPEAKER_11,Go! Let's do it!,4
+42,43,164.197,164.697,Whoo!,SPEAKER_11,0.5,US,US01,1,1,S01E01,43,164.197,164.697,SPEAKER_11,Whoo!,1
+43,44,166.099,168.401,Here we go!,UNKNOWN,0.0,US,US01,1,1,S01E01,44,166.099,168.401,UNKNOWN,Here we go!,3
+44,45,171.171,172.739,Whoo!,UNKNOWN,0.0,US,US01,1,1,S01E01,45,171.171,172.739,UNKNOWN,Whoo!,1
+45,46,173.239,176.743,"The 16 contestants have been
+separated into two tribes",SPEAKER_06,2.8657812499999977,US,US01,1,1,S01E01,46,173.239,176.743,SPEAKER_06,"The 16 contestants have been
+separated into two tribes",9
+46,47,176.743,179.846,"named after the beaches
+where they will live.",SPEAKER_06,3.1030000000000086,US,US01,1,1,S01E01,47,176.743,179.846,SPEAKER_06,"named after the beaches
+where they will live.",8
+47,48,180.046,182.048,"The Tagi Tribe, who will
+always wear orange,",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,48,180.046,182.048,SPEAKER_06,"The Tagi Tribe, who will
+always wear orange,",8
+48,49,182.348,185.852,"consists of: Sean Kenniff a
+neurologist from Long Island;",SPEAKER_06,3.3754687500000102,US,US01,1,1,S01E01,49,182.348,185.852,SPEAKER_06,"consists of: Sean Kenniff a
+neurologist from Long Island;",9
+49,50,185.852,189.756,"Kelly Wiglesworth, a river
+guide from Las Vegas;",SPEAKER_06,2.935656249999994,US,US01,1,1,S01E01,50,185.852,189.756,SPEAKER_06,"Kelly Wiglesworth, a river
+guide from Las Vegas;",8
+50,51,189.956,193.56,"Rudy Boesch, a retired
+Navy SEAL from Virginia;",SPEAKER_06,3.6040000000000134,US,US01,1,1,S01E01,51,189.956,193.56,SPEAKER_06,"Rudy Boesch, a retired
+Navy SEAL from Virginia;",8
+51,52,193.56,196.563,"Sonja Christopher, a
+63-year-old cancer survivor",SPEAKER_06,2.807031249999966,US,US01,1,1,S01E01,52,193.56,196.563,SPEAKER_06,"Sonja Christopher, a
+63-year-old cancer survivor",6
+52,53,196.563,198.064,from San Francisco;,SPEAKER_06,1.5010000000000048,US,US01,1,1,S01E01,53,196.563,198.064,SPEAKER_06,from San Francisco;,3
+53,54,198.264,201.467,"Richard Hatch, a corporate
+communications consultant",SPEAKER_06,3.203000000000003,US,US01,1,1,S01E01,54,198.264,201.467,SPEAKER_06,"Richard Hatch, a corporate
+communications consultant",6
+54,55,201.467,202.969,from Rhode Island;,SPEAKER_06,1.0470937499999877,US,US01,1,1,S01E01,55,201.467,202.969,SPEAKER_06,from Rhode Island;,3
+55,56,203.069,205.972,"Susan Hawk, a truck
+driver from Wisconsin;",SPEAKER_06,2.4960312499999873,US,US01,1,1,S01E01,56,203.069,205.972,SPEAKER_06,"Susan Hawk, a truck
+driver from Wisconsin;",7
+56,57,206.472,209.876,"Dirk Been, a young dairy
+farmer, also from Wisconsin,",SPEAKER_06,3.4039999999999964,US,US01,1,1,S01E01,57,206.472,209.876,SPEAKER_06,"Dirk Been, a young dairy
+farmer, also from Wisconsin,",9
+57,58,209.876,212.879,"and Stacey Stillman, a
+litigation attorney",SPEAKER_06,2.146781249999975,US,US01,1,1,S01E01,58,209.876,212.879,SPEAKER_06,"and Stacey Stillman, a
+litigation attorney",6
+58,59,212.879,214.38,from San Francisco.,SPEAKER_06,1.44759375000001,US,US01,1,1,S01E01,59,212.879,214.38,SPEAKER_06,from San Francisco.,3
+59,60,221.654,224.557,"The Pagong Tribe, who
+will always wear yellow,",SPEAKER_06,1.3372812499999611,US,US01,1,1,S01E01,60,221.654,224.557,SPEAKER_06,"The Pagong Tribe, who
+will always wear yellow,",8
+60,61,224.557,226.559,consists of:,SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,61,224.557,226.559,SPEAKER_06,consists of:,2
+61,62,226.759,228.761,"Gervase Peterson, a
+YMCA basketball coach",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,62,226.759,228.761,SPEAKER_06,"Gervase Peterson, a
+YMCA basketball coach",6
+62,63,229.262,231.264,from Philadelphia;,SPEAKER_06,1.7370937500000139,US,US01,1,1,S01E01,63,229.262,231.264,SPEAKER_06,from Philadelphia;,2
+63,64,231.264,235.168,"Colleen Haskell, an advertising
+student from Miami;",SPEAKER_06,3.2745312499999955,US,US01,1,1,S01E01,64,231.264,235.168,SPEAKER_06,"Colleen Haskell, an advertising
+student from Miami;",7
+64,65,235.668,239.272,"B.B. Andersen, a real estate
+developer from Kansas city;",SPEAKER_06,3.3412500000000023,US,US01,1,1,S01E01,65,235.668,239.272,SPEAKER_06,"B.B. Andersen, a real estate
+developer from Kansas city;",9
+65,66,239.772,243.576,"Ramona Gray, a biochemist
+from New Jersey;",SPEAKER_06,1.7549999999999955,US,US01,1,1,S01E01,66,239.772,243.576,SPEAKER_06,"Ramona Gray, a biochemist
+from New Jersey;",7
+66,67,243.576,247.58,"Gretchen Cordy, a preschool
+teacher from Tennessee;",SPEAKER_06,1.8562499999999886,US,US01,1,1,S01E01,67,243.576,247.58,SPEAKER_06,"Gretchen Cordy, a preschool
+teacher from Tennessee;",7
+67,68,247.58,251.584,"Greg Buis, a recent Ivy League
+graduate from Colorado;",SPEAKER_06,3.558031249999999,US,US01,1,1,S01E01,68,247.58,251.584,SPEAKER_06,"Greg Buis, a recent Ivy League
+graduate from Colorado;",9
+68,69,251.985,254.587,"Jenna Lewis, a single mother
+and full-time student",SPEAKER_06,2.0891562499999736,US,US01,1,1,S01E01,69,251.985,254.587,SPEAKER_06,"Jenna Lewis, a single mother
+and full-time student",8
+69,70,254.587,256.589,"from new Hampshire,",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,70,254.587,256.589,SPEAKER_06,"from new Hampshire,",3
+70,71,256.689,260.593,"and Joel Klug, a health club
+consultant from Little Rock.",SPEAKER_06,3.375,US,US01,1,1,S01E01,71,256.689,260.593,SPEAKER_06,"and Joel Klug, a health club
+consultant from Little Rock.",10
+71,72,265.331,267.834,"(shouting orders
+to each other)",UNKNOWN,0.0,US,US01,1,1,S01E01,72,265.331,267.834,UNKNOWN,"(shouting orders
+to each other)",5
+72,73,268.334,270.336,"Hard to imagine that
+just four hours ago,",SPEAKER_06,1.46940625000002,US,US01,1,1,S01E01,73,268.334,270.336,SPEAKER_06,"Hard to imagine that
+just four hours ago,",8
+73,74,270.336,272.338,"this group met for
+the first time",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,74,270.336,272.338,SPEAKER_06,"this group met for
+the first time",7
+74,75,272.338,275.341,"in a small fishing village
+on the coast of Borneo.",SPEAKER_06,3.002999999999986,US,US01,1,1,S01E01,75,272.338,275.341,SPEAKER_06,"in a small fishing village
+on the coast of Borneo.",10
+75,76,275.341,277.343,"Their minds racing
+with questions,",SPEAKER_06,2.0020000000000095,US,US01,1,1,S01E01,76,275.341,277.343,SPEAKER_06,"Their minds racing
+with questions,",5
+76,77,277.343,279.846,"wondering, ""Can I do this?""",SPEAKER_06,2.502999999999986,US,US01,1,1,S01E01,77,277.343,279.846,SPEAKER_06,"wondering, ""Can I do this?""",5
+77,78,283.149,286.052,"This is more than just a
+test of survival skills.",SPEAKER_06,2.453531250000026,US,US01,1,1,S01E01,78,283.149,286.052,SPEAKER_06,"This is more than just a
+test of survival skills.",10
+78,79,286.552,288.554,"It's also a test
+of social skills.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,79,286.552,288.554,SPEAKER_06,"It's also a test
+of social skills.",7
+79,80,289.055,292.458,"Here, it's the impressions you
+make on the other castaways",SPEAKER_06,3.40300000000002,US,US01,1,1,S01E01,80,289.055,292.458,SPEAKER_06,"Here, it's the impressions you
+make on the other castaways",10
+80,81,292.458,294.46,that determines your fate.,SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,81,292.458,294.46,SPEAKER_06,that determines your fate.,4
+81,82,294.46,297.363,"Under the rules, one tribe
+must visit Tribal Council",SPEAKER_06,2.90300000000002,US,US01,1,1,S01E01,82,294.46,297.363,SPEAKER_06,"Under the rules, one tribe
+must visit Tribal Council",9
+82,83,297.664,299.165,"every three days with
+a single purpose:",SPEAKER_06,1.5010000000000332,US,US01,1,1,S01E01,83,297.664,299.165,SPEAKER_06,"every three days with
+a single purpose:",7
+83,84,299.565,303.069,"vote one of their own
+members off the island.",SPEAKER_06,3.203468750000013,US,US01,1,1,S01E01,84,299.565,303.069,SPEAKER_06,"vote one of their own
+members off the island.",9
+84,85,303.069,305.571,"To win, you must
+survive the island,",SPEAKER_06,1.0981562499999882,US,US01,1,1,S01E01,85,303.069,305.571,SPEAKER_06,"To win, you must
+survive the island,",7
+85,86,305.872,307.373,"survive the vote,",SPEAKER_06,0.8582812499999477,US,US01,1,1,S01E01,86,305.872,307.373,SPEAKER_06,"survive the vote,",3
+86,87,307.473,309.375,"and, ultimately,
+survive each other.",SPEAKER_06,1.2234062499999823,US,US01,1,1,S01E01,87,307.473,309.375,SPEAKER_06,"and, ultimately,
+survive each other.",5
+87,88,309.876,310.877,Whoo!,SPEAKER_06,0.5199687500000323,US,US01,1,1,S01E01,88,309.876,310.877,SPEAKER_06,Whoo!,1
+88,89,310.877,312.879,I'm giving you a degree--,UNKNOWN,0.0,US,US01,1,1,S01E01,89,310.877,312.879,UNKNOWN,I'm giving you a degree--,5
+89,90,313.379,314.881,a university honorary degree.,SPEAKER_13,0.30374999999997954,US,US01,1,1,S01E01,90,313.379,314.881,SPEAKER_13,a university honorary degree.,4
+90,91,314.881,316.883,Whoo!,SPEAKER_13,0.8606250000000273,US,US01,1,1,S01E01,91,314.881,316.883,SPEAKER_13,Whoo!,1
+91,92,316.883,318.384,"Damn, when you guys get up,",UNKNOWN,0.0,US,US01,1,1,S01E01,92,316.883,318.384,UNKNOWN,"Damn, when you guys get up,",6
+92,93,318.384,319.886,now the whole thing goes...,SPEAKER_11,1.221281250000004,US,US01,1,1,S01E01,93,318.384,319.886,SPEAKER_11,now the whole thing goes...,5
+93,94,319.886,321.387,Whoa! Watch out!,SPEAKER_11,0.0843749999999659,US,US01,1,1,S01E01,94,319.886,321.387,SPEAKER_11,Whoa! Watch out!,3
+94,95,322.388,323.389,Here we go.,UNKNOWN,0.0,US,US01,1,1,S01E01,95,322.388,323.389,UNKNOWN,Here we go.,3
+95,96,323.89,326.392,"We got a great view
+of Snake Island!",SPEAKER_09,2.5020000000000095,US,US01,1,1,S01E01,96,323.89,326.392,SPEAKER_09,"We got a great view
+of Snake Island!",8
+96,97,326.392,327.894,Get to work.,SPEAKER_09,1.5020000000000095,US,US01,1,1,S01E01,97,326.392,327.894,SPEAKER_09,Get to work.,3
+97,98,327.894,329.896,We got oars. We got buckets.,SPEAKER_09,2.0020000000000095,US,US01,1,1,S01E01,98,327.894,329.896,SPEAKER_09,We got oars. We got buckets.,6
+98,99,330.096,331.597,We're set for months.,SPEAKER_18,1.5009999999999764,US,US01,1,1,S01E01,99,330.096,331.597,SPEAKER_18,We're set for months.,4
+99,100,331.998,335.001,"Hey, who knows, we could
+make a mud house with it.",SPEAKER_18,3.002999999999986,US,US01,1,1,S01E01,100,331.998,335.001,SPEAKER_18,"Hey, who knows, we could
+make a mud house with it.",11
+100,101,335.301,336.803,"You know, that could
+be like rebar.",SPEAKER_18,1.5020000000000095,US,US01,1,1,S01E01,101,335.301,336.803,SPEAKER_18,"You know, that could
+be like rebar.",7
+101,102,337.303,339.806,"RUDY: Paddling over, we had
+two or three of those boxes",SPEAKER_26,2.502999999999986,US,US01,1,1,S01E01,102,337.303,339.806,SPEAKER_26,"RUDY: Paddling over, we had
+two or three of those boxes",11
+102,103,339.806,340.807,"in the water,",SPEAKER_26,1.0010000000000332,US,US01,1,1,S01E01,103,339.806,340.807,SPEAKER_26,"in the water,",3
+103,104,341.307,343.81,dragging them behind the raft,SPEAKER_26,1.6914687500000127,US,US01,1,1,S01E01,104,341.307,343.81,SPEAKER_26,dragging them behind the raft,5
+104,105,343.81,345.311,and that is dumb.,SPEAKER_26,0.4203437500000291,US,US01,1,1,S01E01,105,343.81,345.311,SPEAKER_26,and that is dumb.,4
+105,106,345.311,347.313,"I said, ""Let's get
+them boxes aboard.",SPEAKER_26,2.0020000000000095,US,US01,1,1,S01E01,106,345.311,347.313,SPEAKER_26,"I said, ""Let's get
+them boxes aboard.",7
+106,107,347.313,348.815,"It'll be a lot easier.""",SPEAKER_26,1.5020000000000095,US,US01,1,1,S01E01,107,347.313,348.815,SPEAKER_26,"It'll be a lot easier.""",5
+107,108,348.815,350.817,"You know, ""That's
+deadweight you got.""",SPEAKER_26,2.0020000000000095,US,US01,1,1,S01E01,108,348.815,350.817,SPEAKER_26,"You know, ""That's
+deadweight you got.""",6
+108,109,351.217,353.219,"KELLY: He was yelling
+at everybody",SPEAKER_19,1.5636562499999513,US,US01,1,1,S01E01,109,351.217,353.219,SPEAKER_19,"KELLY: He was yelling
+at everybody",6
+109,110,353.219,354.721,"""Let's lose the box!",SPEAKER_19,1.5020000000000095,US,US01,1,1,S01E01,110,353.219,354.721,SPEAKER_19,"""Let's lose the box!",4
+110,111,354.721,356.723,"Cut it loose now!""",SPEAKER_19,2.0020000000000095,US,US01,1,1,S01E01,111,354.721,356.723,SPEAKER_19,"Cut it loose now!""",4
+111,112,356.723,359.225,"He may be 72 years old
+and an ex-Navy SEAL,",SPEAKER_19,2.5020000000000095,US,US01,1,1,S01E01,112,356.723,359.225,SPEAKER_19,"He may be 72 years old
+and an ex-Navy SEAL,",10
+112,113,359.225,362.228,"but that doesn't mean
+that this is his world.",SPEAKER_19,2.926593749999995,US,US01,1,1,S01E01,113,359.225,362.228,SPEAKER_19,"but that doesn't mean
+that this is his world.",9
+113,114,362.228,365.231,"RICHARD: Rudy, Sean, Stacey,
+Sue, can we take 15 minutes",SPEAKER_05,2.7250312499999723,US,US01,1,1,S01E01,114,362.228,365.231,SPEAKER_05,"RICHARD: Rudy, Sean, Stacey,
+Sue, can we take 15 minutes",10
+114,115,365.231,367.233,"and just talk before
+we do anything?",SPEAKER_05,2.0020000000000095,US,US01,1,1,S01E01,115,365.231,367.233,SPEAKER_05,"and just talk before
+we do anything?",7
+115,116,367.233,368.735,Sure.,SPEAKER_05,1.5020000000000095,US,US01,1,1,S01E01,116,367.233,368.735,SPEAKER_05,Sure.,1
+116,117,368.735,369.736,Can we piss first?,SPEAKER_11,0.7837812499999472,US,US01,1,1,S01E01,117,368.735,369.736,SPEAKER_11,Can we piss first?,4
+117,118,370.236,372.238,Just a suggestion.,SPEAKER_11,2.0020000000000095,US,US01,1,1,S01E01,118,370.236,372.238,SPEAKER_11,Just a suggestion.,3
+118,119,378.845,379.846,Should we take a break?,SPEAKER_05,0.3806562499999586,US,US01,1,1,S01E01,119,378.845,379.846,SPEAKER_05,Should we take a break?,5
+119,120,379.846,381.347,"No, keep paddling!",SPEAKER_05,1.424968750000005,US,US01,1,1,S01E01,120,379.846,381.347,SPEAKER_05,"No, keep paddling!",3
+120,121,381.547,383.049,One break at a time!,SPEAKER_00,1.5019999999999527,US,US01,1,1,S01E01,121,381.547,383.049,SPEAKER_00,One break at a time!,5
+121,122,383.049,385.051,One water break at a time.,SPEAKER_00,2.0020000000000095,US,US01,1,1,S01E01,122,383.049,385.051,SPEAKER_00,One water break at a time.,6
+122,123,385.551,387.053,"We want to get
+closer to the island",SPEAKER_05,1.5020000000000095,US,US01,1,1,S01E01,123,385.551,387.053,SPEAKER_05,"We want to get
+closer to the island",8
+123,124,387.553,388.554,before we turn up.,SPEAKER_00,1.0009999999999764,US,US01,1,1,S01E01,124,387.553,388.554,SPEAKER_00,before we turn up.,4
+124,125,388.554,389.956,"I'll distill you all
+the water you want,",SPEAKER_00,1.4020000000000437,US,US01,1,1,S01E01,125,388.554,389.956,SPEAKER_00,"I'll distill you all
+the water you want,",8
+125,126,390.456,391.457,just get me to the island.,SPEAKER_00,1.0009999999999764,US,US01,1,1,S01E01,126,390.456,391.457,SPEAKER_00,just get me to the island.,6
+126,127,391.958,394.06,"You guys, we are so close.",SPEAKER_17,1.6684062499999754,US,US01,1,1,S01E01,127,391.958,394.06,SPEAKER_17,"You guys, we are so close.",6
+127,128,394.06,395.561,"Keep going, we're there.",SPEAKER_00,1.1781562499999723,US,US01,1,1,S01E01,128,394.06,395.561,SPEAKER_00,"Keep going, we're there.",4
+128,129,395.561,397.563,(retching noise),SPEAKER_00,0.47559375000003,US,US01,1,1,S01E01,129,395.561,397.563,SPEAKER_00,(retching noise),2
+129,130,397.563,399.565,You all right?,SPEAKER_17,1.1659062499999777,US,US01,1,1,S01E01,130,397.563,399.565,SPEAKER_17,You all right?,3
+130,131,399.766,401.267,"We're almost there,
+Roe, hang in.",SPEAKER_17,1.2149687500000255,US,US01,1,1,S01E01,131,399.766,401.267,SPEAKER_17,"We're almost there,
+Roe, hang in.",6
+131,132,401.768,402.268,Okay.,SPEAKER_17,0.4264062499999568,US,US01,1,1,S01E01,132,401.768,402.268,SPEAKER_17,Okay.,1
+132,133,402.769,404.27,Got it going right over here.,SPEAKER_17,1.1650937500000396,US,US01,1,1,S01E01,133,402.769,404.27,SPEAKER_17,Got it going right over here.,6
+133,134,404.37,405.872,"Straight ahead of us.
+Where'd he point?",SPEAKER_17,0.6075000000000159,US,US01,1,1,S01E01,134,404.37,405.872,SPEAKER_17,"Straight ahead of us.
+Where'd he point?",7
+134,135,405.872,407.573,"Right there.
+Straight up there.",SPEAKER_17,1.0739062499999363,US,US01,1,1,S01E01,135,405.872,407.573,SPEAKER_17,"Right there.
+Straight up there.",5
+135,136,412.378,414.881,Whoo! And we're all here.,UNKNOWN,0.0,US,US01,1,1,S01E01,136,412.378,414.881,UNKNOWN,Whoo! And we're all here.,5
+136,137,414.881,416.382,Let's go.,SPEAKER_11,0.5062499999999659,US,US01,1,1,S01E01,137,414.881,416.382,SPEAKER_11,Let's go.,2
+137,138,418.384,419.886,Yeah!,UNKNOWN,0.0,US,US01,1,1,S01E01,138,418.384,419.886,UNKNOWN,Yeah!,1
+138,139,419.886,422.889,Whoo-hoo!,SPEAKER_11,0.10124999999999318,US,US01,1,1,S01E01,139,419.886,422.889,SPEAKER_11,Whoo-hoo!,1
+139,140,422.889,424.39,"This is what I was
+talking about!",SPEAKER_07,0.89778124999998,US,US01,1,1,S01E01,140,422.889,424.39,SPEAKER_07,"This is what I was
+talking about!",7
+140,141,427.093,430.596,"Ramona, how you doing, honey?",SPEAKER_19,1.6200000000000045,US,US01,1,1,S01E01,141,427.093,430.596,SPEAKER_19,"Ramona, how you doing, honey?",5
+141,142,430.596,436.102,"RAMONA: I don't like being
+on the water all that much.",SPEAKER_21,3.750406249999969,US,US01,1,1,S01E01,142,430.596,436.102,SPEAKER_21,"RAMONA: I don't like being
+on the water all that much.",11
+142,143,436.102,439.105,"So, I mean, the whole
+motion like this,",SPEAKER_21,3.0030000000000427,US,US01,1,1,S01E01,143,436.102,439.105,SPEAKER_21,"So, I mean, the whole
+motion like this,",8
+143,144,439.105,440.106,"and we're rowing,",SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,144,439.105,440.106,SPEAKER_21,"and we're rowing,",3
+144,145,440.606,443.109,"and we have like 100 pounds
+of stuff on the raft,",SPEAKER_21,2.502999999999986,US,US01,1,1,S01E01,145,440.606,443.109,SPEAKER_21,"and we have like 100 pounds
+of stuff on the raft,",11
+145,146,443.109,445.111,"I just, I started heaving.",SPEAKER_21,1.4025312499999814,US,US01,1,1,S01E01,146,443.109,445.111,SPEAKER_21,"I just, I started heaving.",5
+146,147,445.611,447.113,Good job. Good job.,SPEAKER_21,1.5020000000000095,US,US01,1,1,S01E01,147,445.611,447.113,SPEAKER_21,Good job. Good job.,4
+147,148,447.613,451.117,"RAMONA: I'm used to being in
+a lab with my lab coat on,",SPEAKER_21,3.504000000000019,US,US01,1,1,S01E01,148,447.613,451.117,SPEAKER_21,"RAMONA: I'm used to being in
+a lab with my lab coat on,",13
+148,149,451.117,454.12,in the air-conditioning.,SPEAKER_21,3.002999999999986,US,US01,1,1,S01E01,149,451.117,454.12,SPEAKER_21,in the air-conditioning.,3
+149,150,454.32,456.823,"But this is, like,
+outdoors, 24-7,",SPEAKER_21,2.502999999999986,US,US01,1,1,S01E01,150,454.32,456.823,SPEAKER_21,"But this is, like,
+outdoors, 24-7,",6
+150,151,456.823,461.327,"and you're exerting energy,
+like, almost all of that time.",SPEAKER_21,4.504000000000019,US,US01,1,1,S01E01,151,456.823,461.327,SPEAKER_21,"and you're exerting energy,
+like, almost all of that time.",10
+151,152,462.829,464.831,"Oh, my God.",SPEAKER_21,0.84375,US,US01,1,1,S01E01,152,462.829,464.831,SPEAKER_21,"Oh, my God.",3
+152,153,465.331,467.834,This is just Day One.,SPEAKER_21,1.0462499999999864,US,US01,1,1,S01E01,153,465.331,467.834,SPEAKER_21,This is just Day One.,5
+153,154,472.839,474.841,"Should we, uh, you know,
+talk for a little bit,",SPEAKER_19,1.8712812499999814,US,US01,1,1,S01E01,154,472.839,474.841,SPEAKER_19,"Should we, uh, you know,
+talk for a little bit,",10
+154,155,475.341,476.843,"or should we start
+moving stuff up?",SPEAKER_19,1.5020000000000095,US,US01,1,1,S01E01,155,475.341,476.843,SPEAKER_19,"or should we start
+moving stuff up?",7
+155,156,477.243,478.244,"Hey, let's discuss
+some things, man.",SPEAKER_26,1.0010000000000332,US,US01,1,1,S01E01,156,477.243,478.244,SPEAKER_26,"Hey, let's discuss
+some things, man.",6
+156,157,478.744,479.745,Let's figure some things out.,SPEAKER_26,1.0009999999999764,US,US01,1,1,S01E01,157,478.744,479.745,SPEAKER_26,Let's figure some things out.,5
+157,158,480.046,481.047,Here's what we plan on doing.,SPEAKER_26,1.0010000000000332,US,US01,1,1,S01E01,158,480.046,481.047,SPEAKER_26,Here's what we plan on doing.,6
+158,159,481.047,483.049,"High tide is that line right
+there, see that line?",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,159,481.047,483.049,SPEAKER_26,"High tide is that line right
+there, see that line?",10
+159,160,483.549,484.05,"Yeah, uh-huh.",SPEAKER_26,0.5010000000000332,US,US01,1,1,S01E01,160,483.549,484.05,SPEAKER_26,"Yeah, uh-huh.",2
+160,161,484.55,485.551,"So it shouldn't
+come up to here.",SPEAKER_26,1.0009999999999764,US,US01,1,1,S01E01,161,484.55,485.551,SPEAKER_26,"So it shouldn't
+come up to here.",7
+161,162,485.551,487.053,"And this piece of
+bamboo back he re,",SPEAKER_26,1.5020000000000095,US,US01,1,1,S01E01,162,485.551,487.053,SPEAKER_26,"And this piece of
+bamboo back he re,",8
+162,163,487.053,489.055,"we can lay it from up
+here, over to there,",SPEAKER_26,2.0020000000000095,US,US01,1,1,S01E01,163,487.053,489.055,SPEAKER_26,"we can lay it from up
+here, over to there,",10
+163,164,489.055,491.057,"and that'll be the
+beginning of our shelter.",SPEAKER_10,2.0020000000000095,US,US01,1,1,S01E01,164,489.055,491.057,SPEAKER_10,"and that'll be the
+beginning of our shelter.",8
+164,165,491.557,493.059,"Actually, before we
+build a shelter,",SPEAKER_10,1.5020000000000095,US,US01,1,1,S01E01,165,491.557,493.059,SPEAKER_10,"Actually, before we
+build a shelter,",6
+165,166,493.059,494.861,"just knock that
+whole branch off.",SPEAKER_18,1.801999999999964,US,US01,1,1,S01E01,166,493.059,494.861,SPEAKER_18,"just knock that
+whole branch off.",6
+166,167,494.861,496.362,"No, I mean, this is
+an awesome spot.",SPEAKER_18,1.5010000000000332,US,US01,1,1,S01E01,167,494.861,496.362,SPEAKER_18,"No, I mean, this is
+an awesome spot.",8
+167,168,496.863,497.864,I'm just saying...,SPEAKER_18,1.0009999999999764,US,US01,1,1,S01E01,168,496.863,497.864,SPEAKER_18,I'm just saying...,3
+168,169,497.864,499.866,"What's the first
+thing we need to do?",SPEAKER_08,2.0020000000000095,US,US01,1,1,S01E01,169,497.864,499.866,SPEAKER_08,"What's the first
+thing we need to do?",8
+169,170,499.866,501.367,Shelter. We need a latrine.,SPEAKER_08,1.5010000000000332,US,US01,1,1,S01E01,170,499.866,501.367,SPEAKER_08,Shelter. We need a latrine.,5
+170,171,501.367,503.369,"Okay, so we don't
+need fire tonight?",SPEAKER_09,2.0020000000000095,US,US01,1,1,S01E01,171,501.367,503.369,SPEAKER_09,"Okay, so we don't
+need fire tonight?",7
+171,172,503.369,504.67,That's an option.,SPEAKER_09,1.3009999999999877,US,US01,1,1,S01E01,172,503.369,504.67,SPEAKER_09,That's an option.,3
+172,173,504.67,506.172,"We got enough water
+to make it tonight.",SPEAKER_09,1.5020000000000095,US,US01,1,1,S01E01,173,504.67,506.172,SPEAKER_09,"We got enough water
+to make it tonight.",8
+173,174,506.672,508.774,"You guys, I think first
+thing we ought to do",SPEAKER_27,1.5649062499999786,US,US01,1,1,S01E01,174,506.672,508.774,SPEAKER_27,"You guys, I think first
+thing we ought to do",10
+174,175,508.774,510.776,"is talk about how
+we're going to do",SPEAKER_27,2.0020000000000095,US,US01,1,1,S01E01,175,508.774,510.776,SPEAKER_27,"is talk about how
+we're going to do",8
+175,176,510.776,512.278,whatever we're going to do--,SPEAKER_27,1.5020000000000095,US,US01,1,1,S01E01,176,510.776,512.278,SPEAKER_27,whatever we're going to do--,5
+176,177,512.278,513.779,talk about the process.,SPEAKER_27,1.29296875,US,US01,1,1,S01E01,177,512.278,513.779,SPEAKER_27,talk about the process.,4
+177,178,513.779,514.78,"Listen, listen.",SPEAKER_26,0.7534062499998981,US,US01,1,1,S01E01,178,513.779,514.78,SPEAKER_26,"Listen, listen.",2
+178,179,515.281,516.282,Let me give you a rough quick.,SPEAKER_26,1.00100000000009,US,US01,1,1,S01E01,179,515.281,516.282,SPEAKER_26,Let me give you a rough quick.,7
+179,180,516.782,518.284,The camp will be right there.,SPEAKER_26,1.5019999999999527,US,US01,1,1,S01E01,180,516.782,518.284,SPEAKER_26,The camp will be right there.,6
+180,181,518.384,519.385,We'll clear these leaves off.,SPEAKER_26,1.0009999999999764,US,US01,1,1,S01E01,181,518.384,519.385,SPEAKER_26,We'll clear these leaves off.,5
+181,182,519.385,520.887,That's a flat piece of ground.,SPEAKER_26,1.5019999999999527,US,US01,1,1,S01E01,182,519.385,520.887,SPEAKER_26,That's a flat piece of ground.,6
+182,183,520.887,522.388,The latrine will be down there.,SPEAKER_26,0.7845312499999864,US,US01,1,1,S01E01,183,520.887,522.388,SPEAKER_26,The latrine will be down there.,6
+183,184,522.388,524.39,"The wind's hitting me
+in the back right now.",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,184,522.388,524.39,SPEAKER_26,"The wind's hitting me
+in the back right now.",9
+184,185,524.39,526.592,"SEAN: So, we're saying
+we need a latrine",SPEAKER_08,1.3435312499999554,US,US01,1,1,S01E01,185,524.39,526.592,SPEAKER_08,"SEAN: So, we're saying
+we need a latrine",8
+185,186,526.993,528.494,"and a clear place to
+sleep, is that all?",SPEAKER_08,1.5009999999999764,US,US01,1,1,S01E01,186,526.993,528.494,SPEAKER_08,"and a clear place to
+sleep, is that all?",9
+186,187,528.895,529.896,Food.,SPEAKER_08,1.0009999999999764,US,US01,1,1,S01E01,187,528.895,529.896,SPEAKER_08,Food.,1
+187,188,529.896,531.397,And if we need more...,SPEAKER_17,1.50100000000009,US,US01,1,1,S01E01,188,529.896,531.397,SPEAKER_17,And if we need more...,5
+188,189,531.397,533.199,"Let's check the box, before
+we make any decisions.",SPEAKER_17,1.8019999999999072,US,US01,1,1,S01E01,189,531.397,533.199,SPEAKER_17,"Let's check the box, before
+we make any decisions.",9
+189,190,533.699,534.7,Let's see what we got.,SPEAKER_27,0.7271562500000073,US,US01,1,1,S01E01,190,533.699,534.7,SPEAKER_27,Let's see what we got.,5
+190,191,534.901,537.403,"There might be a
+blowtorch in there.",SPEAKER_27,2.5020000000000664,US,US01,1,1,S01E01,191,534.901,537.403,SPEAKER_27,"There might be a
+blowtorch in there.",7
+191,192,537.803,538.804,We need a bathroom.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,192,537.803,538.804,SPEAKER_27,We need a bathroom.,4
+192,193,538.804,540.306,Are you guys all done talking?,SPEAKER_27,1.5020000000000664,US,US01,1,1,S01E01,193,538.804,540.306,SPEAKER_27,Are you guys all done talking?,6
+193,194,540.306,541.807,Huh?,SPEAKER_27,0.35437500000011823,US,US01,1,1,S01E01,194,540.306,541.807,SPEAKER_27,Huh?,1
+194,195,542.008,543.509,I don't know.,SPEAKER_27,0.3881250000001728,US,US01,1,1,S01E01,195,542.008,543.509,SPEAKER_27,I don't know.,3
+195,196,544.01,544.51,I'm done.,UNKNOWN,0.0,US,US01,1,1,S01E01,196,544.01,544.51,UNKNOWN,I'm done.,2
+196,197,545.011,546.012,I'm going to open up a box.,SPEAKER_07,1.0009999999999764,US,US01,1,1,S01E01,197,545.011,546.012,SPEAKER_07,I'm going to open up a box.,7
+197,198,546.012,547.513,I'm looking for Fritos.,SPEAKER_07,1.50100000000009,US,US01,1,1,S01E01,198,546.012,547.513,SPEAKER_07,I'm looking for Fritos.,4
+198,199,547.513,549.615,"DIRK: Rich, um, I appreciate
+what he's trying to do",SPEAKER_08,1.5177812499998709,US,US01,1,1,S01E01,199,547.513,549.615,SPEAKER_08,"DIRK: Rich, um, I appreciate
+what he's trying to do",10
+199,200,549.615,551.617,"as far as bring the team
+together and stuff,",SPEAKER_08,2.0019999999999527,US,US01,1,1,S01E01,200,549.615,551.617,SPEAKER_08,"as far as bring the team
+together and stuff,",9
+200,201,551.918,553.419,"'cause that's one thing
+that needs to happen.",SPEAKER_08,1.5009999999999764,US,US01,1,1,S01E01,201,551.918,553.419,SPEAKER_08,"'cause that's one thing
+that needs to happen.",8
+201,202,553.419,555.421,"I think he's got some
+good skills in that area.",SPEAKER_08,2.0020000000000664,US,US01,1,1,S01E01,202,553.419,555.421,SPEAKER_08,"I think he's got some
+good skills in that area.",10
+202,203,555.421,557.423,"And, unfortunately, people
+like that annoy me.",SPEAKER_08,2.0019999999999527,US,US01,1,1,S01E01,203,555.421,557.423,SPEAKER_08,"And, unfortunately, people
+like that annoy me.",7
+203,204,557.423,558.925,"I'm just thinking,",SPEAKER_18,1.1077812500000164,US,US01,1,1,S01E01,204,557.423,558.925,SPEAKER_18,"I'm just thinking,",3
+204,205,558.925,560.426,"I think we're off
+to a bad start.",SPEAKER_27,1.393781249999961,US,US01,1,1,S01E01,205,558.925,560.426,SPEAKER_27,"I think we're off
+to a bad start.",8
+205,206,560.927,562.428,"Why, 'cause we're not talking?",SPEAKER_18,1.5009999999999764,US,US01,1,1,S01E01,206,560.927,562.428,SPEAKER_18,"Why, 'cause we're not talking?",5
+206,207,562.428,563.429,Yeah.,SPEAKER_18,0.5698437500001319,US,US01,1,1,S01E01,207,562.428,563.429,SPEAKER_18,Yeah.,1
+207,208,563.429,565.431,"Sometimes, though,
+Richard, um,",SPEAKER_18,2.0020000000000664,US,US01,1,1,S01E01,208,563.429,565.431,SPEAKER_18,"Sometimes, though,
+Richard, um,",4
+208,209,565.431,566.933,you kind of got to do things,SPEAKER_18,0.7964062500000182,US,US01,1,1,S01E01,209,565.431,566.933,SPEAKER_18,you kind of got to do things,7
+209,210,567.433,568.434,"and talk as you go along,",SPEAKER_18,1.0009999999999764,US,US01,1,1,S01E01,210,567.433,568.434,SPEAKER_18,"and talk as you go along,",6
+210,211,568.935,571.938,"and sometimes things can't
+be that planned out.",SPEAKER_18,2.1937500000001364,US,US01,1,1,S01E01,211,568.935,571.938,SPEAKER_18,"and sometimes things can't
+be that planned out.",8
+211,212,571.938,572.939,I agree with you.,SPEAKER_27,0.6430312500000355,US,US01,1,1,S01E01,212,571.938,572.939,SPEAKER_27,I agree with you.,4
+212,213,573.439,575.942,"The problem with having no
+conversation whatsoever,",SPEAKER_27,2.5030000000000427,US,US01,1,1,S01E01,213,573.439,575.942,SPEAKER_27,"The problem with having no
+conversation whatsoever,",7
+213,214,575.942,577.944,"or lots of people talking
+about different things",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,214,575.942,577.944,SPEAKER_27,"or lots of people talking
+about different things",8
+214,215,578.444,580.947,"is that nobody's working
+toward a particular goal.",SPEAKER_27,2.5030000000000427,US,US01,1,1,S01E01,215,578.444,580.947,SPEAKER_27,"is that nobody's working
+toward a particular goal.",8
+215,216,580.947,582.448,"Not the silly
+little stuff about,",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,216,580.947,582.448,SPEAKER_27,"Not the silly
+little stuff about,",6
+216,217,582.448,583.95,"oh, who's going
+to sleep where?",SPEAKER_27,1.5020000000000664,US,US01,1,1,S01E01,217,582.448,583.95,SPEAKER_27,"oh, who's going
+to sleep where?",6
+217,218,583.95,585.451,What are we going to do?,SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,218,583.95,585.451,SPEAKER_27,What are we going to do?,6
+218,219,585.451,586.452,But why are we here?,SPEAKER_27,0.4630937500000982,US,US01,1,1,S01E01,219,585.451,586.452,SPEAKER_27,But why are we here?,5
+219,220,586.452,587.453,And what's the point?,SPEAKER_27,0.7964062500000182,US,US01,1,1,S01E01,220,586.452,587.453,SPEAKER_27,And what's the point?,4
+220,221,587.453,588.955,And if we don't...,SPEAKER_27,1.5020000000000664,US,US01,1,1,S01E01,221,587.453,588.955,SPEAKER_27,And if we don't...,4
+221,222,588.955,591.457,"Oh, I figured that out
+before I come here.",SPEAKER_18,1.7684687499998972,US,US01,1,1,S01E01,222,588.955,591.457,SPEAKER_18,"Oh, I figured that out
+before I come here.",9
+222,223,591.457,592.959,For you... And you haven't?,SPEAKER_18,0.8020937500001537,US,US01,1,1,S01E01,223,591.457,592.959,SPEAKER_18,For you... And you haven't?,5
+223,224,592.959,594.46,"And I have for me,",SPEAKER_27,1.4246562499999982,US,US01,1,1,S01E01,224,592.959,594.46,SPEAKER_27,"And I have for me,",5
+224,225,594.46,595.962,but we haven't for us.,SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,225,594.46,595.962,SPEAKER_27,but we haven't for us.,5
+225,226,595.962,597.463,"And for the next
+seven ejections,",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,226,595.962,597.463,SPEAKER_27,"And for the next
+seven ejections,",6
+226,227,597.463,599.966,"21 days, we have to
+function together,",SPEAKER_27,2.5030000000000427,US,US01,1,1,S01E01,227,597.463,599.966,SPEAKER_27,"21 days, we have to
+function together,",7
+227,228,599.966,600.967,or we fail.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,228,599.966,600.967,SPEAKER_27,or we fail.,3
+228,229,601.467,602.969,"What do you think
+we're doing now?",SPEAKER_18,1.5020000000000664,US,US01,1,1,S01E01,229,601.467,602.969,SPEAKER_18,"What do you think
+we're doing now?",7
+229,230,602.969,604.47,"Not functioning
+together at all.",SPEAKER_27,1.355718750000051,US,US01,1,1,S01E01,230,602.969,604.47,SPEAKER_27,"Not functioning
+together at all.",5
+230,231,604.47,606.872,"I'm a redneck, and I don't
+know corporate world at all,",SPEAKER_18,2.40199999999993,US,US01,1,1,S01E01,231,604.47,606.872,SPEAKER_18,"I'm a redneck, and I don't
+know corporate world at all,",11
+231,232,606.872,608.874,"and corporate world ain't
+gonna work out here",SPEAKER_18,2.0020000000000664,US,US01,1,1,S01E01,232,606.872,608.874,SPEAKER_18,"and corporate world ain't
+gonna work out here",8
+232,233,608.874,609.875,in the bush.,SPEAKER_18,1.0009999999999764,US,US01,1,1,S01E01,233,608.874,609.875,SPEAKER_18,in the bush.,3
+233,234,610.376,611.877,"No, I'm not talking
+corporate world.",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,234,610.376,611.877,SPEAKER_27,"No, I'm not talking
+corporate world.",6
+234,235,611.877,613.379,I'm talking creating a team.,SPEAKER_27,1.5020000000000664,US,US01,1,1,S01E01,235,611.877,613.379,SPEAKER_27,I'm talking creating a team.,5
+235,236,613.479,614.48,I thought we were doing good.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,236,613.479,614.48,SPEAKER_27,I thought we were doing good.,6
+236,237,614.48,615.982,"But, see, creating a team",SPEAKER_17,1.5019999999999527,US,US01,1,1,S01E01,237,614.48,615.982,SPEAKER_17,"But, see, creating a team",5
+237,238,615.982,618.484,"is actually putting all
+of our hands together...",SPEAKER_17,2.5020000000000664,US,US01,1,1,S01E01,238,615.982,618.484,SPEAKER_17,"is actually putting all
+of our hands together...",8
+238,239,618.985,620.486,"Not hands, all of us
+knowing what we're doing.",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,239,618.985,620.486,SPEAKER_27,"Not hands, all of us
+knowing what we're doing.",9
+239,240,620.486,622.488,"Yeah, the hand thing,
+yeah, but that's...",SPEAKER_17,2.0020000000000664,US,US01,1,1,S01E01,240,620.486,622.488,SPEAKER_17,"Yeah, the hand thing,
+yeah, but that's...",7
+240,241,622.688,624.19,"Action, man. Action, Richard.",SPEAKER_17,1.5020000000000664,US,US01,1,1,S01E01,241,622.688,624.19,SPEAKER_17,"Action, man. Action, Richard.",4
+241,242,624.39,625.391,Action.,SPEAKER_17,1.0009999999999764,US,US01,1,1,S01E01,242,624.39,625.391,SPEAKER_17,Action.,1
+242,243,625.391,628.394,"Well, you don't
+want to act ahead.",SPEAKER_27,2.1824062499999854,US,US01,1,1,S01E01,243,625.391,628.394,SPEAKER_27,"Well, you don't
+want to act ahead.",7
+243,244,628.394,631.897,"RICHARD: I'm good
+to go survivalwise.",SPEAKER_27,1.6691562499999009,US,US01,1,1,S01E01,244,628.394,631.897,SPEAKER_27,"RICHARD: I'm good
+to go survivalwise.",6
+244,245,631.897,634.4,"Peoplewise, it'll be a
+little more challenging.",SPEAKER_27,2.502999999999929,US,US01,1,1,S01E01,245,631.897,634.4,SPEAKER_27,"Peoplewise, it'll be a
+little more challenging.",7
+245,246,634.4,636.902,"But I've got the million
+dollar check written already.",SPEAKER_27,2.5020000000000664,US,US01,1,1,S01E01,246,634.4,636.902,SPEAKER_27,"But I've got the million
+dollar check written already.",9
+246,247,637.403,638.404,"I mean, I'm the winner.",SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,247,637.403,638.404,SPEAKER_27,"I mean, I'm the winner.",5
+247,248,638.904,641.407,"And it's that kind of cocky
+attitude that makes people",SPEAKER_27,2.5030000000000427,US,US01,1,1,S01E01,248,638.904,641.407,SPEAKER_27,"And it's that kind of cocky
+attitude that makes people",10
+248,249,641.407,642.908,really hate your guts.,SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,249,641.407,642.908,SPEAKER_27,really hate your guts.,4
+249,250,642.908,645.911,"So that's the kind of thing,
+I've really got to keep, uh...",SPEAKER_27,2.7942187499999136,US,US01,1,1,S01E01,250,642.908,645.911,SPEAKER_27,"So that's the kind of thing,
+I've really got to keep, uh...",12
+250,251,645.911,647.913,under wraps.,SPEAKER_27,0.9282812500000546,US,US01,1,1,S01E01,251,645.911,647.913,SPEAKER_27,under wraps.,2
+251,252,647.913,651.917,"But, uh, it's just, how
+do I get there from here?",SPEAKER_27,2.5987499999998818,US,US01,1,1,S01E01,252,647.913,651.917,SPEAKER_27,"But, uh, it's just, how
+do I get there from here?",11
+252,253,661.327,662.328,What's that?,UNKNOWN,0.0,US,US01,1,1,S01E01,253,661.327,662.328,UNKNOWN,What's that?,2
+253,254,662.328,663.829,"Whoa! Look at this, folks.",SPEAKER_10,1.4036562499998126,US,US01,1,1,S01E01,254,662.328,663.829,SPEAKER_10,"Whoa! Look at this, folks.",5
+254,255,664.33,667.833,"If this is kerosene, and we
+didn't take one of those lamps...",SPEAKER_10,2.319531249999841,US,US01,1,1,S01E01,255,664.33,667.833,SPEAKER_10,"If this is kerosene, and we
+didn't take one of those lamps...",12
+255,256,667.833,670.336,"We can make torches and
+stuff out of twine.",SPEAKER_10,2.5030000000000427,US,US01,1,1,S01E01,256,667.833,670.336,SPEAKER_10,"We can make torches and
+stuff out of twine.",9
+256,257,670.336,672.338,"We could twine all
+the rafts together.",SPEAKER_10,2.0019999999999527,US,US01,1,1,S01E01,257,670.336,672.338,SPEAKER_10,"We could twine all
+the rafts together.",7
+257,258,672.538,673.039,JOEL: What is that?,SPEAKER_10,0.45109374999992724,US,US01,1,1,S01E01,258,672.538,673.039,SPEAKER_10,JOEL: What is that?,4
+258,259,673.039,674.04,Biscuits.,SPEAKER_00,0.8275937500000055,US,US01,1,1,S01E01,259,673.039,674.04,SPEAKER_00,Biscuits.,1
+259,260,674.44,675.941,"Yeah, it's
+definitely biscuits,",SPEAKER_10,1.5009999999999764,US,US01,1,1,S01E01,260,674.44,675.941,SPEAKER_10,"Yeah, it's
+definitely biscuits,",4
+260,261,675.941,676.942,'cause we got corn...,SPEAKER_10,0.9630937500000982,US,US01,1,1,S01E01,261,675.941,676.942,SPEAKER_10,'cause we got corn...,4
+261,262,676.942,678.444,"Well, look, we got
+a frying pan.",SPEAKER_10,1.2361562500000218,US,US01,1,1,S01E01,262,676.942,678.444,SPEAKER_10,"Well, look, we got
+a frying pan.",7
+262,263,678.444,679.445,"Oh, we are so set.",SPEAKER_10,1.00100000000009,US,US01,1,1,S01E01,263,678.444,679.445,SPEAKER_10,"Oh, we are so set.",5
+263,264,679.945,680.546,"Look, I'm shaking it.",SPEAKER_09,0.46940625000002,US,US01,1,1,S01E01,264,679.945,680.546,SPEAKER_09,"Look, I'm shaking it.",4
+264,265,681.047,682.048,Can anyone hear the biscuits?,SPEAKER_10,0.41334374999996726,US,US01,1,1,S01E01,265,681.047,682.048,SPEAKER_10,Can anyone hear the biscuits?,5
+265,266,682.448,683.949,"Oh, ho, we got a team flag.",SPEAKER_11,1.5009999999999764,US,US01,1,1,S01E01,266,682.448,683.949,SPEAKER_11,"Oh, ho, we got a team flag.",7
+266,267,683.949,685.451,Whoo-hoo!,SPEAKER_11,1.2407187500001555,US,US01,1,1,S01E01,267,683.949,685.451,SPEAKER_11,Whoo-hoo!,1
+267,268,685.451,686.952,"If that's our latrine,",SPEAKER_10,0.9354062499999145,US,US01,1,1,S01E01,268,685.451,686.952,SPEAKER_10,"If that's our latrine,",4
+268,269,687.053,687.553,"I say we dig a hole,",SPEAKER_10,0.5,US,US01,1,1,S01E01,269,687.053,687.553,SPEAKER_10,"I say we dig a hole,",6
+269,270,688.054,689.355,"put this here, knock a board",SPEAKER_10,1.3010000000000446,US,US01,1,1,S01E01,270,688.054,689.355,SPEAKER_10,"put this here, knock a board",6
+270,271,689.355,690.856,"out of the bottom,
+then we can keep",SPEAKER_10,1.5009999999999764,US,US01,1,1,S01E01,271,689.355,690.856,SPEAKER_10,"out of the bottom,
+then we can keep",8
+271,272,690.956,691.457,moving it across.,SPEAKER_10,0.5009999999999764,US,US01,1,1,S01E01,272,690.956,691.457,SPEAKER_10,moving it across.,3
+272,273,691.957,693.259,Let's plug the hole.,SPEAKER_10,1.302000000000021,US,US01,1,1,S01E01,273,691.957,693.259,SPEAKER_10,Let's plug the hole.,4
+273,274,693.259,695.261,"SEAN: Let's sit down and
+talk about what the hell",SPEAKER_10,2.0019999999999527,US,US01,1,1,S01E01,274,693.259,695.261,SPEAKER_10,"SEAN: Let's sit down and
+talk about what the hell",10
+274,275,695.261,696.262,we're going to do.,SPEAKER_10,1.0009999999999764,US,US01,1,1,S01E01,275,695.261,696.262,SPEAKER_10,we're going to do.,4
+275,276,696.762,697.763,RICHARD: Can I help?,SPEAKER_27,0.6412500000001273,US,US01,1,1,S01E01,276,696.762,697.763,SPEAKER_27,RICHARD: Can I help?,4
+276,277,698.164,700.166,"When I asked earlier about
+having a conversation,",SPEAKER_27,2.0020000000000664,US,US01,1,1,S01E01,277,698.164,700.166,SPEAKER_27,"When I asked earlier about
+having a conversation,",8
+277,278,700.166,701.667,"that's what I was talking about,",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,278,700.166,701.667,SPEAKER_27,"that's what I was talking about,",6
+278,279,701.667,703.669,"and I really can help
+with how we can do this.",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,279,701.667,703.669,SPEAKER_27,"and I really can help
+with how we can do this.",11
+279,280,704.17,705.171,We wanted to see...,SPEAKER_27,0.5750312499999382,US,US01,1,1,S01E01,280,704.17,705.171,SPEAKER_27,We wanted to see...,4
+280,281,705.171,706.672,"You guys, we came
+over here to talk.",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,281,705.171,706.672,SPEAKER_27,"You guys, we came
+over here to talk.",8
+281,282,706.672,708.174,We just want to see what we...,SPEAKER_27,0.28646875000004,US,US01,1,1,S01E01,282,706.672,708.174,SPEAKER_27,We just want to see what we...,7
+282,283,708.174,710.176,"RICHARD: What happens when
+people get together is",SPEAKER_27,1.5637812500000337,US,US01,1,1,S01E01,283,708.174,710.176,SPEAKER_27,"RICHARD: What happens when
+people get together is",8
+283,284,710.676,712.678,"if they aren't all headed
+in the same direction,",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,284,710.676,712.678,SPEAKER_27,"if they aren't all headed
+in the same direction,",9
+284,285,713.079,716.582,"toward a particular goal, then
+things that individuals do",SPEAKER_27,3.5030000000000427,US,US01,1,1,S01E01,285,713.079,716.582,SPEAKER_27,"toward a particular goal, then
+things that individuals do",9
+285,286,717.083,720.086,"kind of get in the way of
+the whole team, and I think",SPEAKER_27,3.0030000000000427,US,US01,1,1,S01E01,286,717.083,720.086,SPEAKER_27,"kind of get in the way of
+the whole team, and I think",13
+286,287,720.586,723.089,"it's really, really important
+that what we decide",SPEAKER_27,2.5030000000000427,US,US01,1,1,S01E01,287,720.586,723.089,SPEAKER_27,"it's really, really important
+that what we decide",8
+287,288,723.589,724.59,be decided as a group.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,288,723.589,724.59,SPEAKER_27,be decided as a group.,5
+288,289,724.99,726.992,"So, if you hear somebody
+saying something",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,289,724.99,726.992,SPEAKER_27,"So, if you hear somebody
+saying something",7
+289,290,727.193,728.694,"and you're all aggravated
+with them, stop,",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,290,727.193,728.694,SPEAKER_27,"and you're all aggravated
+with them, stop,",7
+290,291,728.694,729.695,don't try to make your point,SPEAKER_27,1.00100000000009,US,US01,1,1,S01E01,291,728.694,729.695,SPEAKER_27,don't try to make your point,6
+291,292,730.196,731.197,"and try and help
+them make theirs.",SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,292,730.196,731.197,SPEAKER_27,"and try and help
+them make theirs.",7
+292,293,731.697,733.199,"So, for example,
+you know, Sean,",SPEAKER_27,0.6749062499999354,US,US01,1,1,S01E01,293,731.697,733.199,SPEAKER_27,"So, for example,
+you know, Sean,",6
+293,294,733.199,735.201,what do you think a main point,SPEAKER_27,2.0020000000000664,US,US01,1,1,S01E01,294,733.199,735.201,SPEAKER_27,what do you think a main point,7
+294,295,735.201,737.203,"of what I'm trying
+to say now is?",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,295,735.201,737.203,SPEAKER_27,"of what I'm trying
+to say now is?",8
+295,296,737.603,738.604,I didn't listen to a word you...,SPEAKER_10,0.7811562500000946,US,US01,1,1,S01E01,296,737.603,738.604,SPEAKER_10,I didn't listen to a word you...,7
+296,297,739.105,741.607,"I've been daydreaming, thinking,
+""What am I going to eat?""",SPEAKER_10,1.3879062500000146,US,US01,1,1,S01E01,297,739.105,741.607,SPEAKER_10,"I've been daydreaming, thinking,
+""What am I going to eat?""",10
+297,298,741.607,743.609,"Well, you'll begin to
+figure that out...",SPEAKER_10,1.7002187499999764,US,US01,1,1,S01E01,298,741.607,743.609,SPEAKER_10,"Well, you'll begin to
+figure that out...",7
+298,299,761.527,763.028,"All right, we got a stick up.",SPEAKER_10,1.130625000000009,US,US01,1,1,S01E01,299,761.527,763.028,SPEAKER_10,"All right, we got a stick up.",7
+299,300,765.03,767.032,"Well, as long as they can hit
+the middle of this hole,",SPEAKER_26,1.0785312500000828,US,US01,1,1,S01E01,300,765.03,767.032,SPEAKER_26,"Well, as long as they can hit
+the middle of this hole,",12
+300,301,767.533,768.033,we're all set here.,SPEAKER_26,0.5,US,US01,1,1,S01E01,301,767.533,768.033,SPEAKER_26,we're all set here.,4
+301,302,768.534,769.535,Put it right like this.,UNKNOWN,0.0,US,US01,1,1,S01E01,302,768.534,769.535,UNKNOWN,Put it right like this.,5
+302,303,769.535,770.536,This is perfect.,UNKNOWN,0.0,US,US01,1,1,S01E01,303,769.535,770.536,UNKNOWN,This is perfect.,3
+303,304,777.743,779.745,"Hey, we found a water map!",SPEAKER_17,0.78090624999993,US,US01,1,1,S01E01,304,777.743,779.745,SPEAKER_17,"Hey, we found a water map!",6
+304,305,779.745,780.746,You got it?,SPEAKER_17,0.5184687500001246,US,US01,1,1,S01E01,305,779.745,780.746,SPEAKER_17,You got it?,3
+305,306,780.946,781.947,We got a water map.,SPEAKER_17,0.6204062499999736,US,US01,1,1,S01E01,306,780.946,781.947,SPEAKER_17,We got a water map.,5
+306,307,782.248,783.749,"B.B.: ""Enter jungle here.""",SPEAKER_05,1.2411562499999036,US,US01,1,1,S01E01,307,782.248,783.749,SPEAKER_05,"B.B.: ""Enter jungle here.""",4
+307,308,784.049,786.051,"""Walk 375 paces",SPEAKER_05,2.0020000000000664,US,US01,1,1,S01E01,308,784.049,786.051,SPEAKER_05,"""Walk 375 paces",3
+308,309,786.252,787.753,"along...""",SPEAKER_05,1.50100000000009,US,US01,1,1,S01E01,309,786.252,787.753,SPEAKER_05,"along...""",1
+309,310,787.753,788.754,"Oh, we start here.",SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,310,787.753,788.754,SPEAKER_05,"Oh, we start here.",4
+310,311,788.754,791.257,"We go back to the other
+stream down there",SPEAKER_05,2.502999999999929,US,US01,1,1,S01E01,311,788.754,791.257,SPEAKER_05,"We go back to the other
+stream down there",9
+311,312,791.757,793.759,"and then we get
+the water here.",SPEAKER_05,1.2808437500001446,US,US01,1,1,S01E01,312,791.757,793.759,SPEAKER_05,"and then we get
+the water here.",7
+312,313,793.759,796.262,"B.B.: Here's where
+we are right here.",SPEAKER_05,0.7266562499999054,US,US01,1,1,S01E01,313,793.759,796.262,SPEAKER_05,"B.B.: Here's where
+we are right here.",7
+313,314,796.362,797.863,"We have to go
+across the stream.",SPEAKER_05,1.50100000000009,US,US01,1,1,S01E01,314,796.362,797.863,SPEAKER_05,"We have to go
+across the stream.",7
+314,315,797.863,799.365,We go across one stream...,SPEAKER_05,0.5410937500000728,US,US01,1,1,S01E01,315,797.863,799.365,SPEAKER_05,We go across one stream...,5
+315,316,799.365,802.368,"s. two streams, three streams.
+Two streams, three stream",SPEAKER_05,3.0030000000000427,US,US01,1,1,S01E01,316,799.365,802.368,SPEAKER_05,"s. two streams, three streams.
+Two streams, three stream",9
+316,317,802.368,803.369,All right.,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,317,802.368,803.369,SPEAKER_05,All right.,2
+317,318,803.869,805.371,"All right, we're
+ready to roll.",SPEAKER_21,0.5206562499998881,US,US01,1,1,S01E01,318,803.869,805.371,SPEAKER_21,"All right, we're
+ready to roll.",6
+318,319,805.371,806.872,All right.,SPEAKER_21,1.5009999999999764,US,US01,1,1,S01E01,319,805.371,806.872,SPEAKER_21,All right.,2
+319,320,806.972,809.475,You all right?,SPEAKER_21,0.4734062500000391,US,US01,1,1,S01E01,320,806.972,809.475,SPEAKER_21,You all right?,3
+320,321,811.977,813.479,"Okay, is this the path?",SPEAKER_21,1.1192812500000855,US,US01,1,1,S01E01,321,811.977,813.479,SPEAKER_21,"Okay, is this the path?",5
+321,322,813.979,815.481,"Well, it said
+""newly cut path.""",SPEAKER_05,0.9444062499999291,US,US01,1,1,S01E01,322,813.979,815.481,SPEAKER_05,"Well, it said
+""newly cut path.""",6
+322,323,815.481,816.482,"It looks newly cut, but...",SPEAKER_05,0.9118437500001164,US,US01,1,1,S01E01,323,815.481,816.482,SPEAKER_05,"It looks newly cut, but...",5
+323,324,816.982,817.983,"""trail washes out.""",SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,324,816.982,817.983,SPEAKER_21,"""trail washes out.""",3
+324,325,817.983,819.485,"Oh, the trail washesout.",SPEAKER_05,1.5020000000000664,US,US01,1,1,S01E01,325,817.983,819.485,SPEAKER_05,"Oh, the trail washesout.",4
+325,326,819.485,820.486,"Oh, wa...?",SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,326,819.485,820.486,SPEAKER_05,"Oh, wa...?",2
+326,327,820.486,822.988,No?,SPEAKER_05,1.0705937500000573,US,US01,1,1,S01E01,327,820.486,822.988,SPEAKER_05,No?,1
+327,328,822.988,825.991,"B.B.: Why don't you stay
+there for a minute?",SPEAKER_05,1.2619062500000382,US,US01,1,1,S01E01,328,822.988,825.991,SPEAKER_05,"B.B.: Why don't you stay
+there for a minute?",9
+328,329,825.991,826.992,Let me walk,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,329,825.991,826.992,SPEAKER_05,Let me walk,3
+329,330,827.293,828.294,and keep you in sight...,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,330,827.293,828.294,SPEAKER_05,and keep you in sight...,5
+330,331,828.294,829.295,Okay.,SPEAKER_13,0.303749999999809,US,US01,1,1,S01E01,331,828.294,829.295,SPEAKER_13,Okay.,1
+331,332,829.295,830.296,...to see if I see...,SPEAKER_05,1.00100000000009,US,US01,1,1,S01E01,332,829.295,830.296,SPEAKER_05,...to see if I see...,5
+332,333,830.296,831.797,Anything?,SPEAKER_05,0.3224687500000982,US,US01,1,1,S01E01,333,830.296,831.797,SPEAKER_05,Anything?,1
+333,334,831.797,834.3,"...anything that
+resembles anything.",SPEAKER_05,1.4539687500000582,US,US01,1,1,S01E01,334,831.797,834.3,SPEAKER_05,"...anything that
+resembles anything.",4
+334,335,834.8,836.302,(sighs),UNKNOWN,0.0,US,US01,1,1,S01E01,335,834.8,836.302,UNKNOWN,(sighs),1
+335,336,836.802,837.803,Do you see anything?,SPEAKER_21,0.6032812499998954,US,US01,1,1,S01E01,336,836.802,837.803,SPEAKER_21,Do you see anything?,4
+336,337,838.304,839.305,Huh?,UNKNOWN,0.0,US,US01,1,1,S01E01,337,838.304,839.305,UNKNOWN,Huh?,1
+337,338,839.805,842.808,Look here.,SPEAKER_05,0.6243750000001,US,US01,1,1,S01E01,338,839.805,842.808,SPEAKER_05,Look here.,2
+338,339,843.309,844.81,"I mean, come here
+and look at it.",SPEAKER_05,1.1469687500000418,US,US01,1,1,S01E01,339,843.309,844.81,SPEAKER_05,"I mean, come here
+and look at it.",8
+339,340,844.91,846.412,"Okay, ready?",SPEAKER_21,0.1672812500000873,US,US01,1,1,S01E01,340,844.91,846.412,SPEAKER_21,"Okay, ready?",2
+340,341,846.812,848.314,"Oh, thank you, Jesus.",SPEAKER_21,0.6011562499999172,US,US01,1,1,S01E01,341,846.812,848.314,SPEAKER_21,"Oh, thank you, Jesus.",4
+341,342,848.814,849.315,Christ!,SPEAKER_21,0.50100000000009,US,US01,1,1,S01E01,342,848.814,849.315,SPEAKER_21,Christ!,1
+342,343,849.815,850.316,Yeah.,SPEAKER_21,0.5009999999999764,US,US01,1,1,S01E01,343,849.815,850.316,SPEAKER_21,Yeah.,1
+343,344,850.816,851.817,There we are. Go ahead.,SPEAKER_05,0.9147812500000327,US,US01,1,1,S01E01,344,850.816,851.817,SPEAKER_05,There we are. Go ahead.,5
+344,345,852.117,852.618,All right.,SPEAKER_05,0.50100000000009,US,US01,1,1,S01E01,345,852.117,852.618,SPEAKER_05,All right.,2
+345,346,853.118,855.12,"Way to go, B.B.",SPEAKER_21,0.8554687500001137,US,US01,1,1,S01E01,346,853.118,855.12,SPEAKER_21,"Way to go, B.B.",4
+346,347,856.622,858.123,"Don't let me drop
+sweat in there.",SPEAKER_05,1.0614062499998909,US,US01,1,1,S01E01,347,856.622,858.123,SPEAKER_05,"Don't let me drop
+sweat in there.",7
+347,348,858.123,859.124,"Okay, it's almost full.",SPEAKER_21,0.642968749999909,US,US01,1,1,S01E01,348,858.123,859.124,SPEAKER_21,"Okay, it's almost full.",4
+348,349,859.625,860.626,"You know, we could
+never do this,",SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,349,859.625,860.626,SPEAKER_05,"You know, we could
+never do this,",7
+349,350,861.126,863.128,"but you know what thought
+crossed my mind?",SPEAKER_05,2.0020000000000664,US,US01,1,1,S01E01,350,861.126,863.128,SPEAKER_05,"but you know what thought
+crossed my mind?",8
+350,351,863.128,864.63,What?,SPEAKER_05,0.8859062499999482,US,US01,1,1,S01E01,351,863.128,864.63,SPEAKER_05,What?,1
+351,352,864.63,866.632,"As long as you and I always
+know where the water is",SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,352,864.63,866.632,SPEAKER_05,"As long as you and I always
+know where the water is",12
+352,353,866.632,868.133,"and we got control
+of the water map,",SPEAKER_05,1.50100000000009,US,US01,1,1,S01E01,353,866.632,868.133,SPEAKER_05,"and we got control
+of the water map,",8
+353,354,868.133,870.135,"no one else will be able
+to vote you or I out.",SPEAKER_05,1.939218750000009,US,US01,1,1,S01E01,354,868.133,870.135,SPEAKER_05,"no one else will be able
+to vote you or I out.",12
+354,355,870.135,871.637,"We're not giving
+up the secret...",SPEAKER_21,0.7547812499999509,US,US01,1,1,S01E01,355,870.135,871.637,SPEAKER_21,"We're not giving
+up the secret...",6
+355,356,871.637,872.638,"We're not giving
+up the secret.",SPEAKER_21,1.00100000000009,US,US01,1,1,S01E01,356,871.637,872.638,SPEAKER_21,"We're not giving
+up the secret.",6
+356,357,872.638,874.139,...of the water supply.,SPEAKER_21,1.5009999999999764,US,US01,1,1,S01E01,357,872.638,874.139,SPEAKER_21,...of the water supply.,4
+357,358,874.139,875.14,That's right!,SPEAKER_21,0.8100937499999645,US,US01,1,1,S01E01,358,874.139,875.14,SPEAKER_21,That's right!,2
+358,359,882.348,885.351,(all chuckling),UNKNOWN,0.0,US,US01,1,1,S01E01,359,882.348,885.351,UNKNOWN,(all chuckling),2
+359,360,885.351,887.353,And your wife is how old now?,SPEAKER_20,1.7557812499998136,US,US01,1,1,S01E01,360,885.351,887.353,SPEAKER_20,And your wife is how old now?,7
+360,361,887.353,888.354,B.B.: My wife? Right now?,SPEAKER_05,0.10740624999993997,US,US01,1,1,S01E01,361,887.353,888.354,SPEAKER_05,B.B.: My wife? Right now?,5
+361,362,888.354,889.355,Yeah.,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,362,888.354,889.355,SPEAKER_05,Yeah.,1
+362,363,889.855,890.356,She's 45.,SPEAKER_05,0.5009999999999764,US,US01,1,1,S01E01,363,889.855,890.356,SPEAKER_05,She's 45.,2
+363,364,890.356,891.857,Wow. And how old are you?,SPEAKER_21,0.7585312499998054,US,US01,1,1,S01E01,364,890.356,891.857,SPEAKER_21,Wow. And how old are you?,6
+364,365,891.857,892.858,64.,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,365,891.857,892.858,SPEAKER_21,64.,1
+365,366,892.858,893.859,"Oh, you better go.",SPEAKER_21,1.00100000000009,US,US01,1,1,S01E01,366,892.858,893.859,SPEAKER_21,"Oh, you better go.",4
+366,367,893.859,894.86,You are a stud.,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,367,893.859,894.86,SPEAKER_21,You are a stud.,4
+367,368,895.361,896.362,He's a stud!,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,368,895.361,896.362,SPEAKER_21,He's a stud!,3
+368,369,896.362,897.863,His name's Viagra.,SPEAKER_21,0.9464687500000082,US,US01,1,1,S01E01,369,896.362,897.863,SPEAKER_21,His name's Viagra.,3
+369,370,898.364,900.866,Viagra. That's his nickname.,SPEAKER_21,2.5019999999999527,US,US01,1,1,S01E01,370,898.364,900.866,SPEAKER_21,Viagra. That's his nickname.,4
+370,371,900.866,901.867,Dang!,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,371,900.866,901.867,SPEAKER_21,Dang!,1
+371,372,901.867,904.37,"You know, you got to do
+what you got to do, right?",SPEAKER_05,2.5030000000000427,US,US01,1,1,S01E01,372,901.867,904.37,SPEAKER_05,"You know, you got to do
+what you got to do, right?",12
+372,373,904.37,906.872,"Somebody has to do
+the dirty work.",SPEAKER_05,2.3040937500001064,US,US01,1,1,S01E01,373,904.37,906.872,SPEAKER_05,"Somebody has to do
+the dirty work.",7
+373,374,907.373,910.876,"If we don't keep some
+humor... we'll go mad.",SPEAKER_05,1.400624999999991,US,US01,1,1,S01E01,374,907.373,910.876,SPEAKER_05,"If we don't keep some
+humor... we'll go mad.",9
+374,375,915.881,917.383,"Good night, y'all.",SPEAKER_02,0.28015624999989086,US,US01,1,1,S01E01,375,915.881,917.383,SPEAKER_02,"Good night, y'all.",3
+375,376,917.383,918.384,Good night.,SPEAKER_02,1.0009999999999764,US,US01,1,1,S01E01,376,917.383,918.384,SPEAKER_02,Good night.,2
+376,377,918.384,919.385,Good night.,SPEAKER_02,0.2713437500001419,US,US01,1,1,S01E01,377,918.384,919.385,SPEAKER_02,Good night.,2
+377,378,950.816,951.817,Stretch out.,UNKNOWN,0.0,US,US01,1,1,S01E01,378,950.816,951.817,UNKNOWN,Stretch out.,2
+378,379,952.117,953.118,RUDY: The hardest part,SPEAKER_26,0.32453124999995,US,US01,1,1,S01E01,379,952.117,953.118,SPEAKER_26,RUDY: The hardest part,4
+379,380,953.118,955.12,"is hanging around with
+all these young kids.",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,380,953.118,955.12,SPEAKER_26,"is hanging around with
+all these young kids.",8
+380,381,955.22,958.223,"I don't even know what
+MTV means, you know?",SPEAKER_26,1.9701562499999454,US,US01,1,1,S01E01,381,955.22,958.223,SPEAKER_26,"I don't even know what
+MTV means, you know?",9
+381,382,958.724,960.726,"And I'm used to being
+in the military",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,382,958.724,960.726,SPEAKER_26,"And I'm used to being
+in the military",8
+382,383,960.726,963.228,"and one guy stands up,
+he gives an order",SPEAKER_26,2.5019999999999527,US,US01,1,1,S01E01,383,960.726,963.228,SPEAKER_26,"and one guy stands up,
+he gives an order",9
+383,384,963.228,964.73,and there's no back talk.,SPEAKER_26,1.5020000000000664,US,US01,1,1,S01E01,384,963.228,964.73,SPEAKER_26,and there's no back talk.,5
+384,385,964.73,966.632,"You know, like yesterday,",SPEAKER_26,1.90199999999993,US,US01,1,1,S01E01,385,964.73,966.632,SPEAKER_26,"You know, like yesterday,",4
+385,386,966.632,968.634,"everybody's trying
+to run the show",SPEAKER_26,2.0020000000000664,US,US01,1,1,S01E01,386,966.632,968.634,SPEAKER_26,"everybody's trying
+to run the show",6
+386,387,968.634,971.136,"and if they'd let
+one person do it,",SPEAKER_26,2.5019999999999527,US,US01,1,1,S01E01,387,968.634,971.136,SPEAKER_26,"and if they'd let
+one person do it,",8
+387,388,971.136,972.638,we'd be much better off.,SPEAKER_26,1.5020000000000664,US,US01,1,1,S01E01,388,971.136,972.638,SPEAKER_26,we'd be much better off.,5
+388,389,973.138,975.641,"But trying to keep them
+all shut up is hard.",SPEAKER_26,2.502999999999929,US,US01,1,1,S01E01,389,973.138,975.641,SPEAKER_26,"But trying to keep them
+all shut up is hard.",10
+389,390,976.141,977.643,"If they listen to me,",SPEAKER_26,1.5020000000000664,US,US01,1,1,S01E01,390,976.141,977.643,SPEAKER_26,"If they listen to me,",5
+390,391,977.643,980.145,"they'd all have haircuts and
+everything else, you know.",SPEAKER_26,2.5019999999999527,US,US01,1,1,S01E01,391,977.643,980.145,SPEAKER_26,"they'd all have haircuts and
+everything else, you know.",9
+391,392,980.245,982.247,"We'd be in formation
+in the morning",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,392,980.245,982.247,SPEAKER_26,"We'd be in formation
+in the morning",7
+392,393,982.247,983.749,"and all that kind of stuff,",SPEAKER_26,1.5020000000000664,US,US01,1,1,S01E01,393,982.247,983.749,SPEAKER_26,"and all that kind of stuff,",6
+393,394,984.249,986.251,"but they're not
+going to do that.",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,394,984.249,986.251,SPEAKER_26,"but they're not
+going to do that.",7
+394,395,986.251,988.253,"I got to fit in, not them.",SPEAKER_26,2.0020000000000664,US,US01,1,1,S01E01,395,986.251,988.253,SPEAKER_26,"I got to fit in, not them.",7
+395,396,988.654,990.656,"You know, there's more of
+them than there is of me.",SPEAKER_26,1.8044687500000691,US,US01,1,1,S01E01,396,988.654,990.656,SPEAKER_26,"You know, there's more of
+them than there is of me.",11
+396,397,990.656,992.658,"Hey, you got a
+pierced nipple, eh?",SPEAKER_17,1.15328124999985,US,US01,1,1,S01E01,397,990.656,992.658,SPEAKER_17,"Hey, you got a
+pierced nipple, eh?",7
+397,398,992.658,995.16,"Yeah. I got the ol'
+pierced nipple thing.",SPEAKER_10,1.7315312499998754,US,US01,1,1,S01E01,398,992.658,995.16,SPEAKER_10,"Yeah. I got the ol'
+pierced nipple thing.",8
+398,399,995.661,996.662,How did that feel?,SPEAKER_10,0.21290625000006003,US,US01,1,1,S01E01,399,995.661,996.662,SPEAKER_10,How did that feel?,4
+399,400,996.662,998.664,"Pretty edgy for a
+doctor, right?",SPEAKER_10,1.4070937500000582,US,US01,1,1,S01E01,400,996.662,998.664,SPEAKER_10,"Pretty edgy for a
+doctor, right?",6
+400,401,998.664,999.665,"Yeah, yeah.",SPEAKER_18,0.5188437500000873,US,US01,1,1,S01E01,401,998.664,999.665,SPEAKER_18,"Yeah, yeah.",2
+401,402,999.665,1001.667,"I thought I was making
+it with the hair",SPEAKER_18,1.89353124999991,US,US01,1,1,S01E01,402,999.665,1001.667,SPEAKER_18,"I thought I was making
+it with the hair",9
+402,403,1001.667,1002.668,"and then this morning,",SPEAKER_18,1.0009999999999764,US,US01,1,1,S01E01,403,1001.667,1002.668,SPEAKER_18,"and then this morning,",4
+403,404,1002.768,1004.269,when I ran my hand through it,SPEAKER_18,1.5009999999999764,US,US01,1,1,S01E01,404,1002.768,1004.269,SPEAKER_18,when I ran my hand through it,7
+404,405,1004.269,1007.272,"and felt these couple of
+golf ball-sized knots in it,",SPEAKER_18,3.0030000000000427,US,US01,1,1,S01E01,405,1004.269,1007.272,SPEAKER_18,"and felt these couple of
+golf ball-sized knots in it,",10
+405,406,1007.272,1009.274,"I'm like, no, they
+got to come out now.",SPEAKER_18,1.225843750000081,US,US01,1,1,S01E01,406,1007.272,1009.274,SPEAKER_18,"I'm like, no, they
+got to come out now.",9
+406,407,1012.778,1014.279,SONJA: I was doing something.,SPEAKER_22,0.3305312499999218,US,US01,1,1,S01E01,407,1012.778,1014.279,SPEAKER_22,SONJA: I was doing something.,5
+407,408,1014.78,1016.382,"I don't even remember
+how I did it.",SPEAKER_04,1.5815937500001382,US,US01,1,1,S01E01,408,1014.78,1016.382,SPEAKER_04,"I don't even remember
+how I did it.",8
+408,409,1016.582,1018.584,"Betadine won't hurt it,
+yeah, so we'll give it",SPEAKER_22,1.5980312499999627,US,US01,1,1,S01E01,409,1016.582,1018.584,SPEAKER_22,"Betadine won't hurt it,
+yeah, so we'll give it",9
+409,410,1018.684,1019.685,a little shot of Betadine.,SPEAKER_22,1.0009999999999764,US,US01,1,1,S01E01,410,1018.684,1019.685,SPEAKER_22,a little shot of Betadine.,5
+410,411,1019.685,1021.687,"I think these are the
+only sponges we have,",SPEAKER_22,2.0020000000000664,US,US01,1,1,S01E01,411,1019.685,1021.687,SPEAKER_22,"I think these are the
+only sponges we have,",9
+411,412,1021.687,1023.689,"so I'm just going to
+keep reusing them.",SPEAKER_22,1.7620937499999627,US,US01,1,1,S01E01,412,1021.687,1023.689,SPEAKER_22,"so I'm just going to
+keep reusing them.",8
+412,413,1023.889,1025.391,Okay.,SPEAKER_22,0.48937500000010914,US,US01,1,1,S01E01,413,1023.889,1025.391,SPEAKER_22,Okay.,1
+413,414,1025.391,1027.393,"SONJA: I've been thrashing
+around like I'm 35,",SPEAKER_03,2.0019999999999527,US,US01,1,1,S01E01,414,1025.391,1027.393,SPEAKER_03,"SONJA: I've been thrashing
+around like I'm 35,",8
+414,415,1027.393,1029.895,"instead of acting my age,",SPEAKER_03,2.5019999999999527,US,US01,1,1,S01E01,415,1027.393,1029.895,SPEAKER_03,"instead of acting my age,",5
+415,416,1029.895,1031.096,but we have a doctor,SPEAKER_03,1.2010000000000218,US,US01,1,1,S01E01,416,1029.895,1031.096,SPEAKER_03,but we have a doctor,5
+416,417,1031.497,1035.501,"in our tribe-- uh, Sean--
+and he did a wonderful job",SPEAKER_03,4.003999999999905,US,US01,1,1,S01E01,417,1031.497,1035.501,SPEAKER_03,"in our tribe-- uh, Sean--
+and he did a wonderful job",11
+417,418,1035.601,1037.102,of bandaging me up.,SPEAKER_03,1.5009999999999764,US,US01,1,1,S01E01,418,1035.601,1037.102,SPEAKER_03,of bandaging me up.,4
+418,419,1037.603,1039.605,"I think one of the
+problems with aging",SPEAKER_03,1.8459062499998709,US,US01,1,1,S01E01,419,1037.603,1039.605,SPEAKER_03,"I think one of the
+problems with aging",8
+419,420,1039.605,1042.107,"is the thinning of
+the skin, darn it,",SPEAKER_03,2.5019999999999527,US,US01,1,1,S01E01,420,1039.605,1042.107,SPEAKER_03,"is the thinning of
+the skin, darn it,",8
+420,421,1042.207,1044.71,"and so I think I'm maybe getting
+a little more banged up",SPEAKER_03,2.502999999999929,US,US01,1,1,S01E01,421,1042.207,1044.71,SPEAKER_03,"and so I think I'm maybe getting
+a little more banged up",12
+421,422,1044.71,1046.211,than some of the younger ones.,SPEAKER_03,1.5009999999999764,US,US01,1,1,S01E01,422,1044.71,1046.211,SPEAKER_03,than some of the younger ones.,6
+422,423,1046.512,1048.514,"My aim leaves something
+to be desired,",SPEAKER_03,0.03896875000009459,US,US01,1,1,S01E01,423,1046.512,1048.514,SPEAKER_03,"My aim leaves something
+to be desired,",7
+423,424,1048.514,1050.015,but we're getting there.,SPEAKER_10,0.8315312499998981,US,US01,1,1,S01E01,424,1048.514,1050.015,SPEAKER_10,but we're getting there.,4
+424,425,1050.015,1051.517,Try this?,SPEAKER_10,1.092218750000029,US,US01,1,1,S01E01,425,1050.015,1051.517,SPEAKER_10,Try this?,2
+425,426,1051.517,1053.018,"Well, I don't know.",SPEAKER_27,0.4170937500000491,US,US01,1,1,S01E01,426,1051.517,1053.018,SPEAKER_27,"Well, I don't know.",4
+426,427,1053.018,1054.52,This is heavier.,SPEAKER_10,1.2190312499999436,US,US01,1,1,S01E01,427,1053.018,1054.52,SPEAKER_10,This is heavier.,3
+427,428,1054.52,1056.522,"It might be sharper, though.",SPEAKER_10,0.7553437500000655,US,US01,1,1,S01E01,428,1054.52,1056.522,SPEAKER_10,"It might be sharper, though.",5
+428,429,1056.522,1057.523,Think so?,SPEAKER_27,0.5083437500002219,US,US01,1,1,S01E01,429,1056.522,1057.523,SPEAKER_27,Think so?,2
+429,430,1058.023,1059.525,"I'm wondering 'cause
+that's so damn hard.",SPEAKER_07,1.50200000000018,US,US01,1,1,S01E01,430,1058.023,1059.525,SPEAKER_07,"I'm wondering 'cause
+that's so damn hard.",7
+430,431,1059.525,1061.026,"Well, that's off.",SPEAKER_07,1.049093750000111,US,US01,1,1,S01E01,431,1059.525,1061.026,SPEAKER_07,"Well, that's off.",3
+431,432,1061.527,1064.029,That ain't gonna work.,SPEAKER_07,1.2914687500001492,US,US01,1,1,S01E01,432,1061.527,1064.029,SPEAKER_07,That ain't gonna work.,4
+432,433,1064.229,1067.232,"Here's a, uh, a therapist's
+version of ""Bye, Bye, Blues,""",SPEAKER_03,3.002999999999929,US,US01,1,1,S01E01,433,1064.229,1067.232,SPEAKER_03,"Here's a, uh, a therapist's
+version of ""Bye, Bye, Blues,""",10
+433,434,1067.232,1068.233,if I can remember it.,SPEAKER_03,1.0009999999999764,US,US01,1,1,S01E01,434,1067.232,1068.233,SPEAKER_03,if I can remember it.,5
+434,435,1068.233,1071.236,?? Bye-bye blues ??,SPEAKER_03,0.7954687500002819,US,US01,1,1,S01E01,435,1068.233,1071.236,SPEAKER_03,?? Bye-bye blues ??,4
+435,436,1071.236,1072.237,?? Thanks to Prozac ??,SPEAKER_28,1.0009999999999764,US,US01,1,1,S01E01,436,1071.236,1072.237,SPEAKER_28,?? Thanks to Prozac ??,5
+436,437,1072.738,1075.24,?? Bye-bye blues ??,SPEAKER_28,2.5019999999999527,US,US01,1,1,S01E01,437,1072.738,1075.24,SPEAKER_28,?? Bye-bye blues ??,4
+437,438,1075.24,1077.242,?? Give me Paxil ??,SPEAKER_28,2.0019999999999527,US,US01,1,1,S01E01,438,1075.24,1077.242,SPEAKER_28,?? Give me Paxil ??,5
+438,439,1077.242,1080.245,"?? ?? Bells ring, birds sing",SPEAKER_28,3.002999999999929,US,US01,1,1,S01E01,439,1077.242,1080.245,SPEAKER_28,"?? ?? Bells ring, birds sing",6
+439,440,1080.245,1085.25,"?? Sun is shining,
+no more whining ??",SPEAKER_28,5.005000000000109,US,US01,1,1,S01E01,440,1080.245,1085.25,SPEAKER_28,"?? Sun is shining,
+no more whining ??",8
+440,441,1085.25,1090.355,"?? I live through,
+ba, da, da-da ??",SPEAKER_28,3.7922187500000746,US,US01,1,1,S01E01,441,1085.25,1090.355,SPEAKER_28,"?? I live through,
+ba, da, da-da ??",8
+441,442,1090.556,1093.559,"?? Life is hell, but I'm swell ?",SPEAKER_28,1.4899687500001164,US,US01,1,1,S01E01,442,1090.556,1093.559,SPEAKER_28,"?? Life is hell, but I'm swell ?",8
+442,443,1093.559,1097.062,"?? Bye-bye, bye blues. ??",SPEAKER_28,3.502999999999929,US,US01,1,1,S01E01,443,1093.559,1097.062,SPEAKER_28,"?? Bye-bye, bye blues. ??",5
+443,444,1097.062,1099.565,"Yeah, that's awesome, awesome.",SPEAKER_27,1.1234062500000164,US,US01,1,1,S01E01,444,1097.062,1099.565,SPEAKER_27,"Yeah, that's awesome, awesome.",4
+444,445,1100.065,1101.567,Fantastic.,SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,445,1100.065,1101.567,SPEAKER_27,Fantastic.,1
+445,446,1106.572,1109.074,"RICHARD: Well, the fish traps
+were hanging from the boat",SPEAKER_27,2.346781250000049,US,US01,1,1,S01E01,446,1106.572,1109.074,SPEAKER_27,"RICHARD: Well, the fish traps
+were hanging from the boat",10
+446,447,1109.074,1110.576,"that we were coming over here,",SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,447,1109.074,1110.576,SPEAKER_27,"that we were coming over here,",6
+447,448,1110.576,1113.078,"and when we were tossed
+into the sea on the raft",SPEAKER_27,2.5019999999999527,US,US01,1,1,S01E01,448,1110.576,1113.078,SPEAKER_27,"and when we were tossed
+into the sea on the raft",11
+448,449,1113.078,1115.581,"and we could take whatever
+we could get our hands on,",SPEAKER_27,2.502999999999929,US,US01,1,1,S01E01,449,1113.078,1115.581,SPEAKER_27,"and we could take whatever
+we could get our hands on,",11
+449,450,1115.581,1117.082,"we grabbed three
+or four fish traps",SPEAKER_27,1.5010000000002037,US,US01,1,1,S01E01,450,1115.581,1117.082,SPEAKER_27,"we grabbed three
+or four fish traps",7
+450,451,1117.583,1118.584,"and a bunch of rat traps,",SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,451,1117.583,1118.584,SPEAKER_27,"and a bunch of rat traps,",6
+451,452,1118.984,1120.986,"and so we stuck the rat
+traps out the first night",SPEAKER_27,2.00200000000018,US,US01,1,1,S01E01,452,1118.984,1120.986,SPEAKER_27,"and so we stuck the rat
+traps out the first night",11
+452,453,1120.986,1122.488,"and boom-- we got a
+rat in each of them.",SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,453,1120.986,1122.488,SPEAKER_27,"and boom-- we got a
+rat in each of them.",10
+453,454,1126.391,1127.392,Bait. I want bait!,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,454,1126.391,1127.392,SPEAKER_27,Bait. I want bait!,4
+454,455,1127.392,1128.393,Give me bait!,SPEAKER_27,0.5133437500001037,US,US01,1,1,S01E01,455,1127.392,1128.393,SPEAKER_27,Give me bait!,3
+455,456,1134.199,1136.201,"I think he's just going
+to cut its head off.",SPEAKER_24,1.1812499999998636,US,US01,1,1,S01E01,456,1134.199,1136.201,SPEAKER_24,"I think he's just going
+to cut its head off.",10
+456,457,1138.203,1139.705,Ew!,UNKNOWN,0.0,US,US01,1,1,S01E01,457,1138.203,1139.705,UNKNOWN,Ew!,1
+457,458,1139.905,1140.405,"Oh, God!",UNKNOWN,0.0,US,US01,1,1,S01E01,458,1139.905,1140.405,UNKNOWN,"Oh, God!",2
+458,459,1140.906,1142.708,"Oh, no way!",SPEAKER_13,0.37124999999991815,US,US01,1,1,S01E01,459,1140.906,1142.708,SPEAKER_13,"Oh, no way!",3
+459,460,1142.708,1146.211,(laughing),SPEAKER_24,0.09753124999997453,US,US01,1,1,S01E01,460,1142.708,1146.211,SPEAKER_24,(laughing),1
+460,461,1146.211,1147.212,Remember that knife.,SPEAKER_24,1.0009999999999764,US,US01,1,1,S01E01,461,1146.211,1147.212,SPEAKER_24,Remember that knife.,3
+461,462,1147.212,1148.714,"We're not using it
+for anything else.",SPEAKER_24,1.263968750000231,US,US01,1,1,S01E01,462,1147.212,1148.714,SPEAKER_24,"We're not using it
+for anything else.",7
+462,463,1150.215,1152.217,"Oh, dude!",UNKNOWN,0.0,US,US01,1,1,S01E01,463,1150.215,1152.217,UNKNOWN,"Oh, dude!",2
+463,464,1154.219,1155.721,RAMONA: I didn't sleep at all.,SPEAKER_21,0.15753124999991996,US,US01,1,1,S01E01,464,1154.219,1155.721,SPEAKER_21,RAMONA: I didn't sleep at all.,6
+464,465,1156.221,1157.723,"I mean, we-we closed our eyes.",SPEAKER_21,1.5019999999999527,US,US01,1,1,S01E01,465,1156.221,1157.723,SPEAKER_21,"I mean, we-we closed our eyes.",6
+465,466,1158.223,1159.224,We kept hearing noises,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,466,1158.223,1159.224,SPEAKER_21,We kept hearing noises,4
+466,467,1159.725,1162.728,"and, like, clicking sounds,
+and we're, like, okay.",SPEAKER_21,3.0030000000001564,US,US01,1,1,S01E01,467,1159.725,1162.728,SPEAKER_21,"and, like, clicking sounds,
+and we're, like, okay.",8
+467,468,1162.728,1164.229,"Um, what's his name...",SPEAKER_21,1.5009999999999764,US,US01,1,1,S01E01,468,1162.728,1164.229,SPEAKER_21,"Um, what's his name...",4
+468,469,1164.229,1165.23,WOMAN:: Joel.,SPEAKER_21,1.0009999999999764,US,US01,1,1,S01E01,469,1164.229,1165.23,SPEAKER_21,WOMAN:: Joel.,2
+469,470,1165.731,1168.233,"Uh, Joel woke up, a rat
+was, like, in his ear.",SPEAKER_21,2.5019999999999527,US,US01,1,1,S01E01,470,1165.731,1168.233,SPEAKER_21,"Uh, Joel woke up, a rat
+was, like, in his ear.",11
+470,471,1168.534,1170.035,"JOEL: I heard something
+squeaking in my ear.",SPEAKER_20,1.5009999999999764,US,US01,1,1,S01E01,471,1168.534,1170.035,SPEAKER_20,"JOEL: I heard something
+squeaking in my ear.",8
+471,472,1170.035,1171.837,"A rat was trying to
+get on the raft,",SPEAKER_20,1.8019999999999072,US,US01,1,1,S01E01,472,1170.035,1171.837,SPEAKER_20,"A rat was trying to
+get on the raft,",9
+472,473,1171.837,1173.338,"or get near us or
+get at something.",SPEAKER_20,1.5009999999999764,US,US01,1,1,S01E01,473,1171.837,1173.338,SPEAKER_20,"or get near us or
+get at something.",8
+473,474,1173.839,1174.84,"I mean, everything was moving.",SPEAKER_20,1.0009999999999764,US,US01,1,1,S01E01,474,1173.839,1174.84,SPEAKER_20,"I mean, everything was moving.",5
+474,475,1176.842,1179.344,"B.B.: We're just going
+along the beach here",SPEAKER_05,0.08803124999985812,US,US01,1,1,S01E01,475,1176.842,1179.344,SPEAKER_05,"B.B.: We're just going
+along the beach here",8
+475,476,1179.344,1181.847,"and just identifying
+whatever we can use",SPEAKER_05,2.502999999999929,US,US01,1,1,S01E01,476,1179.344,1181.847,SPEAKER_05,"and just identifying
+whatever we can use",7
+476,477,1181.947,1183.448,"for the shelter, the roof.",SPEAKER_05,1.5010000000002037,US,US01,1,1,S01E01,477,1181.947,1183.448,SPEAKER_05,"for the shelter, the roof.",5
+477,478,1183.949,1186.051,And I'm a little irritated,SPEAKER_05,0.1125312499998472,US,US01,1,1,S01E01,478,1183.949,1186.051,SPEAKER_05,And I'm a little irritated,5
+478,479,1186.552,1187.553,that none of the others,SPEAKER_05,1.0010000000002037,US,US01,1,1,S01E01,479,1186.552,1187.553,SPEAKER_05,that none of the others,5
+479,480,1188.053,1190.255,"are down here to help carry
+stuff, but that's okay.",SPEAKER_05,2.201999999999998,US,US01,1,1,S01E01,480,1188.053,1190.255,SPEAKER_05,"are down here to help carry
+stuff, but that's okay.",10
+480,481,1190.255,1194.259,"We need... we need
+five more of these.",SPEAKER_05,2.4637500000001182,US,US01,1,1,S01E01,481,1190.255,1194.259,SPEAKER_05,"We need... we need
+five more of these.",8
+481,482,1194.259,1195.761,B.B....,SPEAKER_05,1.0125000000000455,US,US01,1,1,S01E01,482,1194.259,1195.761,SPEAKER_05,B.B....,1
+482,483,1195.961,1197.462,"He's a character, man.",SPEAKER_05,1.2318749999999454,US,US01,1,1,S01E01,483,1195.961,1197.462,SPEAKER_05,"He's a character, man.",4
+483,484,1197.462,1199.965,I don't think he likes me much.,SPEAKER_20,1.2521562499998709,US,US01,1,1,S01E01,484,1197.462,1199.965,SPEAKER_20,I don't think he likes me much.,7
+484,485,1200.365,1201.366,Just these.,SPEAKER_05,0.7125312499997563,US,US01,1,1,S01E01,485,1200.365,1201.366,SPEAKER_05,Just these.,2
+485,486,1201.366,1202.868,"No, no, you don't understand.",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,486,1201.366,1202.868,SPEAKER_05,"No, no, you don't understand.",5
+486,487,1202.868,1205.871,"I got to have this thought
+out and positioned right.",SPEAKER_05,2.780468750000182,US,US01,1,1,S01E01,487,1202.868,1205.871,SPEAKER_05,"I got to have this thought
+out and positioned right.",10
+487,488,1205.871,1207.372,"GRETCHEN: He's right, Joel,",SPEAKER_20,0.40728124999986903,US,US01,1,1,S01E01,488,1205.871,1207.372,SPEAKER_20,"GRETCHEN: He's right, Joel,",4
+488,489,1207.372,1209.374,"or it's not going
+to fit the frame.",SPEAKER_20,1.2970937500001583,US,US01,1,1,S01E01,489,1207.372,1209.374,SPEAKER_20,"or it's not going
+to fit the frame.",8
+489,490,1209.374,1210.375,"Joel, trust me.",SPEAKER_20,0.8452812499999709,US,US01,1,1,S01E01,490,1209.374,1210.375,SPEAKER_20,"Joel, trust me.",3
+490,491,1210.375,1211.376,I'm not the one bitching.,SPEAKER_20,1.0009999999999764,US,US01,1,1,S01E01,491,1210.375,1211.376,SPEAKER_20,I'm not the one bitching.,5
+491,492,1211.877,1212.878,"I mean, I'm fine.",SPEAKER_20,0.3189687500002947,US,US01,1,1,S01E01,492,1211.877,1212.878,SPEAKER_20,"I mean, I'm fine.",4
+492,493,1215.881,1217.282,"Hey, don't be talking to me",SPEAKER_00,0.563531249999869,US,US01,1,1,S01E01,493,1215.881,1217.282,SPEAKER_00,"Hey, don't be talking to me",6
+493,494,1217.282,1218.283,about monkey business.,SPEAKER_00,1.0009999999999764,US,US01,1,1,S01E01,494,1217.282,1218.283,SPEAKER_00,about monkey business.,3
+494,495,1218.283,1219.785,"I can't sleep, so
+I'm usually up.",SPEAKER_00,1.50200000000018,US,US01,1,1,S01E01,495,1218.283,1219.785,SPEAKER_00,"I can't sleep, so
+I'm usually up.",7
+495,496,1221.486,1223.789,...this being the width.,SPEAKER_05,1.8305937499999345,US,US01,1,1,S01E01,496,1221.486,1223.789,SPEAKER_05,...this being the width.,4
+496,497,1244.91,1246.912,"B.B.: We got a lot
+of lazy people",SPEAKER_05,0.6791562500000055,US,US01,1,1,S01E01,497,1244.91,1246.912,SPEAKER_05,"B.B.: We got a lot
+of lazy people",8
+497,498,1246.912,1248.113,if you want to know the truth.,SPEAKER_05,1.2010000000000218,US,US01,1,1,S01E01,498,1246.912,1248.113,SPEAKER_05,if you want to know the truth.,7
+498,499,1248.113,1250.015,You can't do it all yourself.,SPEAKER_05,1.470281249999971,US,US01,1,1,S01E01,499,1248.113,1250.015,SPEAKER_05,You can't do it all yourself.,6
+499,500,1250.015,1252.918,"You know, I asked Colleen to
+straighten this out for me",SPEAKER_05,2.9003437500000473,US,US01,1,1,S01E01,500,1250.015,1252.918,SPEAKER_05,"You know, I asked Colleen to
+straighten this out for me",11
+500,501,1253.418,1254.419,and here it is.,SPEAKER_05,0.6936562500000036,US,US01,1,1,S01E01,501,1253.418,1254.419,SPEAKER_05,and here it is.,4
+501,502,1254.92,1256.521,"That's the only thing
+she had to do today.",SPEAKER_05,1.4547187499999836,US,US01,1,1,S01E01,502,1254.92,1256.521,SPEAKER_05,"That's the only thing
+she had to do today.",9
+502,503,1257.022,1258.624,You can't have lazy people.,SPEAKER_05,1.400624999999991,US,US01,1,1,S01E01,503,1257.022,1258.624,SPEAKER_05,You can't have lazy people.,5
+503,504,1258.824,1261.326,"GRETCHEN: He had been out there,
+you know, all morning long",SPEAKER_16,2.2681562499999472,US,US01,1,1,S01E01,504,1258.824,1261.326,SPEAKER_16,"GRETCHEN: He had been out there,
+you know, all morning long",11
+504,505,1261.326,1264.529,"and, um... you
+know, it was hot.",SPEAKER_16,1.2080937500002165,US,US01,1,1,S01E01,505,1261.326,1264.529,SPEAKER_16,"and, um... you
+know, it was hot.",7
+505,506,1265.03,1268.634,"GRETCHEN: B.B., I thought we said
+that this was a time of day,",SPEAKER_15,1.4086562499999218,US,US01,1,1,S01E01,506,1265.03,1268.634,SPEAKER_15,"GRETCHEN: B.B., I thought we said
+that this was a time of day,",13
+506,507,1268.634,1270.636,"we were going to
+be out of the sun.",SPEAKER_15,1.7638437500002055,US,US01,1,1,S01E01,507,1268.634,1270.636,SPEAKER_15,"we were going to
+be out of the sun.",9
+507,508,1270.636,1272.838,"Well, but for some of
+us... some of the people,",SPEAKER_05,1.8326562499999,US,US01,1,1,S01E01,508,1270.636,1272.838,SPEAKER_05,"Well, but for some of
+us... some of the people,",10
+508,509,1272.838,1274.339,it's been all day that way.,SPEAKER_05,1.2892187500001455,US,US01,1,1,S01E01,509,1272.838,1274.339,SPEAKER_05,it's been all day that way.,6
+509,510,1274.339,1275.841,"Right, it's your turn.",SPEAKER_16,0.3300312499998199,US,US01,1,1,S01E01,510,1274.339,1275.841,SPEAKER_16,"Right, it's your turn.",4
+510,511,1275.841,1278.343,"You tell me what
+you're doing here",SPEAKER_16,0.8005937500001892,US,US01,1,1,S01E01,511,1275.841,1278.343,SPEAKER_16,"You tell me what
+you're doing here",7
+511,512,1278.343,1279.344,and I'll help you.,SPEAKER_16,1.0009999999999764,US,US01,1,1,S01E01,512,1278.343,1279.344,SPEAKER_16,and I'll help you.,4
+512,513,1279.845,1280.345,You hold it up,SPEAKER_16,0.5,US,US01,1,1,S01E01,513,1279.845,1280.345,SPEAKER_16,You hold it up,4
+513,514,1280.846,1281.446,and I'll do it quick.,SPEAKER_16,0.599999999999909,US,US01,1,1,S01E01,514,1280.846,1281.446,SPEAKER_16,and I'll do it quick.,5
+514,515,1281.947,1283.448,"I promise you,
+I'll do it quick.",SPEAKER_16,0.7189687500001583,US,US01,1,1,S01E01,515,1281.947,1283.448,SPEAKER_16,"I promise you,
+I'll do it quick.",7
+515,516,1283.448,1284.95,"That, you know,",SPEAKER_05,0.6977812499999345,US,US01,1,1,S01E01,516,1283.448,1284.95,SPEAKER_05,"That, you know,",3
+516,517,1284.95,1286.251,"that's the right way to do it,",SPEAKER_05,1.3009999999999309,US,US01,1,1,S01E01,517,1284.95,1286.251,SPEAKER_05,"that's the right way to do it,",7
+517,518,1286.251,1287.753,"but we won't have
+near enough line",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,518,1286.251,1287.753,SPEAKER_05,"but we won't have
+near enough line",7
+518,519,1287.753,1288.754,to build the roof and do that,SPEAKER_05,0.6880312499997672,US,US01,1,1,S01E01,519,1287.753,1288.754,SPEAKER_05,to build the roof and do that,7
+519,520,1289.254,1289.755,"if we do all this,",SPEAKER_05,0.5010000000002037,US,US01,1,1,S01E01,520,1289.254,1289.755,SPEAKER_05,"if we do all this,",5
+520,521,1290.255,1291.356,in all fairness.,SPEAKER_05,0.7925312499999109,US,US01,1,1,S01E01,521,1290.255,1291.356,SPEAKER_05,in all fairness.,3
+521,522,1291.356,1293.859,"Anyway, don't stop now, but...",SPEAKER_05,1.6368749999999181,US,US01,1,1,S01E01,522,1291.356,1293.859,SPEAKER_05,"Anyway, don't stop now, but...",5
+522,523,1293.859,1296.361,"I think we'll have plenty,",SPEAKER_15,0.9449999999999363,US,US01,1,1,S01E01,523,1293.859,1296.361,SPEAKER_15,"I think we'll have plenty,",5
+523,524,1296.361,1299.865,"and I'm going to roll
+that up for you, too.",SPEAKER_15,1.552500000000009,US,US01,1,1,S01E01,524,1296.361,1299.865,SPEAKER_15,"and I'm going to roll
+that up for you, too.",10
+524,525,1300.365,1301.967,"We can't, like, get
+burned out, though.",SPEAKER_15,1.6020000000000891,US,US01,1,1,S01E01,525,1300.365,1301.967,SPEAKER_15,"We can't, like, get
+burned out, though.",7
+525,526,1301.967,1302.968,I'm not burned out.,SPEAKER_15,0.40896874999998545,US,US01,1,1,S01E01,526,1301.967,1302.968,SPEAKER_15,I'm not burned out.,4
+526,527,1302.968,1303.969,"I know, but you will be",SPEAKER_15,1.0009999999999764,US,US01,1,1,S01E01,527,1302.968,1303.969,SPEAKER_15,"I know, but you will be",6
+527,528,1304.469,1305.971,"if you spend all day
+out in the sun.",SPEAKER_05,0.8781562499998472,US,US01,1,1,S01E01,528,1304.469,1305.971,SPEAKER_05,"if you spend all day
+out in the sun.",9
+528,529,1305.971,1306.972,"No, I never get burned out.",SPEAKER_05,0.2422812499999054,US,US01,1,1,S01E01,529,1305.971,1306.972,SPEAKER_05,"No, I never get burned out.",6
+529,530,1306.972,1308.473,You don't know me.,SPEAKER_15,0.7645312499998909,US,US01,1,1,S01E01,530,1306.972,1308.473,SPEAKER_15,You don't know me.,4
+530,531,1308.473,1309.975,"I don't know you, but
+I know human beings.",SPEAKER_15,0.7984062499997435,US,US01,1,1,S01E01,531,1308.473,1309.975,SPEAKER_15,"I don't know you, but
+I know human beings.",9
+531,532,1309.975,1311.376,Okay.,SPEAKER_05,0.5625312499998927,US,US01,1,1,S01E01,532,1309.975,1311.376,SPEAKER_05,Okay.,1
+532,533,1311.376,1312.377,I like working as a hobby.,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,533,1311.376,1312.377,SPEAKER_05,I like working as a hobby.,6
+533,534,1312.377,1314.179,"Honest to God, how about
+15 minutes though?",SPEAKER_15,1.3742812499999673,US,US01,1,1,S01E01,534,1312.377,1314.179,SPEAKER_15,"Honest to God, how about
+15 minutes though?",8
+534,535,1314.179,1315.18,Sit down for 15 minutes.,SPEAKER_15,1.0009999999999764,US,US01,1,1,S01E01,535,1314.179,1315.18,SPEAKER_15,Sit down for 15 minutes.,5
+535,536,1315.18,1316.682,"Why? Yeah, but, I
+want to get...",SPEAKER_15,1.3034687500000928,US,US01,1,1,S01E01,536,1315.18,1316.682,SPEAKER_15,"Why? Yeah, but, I
+want to get...",7
+536,537,1316.682,1318.684,"I want to get this thing
+stabilized so at least...",SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,537,1316.682,1318.684,SPEAKER_05,"I want to get this thing
+stabilized so at least...",10
+537,538,1319.184,1320.686,"But, B.B., look...",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,538,1319.184,1320.686,SPEAKER_05,"But, B.B., look...",3
+538,539,1320.686,1322.187,Let me just explain.,SPEAKER_05,1.5009999999999764,US,US01,1,1,S01E01,539,1320.686,1322.187,SPEAKER_05,Let me just explain.,4
+539,540,1322.187,1325.691,"I want to get this stabilized so
+then people can come in here...",SPEAKER_05,3.504000000000133,US,US01,1,1,S01E01,540,1322.187,1325.691,SPEAKER_05,"I want to get this stabilized so
+then people can come in here...",13
+540,541,1325.691,1327.192,"You know the light
+cords you got?",SPEAKER_05,0.7860312499999509,US,US01,1,1,S01E01,541,1325.691,1327.192,SPEAKER_05,"You know the light
+cords you got?",7
+541,542,1327.192,1328.694,"And we can tie
+these things down,",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,542,1327.192,1328.694,SPEAKER_05,"And we can tie
+these things down,",7
+542,543,1328.694,1331.196,"but until I get this
+bounce out of this...",SPEAKER_05,1.4919687500002965,US,US01,1,1,S01E01,543,1328.694,1331.196,SPEAKER_05,"but until I get this
+bounce out of this...",9
+543,544,1331.196,1333.198,"I want to... I'm going
+to put a support there",SPEAKER_05,1.3920312499999454,US,US01,1,1,S01E01,544,1331.196,1333.198,SPEAKER_05,"I want to... I'm going
+to put a support there",10
+544,545,1333.198,1335.2,"in the middle here
+and right there.",SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,545,1333.198,1335.2,SPEAKER_05,"in the middle here
+and right there.",7
+545,546,1335.2,1337.703,"'Cause if not, we got to
+take bounce out of this.",SPEAKER_05,0.9934687500001473,US,US01,1,1,S01E01,546,1335.2,1337.703,SPEAKER_05,"'Cause if not, we got to
+take bounce out of this.",11
+546,547,1338.203,1339.705,"I just think we have
+plenty of time.",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,547,1338.203,1339.705,SPEAKER_05,"I just think we have
+plenty of time.",8
+547,548,1339.705,1342.207,"I thought we were going to
+try to stay competitive,",SPEAKER_14,2.2672812499999964,US,US01,1,1,S01E01,548,1339.705,1342.207,SPEAKER_14,"I thought we were going to
+try to stay competitive,",10
+548,549,1342.207,1343.208,and if you work all day,SPEAKER_14,1.0009999999999764,US,US01,1,1,S01E01,549,1342.207,1343.208,SPEAKER_14,and if you work all day,6
+549,550,1343.709,1345.21,"and you're burnt at
+the end of the day,",SPEAKER_14,1.1527812499998618,US,US01,1,1,S01E01,550,1343.709,1345.21,SPEAKER_14,"and you're burnt at
+the end of the day,",9
+550,551,1345.21,1346.712,"we're not going to
+be competitive.",SPEAKER_14,1.5019999999999527,US,US01,1,1,S01E01,551,1345.21,1346.712,SPEAKER_14,"we're not going to
+be competitive.",6
+551,552,1347.212,1349.214,"Take a break, and if it
+bounces a little tonight,",SPEAKER_14,2.0019999999999527,US,US01,1,1,S01E01,552,1347.212,1349.214,SPEAKER_14,"Take a break, and if it
+bounces a little tonight,",10
+552,553,1349.214,1350.716,then we'll fix it tomorrow.,SPEAKER_14,1.5019999999999527,US,US01,1,1,S01E01,553,1349.214,1350.716,SPEAKER_14,then we'll fix it tomorrow.,5
+553,554,1350.716,1352.417,"I'm going to keep
+working, sweetheart.",SPEAKER_05,0.8335312499998508,US,US01,1,1,S01E01,554,1350.716,1352.417,SPEAKER_05,"I'm going to keep
+working, sweetheart.",6
+554,555,1352.417,1353.919,"You're going to
+get burned out.",SPEAKER_05,0.6514687500002765,US,US01,1,1,S01E01,555,1352.417,1353.919,SPEAKER_05,"You're going to
+get burned out.",6
+555,556,1353.919,1354.92,"No, I'm not.",SPEAKER_17,0.22946875000002365,US,US01,1,1,S01E01,556,1353.919,1354.92,SPEAKER_17,"No, I'm not.",3
+556,557,1354.92,1355.921,"Yeah, you are.",SPEAKER_05,0.8822187499999927,US,US01,1,1,S01E01,557,1354.92,1355.921,SPEAKER_05,"Yeah, you are.",3
+557,558,1355.921,1357.923,You already are.,SPEAKER_17,1.383093750000171,US,US01,1,1,S01E01,558,1355.921,1357.923,SPEAKER_17,You already are.,3
+558,559,1369.034,1370.535,"B.B.: Oh, my.",SPEAKER_05,0.3721562499999891,US,US01,1,1,S01E01,559,1369.034,1370.535,SPEAKER_05,"B.B.: Oh, my.",3
+559,560,1377.943,1378.944,You're doing fine.,SPEAKER_14,0.4955312499998854,US,US01,1,1,S01E01,560,1377.943,1378.944,SPEAKER_14,You're doing fine.,3
+560,561,1379.444,1379.444,Too much paper.,UNKNOWN,0.0,US,US01,1,1,S01E01,561,1379.444,1379.444,UNKNOWN,Too much paper.,3
+561,562,1379.945,1381.947,Yeah.,SPEAKER_14,0.14034375000028376,US,US01,1,1,S01E01,562,1379.945,1381.947,SPEAKER_14,Yeah.,1
+562,563,1382.047,1383.548,Bifocals work?,SPEAKER_05,0.6614062499997999,US,US01,1,1,S01E01,563,1382.047,1383.548,SPEAKER_05,Bifocals work?,2
+563,564,1383.548,1385.55,Bifocals worked.,SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,564,1383.548,1385.55,SPEAKER_05,Bifocals worked.,2
+564,565,1385.55,1386.551,"You the man, B.",SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,565,1385.55,1386.551,SPEAKER_05,"You the man, B.",4
+565,566,1386.551,1388.553,"No, she took my bifocals...",SPEAKER_05,1.4645312499999363,US,US01,1,1,S01E01,566,1386.551,1388.553,SPEAKER_05,"No, she took my bifocals...",5
+566,567,1388.553,1390.055,We're both the man.,SPEAKER_05,0.8642187499999636,US,US01,1,1,S01E01,567,1388.553,1390.055,SPEAKER_05,We're both the man.,4
+567,568,1390.055,1391.056,And made it happen.,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,568,1390.055,1391.056,SPEAKER_05,And made it happen.,4
+568,569,1391.556,1393.058,B.B.: And the fire started,SPEAKER_05,0.7382812499997726,US,US01,1,1,S01E01,569,1391.556,1393.058,SPEAKER_05,B.B.: And the fire started,5
+569,570,1393.058,1396.862,"because I had bought a
+set of glasses with me.",SPEAKER_05,3.8040000000000873,US,US01,1,1,S01E01,570,1393.058,1396.862,SPEAKER_05,"because I had bought a
+set of glasses with me.",10
+570,571,1396.862,1397.863,I was going to do it,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,571,1396.862,1397.863,SPEAKER_05,I was going to do it,6
+571,572,1398.363,1399.865,"and Gretchen said,
+""Why don't I do it?",SPEAKER_05,1.5019999999999527,US,US01,1,1,S01E01,572,1398.363,1399.865,SPEAKER_05,"and Gretchen said,
+""Why don't I do it?",8
+572,573,1400.365,1402.367,"I know how to do it, too.""
+So, I said, ""Great.""",SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,573,1400.365,1402.367,SPEAKER_05,"I know how to do it, too.""
+So, I said, ""Great.""",11
+573,574,1402.467,1404.469,"Nice, guys. You guys
+split up and everything.",SPEAKER_05,2.0019999999999527,US,US01,1,1,S01E01,574,1402.467,1404.469,SPEAKER_05,"Nice, guys. You guys
+split up and everything.",8
+574,575,1404.469,1405.47,Amen. Good work.,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,575,1404.469,1405.47,SPEAKER_05,Amen. Good work.,3
+575,576,1405.47,1406.471,B.B.: And she took my glasses,SPEAKER_05,1.0009999999999764,US,US01,1,1,S01E01,576,1405.47,1406.471,SPEAKER_05,B.B.: And she took my glasses,6
+576,577,1406.972,1408.974,and started the fire.,SPEAKER_05,1.9695937500000582,US,US01,1,1,S01E01,577,1406.972,1408.974,SPEAKER_05,and started the fire.,4
+577,578,1408.974,1410.475,"You did well, Gretch.",SPEAKER_05,1.1137500000002092,US,US01,1,1,S01E01,578,1408.974,1410.475,SPEAKER_05,"You did well, Gretch.",4
+578,579,1413.979,1414.98,"If we get fire,",SPEAKER_18,0.9927812499997799,US,US01,1,1,S01E01,579,1413.979,1414.98,SPEAKER_18,"If we get fire,",4
+579,580,1415.48,1418.483,"it means we're going to have
+a hot meal in our stomach",SPEAKER_18,3.002999999999929,US,US01,1,1,S01E01,580,1415.48,1418.483,SPEAKER_18,"it means we're going to have
+a hot meal in our stomach",12
+580,581,1418.483,1420.485,"which is going to
+bring up team morale.",SPEAKER_18,2.0019999999999527,US,US01,1,1,S01E01,581,1418.483,1420.485,SPEAKER_18,"which is going to
+bring up team morale.",8
+581,582,1420.485,1422.487,"That first meal
+might be rat soup,",SPEAKER_18,2.00200000000018,US,US01,1,1,S01E01,582,1420.485,1422.487,SPEAKER_18,"That first meal
+might be rat soup,",7
+582,583,1422.487,1424.99,"which I'm, like, looking
+forward to very much",SPEAKER_18,2.502999999999929,US,US01,1,1,S01E01,583,1422.487,1424.99,SPEAKER_18,"which I'm, like, looking
+forward to very much",8
+583,584,1424.99,1426.992,"because there's nothing
+wrong with a rat.",SPEAKER_18,2.0019999999999527,US,US01,1,1,S01E01,584,1424.99,1426.992,SPEAKER_18,"because there's nothing
+wrong with a rat.",7
+584,585,1427.492,1429.995,"All a rat is, is a squirrel
+without a fuzzy tail.",SPEAKER_18,2.502999999999929,US,US01,1,1,S01E01,585,1427.492,1429.995,SPEAKER_18,"All a rat is, is a squirrel
+without a fuzzy tail.",11
+585,586,1429.995,1431.897,Let's just work with this.,SPEAKER_09,0.6972812499998327,US,US01,1,1,S01E01,586,1429.995,1431.897,SPEAKER_09,Let's just work with this.,5
+586,587,1431.897,1432.898,Okay.,SPEAKER_09,1.0009999999999764,US,US01,1,1,S01E01,587,1431.897,1432.898,SPEAKER_09,Okay.,1
+587,588,1433.398,1434.9,"I'm thinking, if we
+could work with this,",SPEAKER_09,1.0002812499999436,US,US01,1,1,S01E01,588,1433.398,1434.9,SPEAKER_09,"I'm thinking, if we
+could work with this,",8
+588,589,1434.9,1436.902,we're getting a ton of smoke.,SPEAKER_09,2.0019999999999527,US,US01,1,1,S01E01,589,1434.9,1436.902,SPEAKER_09,we're getting a ton of smoke.,6
+589,590,1436.902,1439.404,"Start that piece of wood? If
+we get a piece of bamboo,",SPEAKER_09,2.5019999999999527,US,US01,1,1,S01E01,590,1436.902,1439.404,SPEAKER_09,"Start that piece of wood? If
+we get a piece of bamboo,",12
+590,591,1439.404,1441.406,"someone sits here and holds
+the bamboo right here",SPEAKER_09,2.0019999999999527,US,US01,1,1,S01E01,591,1439.404,1441.406,SPEAKER_09,"someone sits here and holds
+the bamboo right here",9
+591,592,1441.406,1443.408,"with the kindling in it.
+With the kindling in it.",SPEAKER_09,2.0019999999999527,US,US01,1,1,S01E01,592,1441.406,1443.408,SPEAKER_09,"with the kindling in it.
+With the kindling in it.",10
+592,593,1443.408,1444.91,You know what I'm saying?,SPEAKER_09,0.8009062500000255,US,US01,1,1,S01E01,593,1443.408,1444.91,SPEAKER_09,You know what I'm saying?,5
+593,594,1444.91,1446.211,Here we go.,SPEAKER_09,0.2284687500000473,US,US01,1,1,S01E01,594,1444.91,1446.211,SPEAKER_09,Here we go.,3
+594,595,1452.717,1454.619,"Come on, Dirk.",SPEAKER_19,0.7593749999998636,US,US01,1,1,S01E01,595,1452.717,1454.619,SPEAKER_19,"Come on, Dirk.",3
+595,596,1456.221,1457.222,Go big.,UNKNOWN,0.0,US,US01,1,1,S01E01,596,1456.221,1457.222,UNKNOWN,Go big.,2
+596,597,1457.722,1460.225,This isn't going to catch.,SPEAKER_27,1.0293750000000728,US,US01,1,1,S01E01,597,1457.722,1460.225,SPEAKER_27,This isn't going to catch.,5
+597,598,1462.727,1464.93,"Well, you want to
+just keep trying?",SPEAKER_27,0.5906250000000455,US,US01,1,1,S01E01,598,1462.727,1464.93,SPEAKER_27,"Well, you want to
+just keep trying?",7
+598,599,1464.93,1466.731,"Why don't we try and
+make the bough?",SPEAKER_19,1.1165937499999927,US,US01,1,1,S01E01,599,1464.93,1466.731,SPEAKER_19,"Why don't we try and
+make the bough?",8
+599,600,1467.132,1468.633,MAN: Go...!,UNKNOWN,0.0,US,US01,1,1,S01E01,600,1467.132,1468.633,UNKNOWN,MAN: Go...!,2
+600,601,1469.134,1470.235,Come on! We're getting there!,UNKNOWN,0.0,US,US01,1,1,S01E01,601,1469.134,1470.235,UNKNOWN,Come on! We're getting there!,5
+601,602,1470.235,1471.736,All right! Okay!,UNKNOWN,0.0,US,US01,1,1,S01E01,602,1470.235,1471.736,UNKNOWN,All right! Okay!,3
+602,603,1472.237,1473.839,Don't stop! Don't stop!,UNKNOWN,0.0,US,US01,1,1,S01E01,603,1472.237,1473.839,UNKNOWN,Don't stop! Don't stop!,4
+603,604,1473.839,1476.341,There was smoke. We lost it.,SPEAKER_17,0.33750000000009095,US,US01,1,1,S01E01,604,1473.839,1476.341,SPEAKER_17,There was smoke. We lost it.,6
+604,605,1476.541,1477.542,A lot of smoke. Yeah.,SPEAKER_17,0.5568749999999909,US,US01,1,1,S01E01,605,1476.541,1477.542,SPEAKER_17,A lot of smoke. Yeah.,5
+605,606,1477.542,1478.543,Don't you guys...,SPEAKER_11,0.3970312499998272,US,US01,1,1,S01E01,606,1477.542,1478.543,SPEAKER_11,Don't you guys...,3
+606,607,1478.543,1480.545,Cool!,SPEAKER_11,0.8100000000001728,US,US01,1,1,S01E01,607,1478.543,1480.545,SPEAKER_11,Cool!,1
+607,608,1480.545,1481.546,How much more do we need?,UNKNOWN,0.0,US,US01,1,1,S01E01,608,1480.545,1481.546,UNKNOWN,How much more do we need?,6
+608,609,1481.546,1482.547,I don't know.,SPEAKER_11,0.6581249999999272,US,US01,1,1,S01E01,609,1481.546,1482.547,SPEAKER_11,I don't know.,3
+609,610,1482.547,1483.548,How much more?,SPEAKER_11,0.7951562499997635,US,US01,1,1,S01E01,610,1482.547,1483.548,SPEAKER_11,How much more?,3
+610,611,1483.949,1484.449,That'll do it.,UNKNOWN,0.0,US,US01,1,1,S01E01,611,1483.949,1484.449,UNKNOWN,That'll do it.,3
+611,612,1484.95,1485.45,"You in, Rich?",SPEAKER_08,0.08437500000013642,US,US01,1,1,S01E01,612,1484.95,1485.45,SPEAKER_08,"You in, Rich?",3
+612,613,1485.951,1487.552,Here we go. Here we go.,SPEAKER_11,0.1518750000000182,US,US01,1,1,S01E01,613,1485.951,1487.552,SPEAKER_11,Here we go. Here we go.,6
+613,614,1487.552,1489.054,"Work it, Rich.",UNKNOWN,0.0,US,US01,1,1,S01E01,614,1487.552,1489.054,UNKNOWN,"Work it, Rich.",3
+614,615,1489.154,1489.654,Yeah.,UNKNOWN,0.0,US,US01,1,1,S01E01,615,1489.154,1489.654,UNKNOWN,Yeah.,1
+615,616,1490.155,1491.156,What?,SPEAKER_08,0.33750000000009095,US,US01,1,1,S01E01,616,1490.155,1491.156,SPEAKER_08,What?,1
+616,617,1491.156,1494.459,"You guys get ready
+to take his spot.",SPEAKER_17,1.8731250000000728,US,US01,1,1,S01E01,617,1491.156,1494.459,SPEAKER_17,"You guys get ready
+to take his spot.",8
+617,618,1494.459,1495.961,"Take a break, man.",SPEAKER_17,0.5737500000000182,US,US01,1,1,S01E01,618,1494.459,1495.961,SPEAKER_17,"Take a break, man.",4
+618,619,1496.061,1498.063,We made a lot smoke but no fire.,SPEAKER_07,2.00200000000018,US,US01,1,1,S01E01,619,1496.061,1498.063,SPEAKER_07,We made a lot smoke but no fire.,8
+619,620,1498.163,1500.165,"I think it would have
+been nice if we had fire,",SPEAKER_07,2.0019999999999527,US,US01,1,1,S01E01,620,1498.163,1500.165,SPEAKER_07,"I think it would have
+been nice if we had fire,",11
+620,621,1500.165,1501.666,"but we're not going
+to catch fish",SPEAKER_07,1.5009999999999764,US,US01,1,1,S01E01,621,1500.165,1501.666,SPEAKER_07,"but we're not going
+to catch fish",7
+621,622,1501.666,1503.068,unless we have fire to cook it,SPEAKER_07,1.4020000000000437,US,US01,1,1,S01E01,622,1501.666,1503.068,SPEAKER_07,unless we have fire to cook it,7
+622,623,1503.568,1505.07,"and I think that
+if we had fire,",SPEAKER_07,1.5019999999999527,US,US01,1,1,S01E01,623,1503.568,1505.07,SPEAKER_07,"and I think that
+if we had fire,",8
+623,624,1505.17,1507.172,"we could have spent a
+lot of time sitting",SPEAKER_07,2.0019999999999527,US,US01,1,1,S01E01,624,1505.17,1507.172,SPEAKER_07,"we could have spent a
+lot of time sitting",9
+624,625,1507.672,1509.674,"around the bonfire at night
+maybe singing songs.",SPEAKER_07,2.0019999999999527,US,US01,1,1,S01E01,625,1507.672,1509.674,SPEAKER_07,"around the bonfire at night
+maybe singing songs.",8
+625,626,1509.674,1510.675,"We have a ukulele, you know,",SPEAKER_07,1.0009999999999764,US,US01,1,1,S01E01,626,1509.674,1510.675,SPEAKER_07,"We have a ukulele, you know,",6
+626,627,1510.675,1512.677,"and that didn't happen
+and I wish it did.",SPEAKER_07,1.9634687500001746,US,US01,1,1,S01E01,627,1510.675,1512.677,SPEAKER_07,"and that didn't happen
+and I wish it did.",9
+627,628,1512.677,1514.679,"Throughout their
+time on the island,",SPEAKER_06,1.3486562499999764,US,US01,1,1,S01E01,628,1512.677,1514.679,SPEAKER_06,"Throughout their
+time on the island,",6
+628,629,1514.679,1517.682,"the tribes will compete in
+a series of challenges.",SPEAKER_06,3.002999999999929,US,US01,1,1,S01E01,629,1514.679,1517.682,SPEAKER_06,"the tribes will compete in
+a series of challenges.",9
+629,630,1518.183,1519.184,They'll receive messages,SPEAKER_06,1.0009999999999764,US,US01,1,1,S01E01,630,1518.183,1519.184,SPEAKER_06,They'll receive messages,3
+630,631,1519.684,1521.686,"notifying them of
+these competitions",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,631,1519.684,1521.686,SPEAKER_06,"notifying them of
+these competitions",5
+631,632,1521.686,1523.188,at their tree mail.,SPEAKER_06,1.1280937500002892,US,US01,1,1,S01E01,632,1521.686,1523.188,SPEAKER_06,at their tree mail.,4
+632,633,1523.188,1525.19,"Today's challenge
+is for both reward,",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,633,1523.188,1525.19,SPEAKER_06,"Today's challenge
+is for both reward,",6
+633,634,1525.69,1528.693,"in the form of 50 waterproof
+matches, and immunity.",SPEAKER_06,2.8414062499998636,US,US01,1,1,S01E01,634,1525.69,1528.693,SPEAKER_06,"in the form of 50 waterproof
+matches, and immunity.",9
+634,635,1528.693,1532.697,"Win immunity, you stay on the
+island a few days longer.",SPEAKER_06,4.003999999999905,US,US01,1,1,S01E01,635,1528.693,1532.697,SPEAKER_06,"Win immunity, you stay on the
+island a few days longer.",11
+635,636,1532.697,1534.199,"Lose, face Tribal Council,",SPEAKER_06,1.50200000000018,US,US01,1,1,S01E01,636,1532.697,1534.199,SPEAKER_06,"Lose, face Tribal Council,",4
+636,637,1534.699,1537.702,"where you must vote one
+member off the island.",SPEAKER_06,2.3069687500001237,US,US01,1,1,S01E01,637,1534.699,1537.702,SPEAKER_06,"where you must vote one
+member off the island.",9
+637,638,1546.511,1548.013,Ooh.,SPEAKER_13,0.6749999999999545,US,US01,1,1,S01E01,638,1546.511,1548.013,SPEAKER_13,Ooh.,1
+638,639,1549.614,1551.116,A map to fire.,SPEAKER_27,0.7619062499998108,US,US01,1,1,S01E01,639,1549.614,1551.116,SPEAKER_27,A map to fire.,4
+639,640,1551.116,1552.617,It's got to be.,SPEAKER_27,1.2124687500001983,US,US01,1,1,S01E01,640,1551.116,1552.617,SPEAKER_27,It's got to be.,4
+640,641,1552.617,1554.119,"""Cold food, dark camp,",SPEAKER_04,1.3349062499996762,US,US01,1,1,S01E01,641,1552.617,1554.119,SPEAKER_04,"""Cold food, dark camp,",4
+641,642,1554.119,1556.621,"""just a reminder of
+your first night.",SPEAKER_04,2.50200000000018,US,US01,1,1,S01E01,642,1554.119,1556.621,SPEAKER_04,"""just a reminder of
+your first night.",7
+642,643,1556.621,1559.124,"It looks so easy
+in the book."" Yes.",SPEAKER_04,2.502999999999929,US,US01,1,1,S01E01,643,1556.621,1559.124,SPEAKER_04,"It looks so easy
+in the book."" Yes.",8
+643,644,1559.324,1560.825,"""Why is it so hard to light?",SPEAKER_04,1.5009999999999764,US,US01,1,1,S01E01,644,1559.324,1560.825,SPEAKER_04,"""Why is it so hard to light?",7
+644,645,1561.326,1563.428,"""Tonight your tribe
+will carry the torch.",SPEAKER_03,1.3964062499999272,US,US01,1,1,S01E01,645,1561.326,1563.428,SPEAKER_03,"""Tonight your tribe
+will carry the torch.",7
+645,646,1563.628,1565.63,"""One tribe takes
+home the flame.",SPEAKER_03,2.00200000000018,US,US01,1,1,S01E01,646,1563.628,1565.63,SPEAKER_03,"""One tribe takes
+home the flame.",6
+646,647,1565.63,1568.633,"The other gives
+someone the boot.""",SPEAKER_03,2.763468750000129,US,US01,1,1,S01E01,647,1565.63,1568.633,SPEAKER_03,"The other gives
+someone the boot.""",6
+647,648,1568.633,1569.634,Whoa!,SPEAKER_11,0.6330312499999309,US,US01,1,1,S01E01,648,1568.633,1569.634,SPEAKER_11,Whoa!,1
+648,649,1570.135,1571.136,Whoa.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,649,1570.135,1571.136,SPEAKER_27,Whoa.,1
+649,650,1571.136,1572.637,"I guess they're
+combining the reward",SPEAKER_03,1.2904062499997053,US,US01,1,1,S01E01,650,1571.136,1572.637,SPEAKER_03,"I guess they're
+combining the reward",6
+650,651,1572.637,1574.139,"and immunity
+challenge this time.",SPEAKER_03,1.5019999999999527,US,US01,1,1,S01E01,651,1572.637,1574.139,SPEAKER_03,"and immunity
+challenge this time.",5
+651,652,1574.139,1576.141,"That's the competition is
+taking home the flame,",SPEAKER_27,2.00200000000018,US,US01,1,1,S01E01,652,1574.139,1576.141,SPEAKER_27,"That's the competition is
+taking home the flame,",8
+652,653,1576.141,1578.643,"but what's the competition?
+We've got no freakin' idea.",SPEAKER_27,2.5019999999999527,US,US01,1,1,S01E01,653,1576.141,1578.643,SPEAKER_27,"but what's the competition?
+We've got no freakin' idea.",9
+653,654,1591.556,1594.059,"Welcome, tribes, to
+your first challenge.",SPEAKER_06,1.3655312499997763,US,US01,1,1,S01E01,654,1591.556,1594.059,SPEAKER_06,"Welcome, tribes, to
+your first challenge.",6
+654,655,1594.059,1596.061,"Congratulations on
+your first night",SPEAKER_06,0.9544062499996926,US,US01,1,1,S01E01,655,1594.059,1596.061,SPEAKER_06,"Congratulations on
+your first night",5
+655,656,1596.361,1598.363,"on the island--
+should be very proud.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,656,1596.361,1598.363,SPEAKER_06,"on the island--
+should be very proud.",7
+656,657,1598.563,1600.565,"I know both of you
+guys have food.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,657,1598.563,1600.565,SPEAKER_06,"I know both of you
+guys have food.",8
+657,658,1600.565,1602.067,You found some fresh water,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,658,1600.565,1602.067,SPEAKER_06,You found some fresh water,5
+658,659,1602.067,1604.569,"and I think, Pagong,
+you guys had fire.",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,659,1602.067,1604.569,SPEAKER_06,"and I think, Pagong,
+you guys had fire.",8
+659,660,1605.07,1605.57,(cheers),SPEAKER_11,0.5,US,US01,1,1,S01E01,660,1605.07,1605.57,SPEAKER_11,(cheers),1
+660,661,1606.071,1606.571,Right on.,SPEAKER_11,0.5,US,US01,1,1,S01E01,661,1606.071,1606.571,SPEAKER_11,Right on.,2
+661,662,1607.072,1608.173,A lot of work to get fire.,SPEAKER_06,1.0682812499999272,US,US01,1,1,S01E01,662,1607.072,1608.173,SPEAKER_06,A lot of work to get fire.,7
+662,663,1608.373,1608.873,Yeah.,SPEAKER_06,0.5,US,US01,1,1,S01E01,663,1608.373,1608.873,SPEAKER_06,Yeah.,1
+663,664,1609.374,1610.875,"Yeah, it takes a lot of work.",SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,664,1609.374,1610.875,SPEAKER_06,"Yeah, it takes a lot of work.",7
+664,665,1611.076,1612.577,"With the threat of rain
+always a constant,",SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,665,1611.076,1612.577,SPEAKER_06,"With the threat of rain
+always a constant,",8
+665,666,1612.577,1613.979,"even if you guys
+did have fire,",SPEAKER_06,1.4020000000000437,US,US01,1,1,S01E01,666,1612.577,1613.979,SPEAKER_06,"even if you guys
+did have fire,",7
+666,667,1613.979,1615.981,"you're certainly not back
+there tending to them now.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,667,1613.979,1615.981,SPEAKER_06,"you're certainly not back
+there tending to them now.",9
+667,668,1615.981,1618.483,"50 waterproof matches
+should certainly make that",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,668,1615.981,1618.483,SPEAKER_06,"50 waterproof matches
+should certainly make that",7
+668,669,1618.583,1619.084,a lot easier.,SPEAKER_06,0.5009999999999764,US,US01,1,1,S01E01,669,1618.583,1619.084,SPEAKER_06,a lot easier.,3
+669,670,1619.584,1621.086,It's one of the things,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,670,1619.584,1621.086,SPEAKER_06,It's one of the things,5
+670,671,1621.086,1623.288,"you're playing for tonight--
+the other is this:",SPEAKER_06,2.201999999999998,US,US01,1,1,S01E01,671,1621.086,1623.288,SPEAKER_06,"you're playing for tonight--
+the other is this:",8
+671,672,1623.288,1625.49,"I want everybody to touch this,
+get a good feel of this.",SPEAKER_06,2.201999999999998,US,US01,1,1,S01E01,672,1623.288,1625.49,SPEAKER_06,"I want everybody to touch this,
+get a good feel of this.",12
+672,673,1625.49,1627.292,"This is your life
+on the island.",SPEAKER_06,1.8019999999999072,US,US01,1,1,S01E01,673,1625.49,1627.292,SPEAKER_06,"This is your life
+on the island.",7
+673,674,1627.492,1628.493,This is the immunity idol.,SPEAKER_06,1.0009999999999764,US,US01,1,1,S01E01,674,1627.492,1628.493,SPEAKER_06,This is the immunity idol.,5
+674,675,1628.994,1629.494,Oh. Ah.,SPEAKER_06,0.5,US,US01,1,1,S01E01,675,1628.994,1629.494,SPEAKER_06,Oh. Ah.,2
+675,676,1629.995,1631.096,"Win this,",SPEAKER_06,1.1010000000001128,US,US01,1,1,S01E01,676,1629.995,1631.096,SPEAKER_06,"Win this,",2
+676,677,1631.096,1632.597,"you stay on the island
+a few days longer.",SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,677,1631.096,1632.597,SPEAKER_06,"you stay on the island
+a few days longer.",9
+677,678,1633.098,1634.099,Lose...,SPEAKER_06,1.0009999999999764,US,US01,1,1,S01E01,678,1633.098,1634.099,SPEAKER_06,Lose...,1
+678,679,1634.099,1635.6,"you face tomorrow's
+Tribal Council,",SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,679,1634.099,1635.6,SPEAKER_06,"you face tomorrow's
+Tribal Council,",5
+679,680,1636.101,1637.202,where one of you will be,SPEAKER_06,1.1009999999998854,US,US01,1,1,S01E01,680,1636.101,1637.202,SPEAKER_06,where one of you will be,6
+680,681,1637.202,1639.204,"the first person voted
+off the island.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,681,1637.202,1639.204,SPEAKER_06,"the first person voted
+off the island.",7
+681,682,1639.204,1640.205,Big enough stakes?,SPEAKER_06,0.8407187500001783,US,US01,1,1,S01E01,682,1639.204,1640.205,SPEAKER_06,Big enough stakes?,3
+682,683,1640.205,1641.206,"Oh, yeah.",SPEAKER_06,0.7562812499998017,US,US01,1,1,S01E01,683,1640.205,1641.206,SPEAKER_06,"Oh, yeah.",2
+683,684,1641.206,1642.707,"Okay, here's what we're doing.",SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,684,1641.206,1642.707,SPEAKER_06,"Okay, here's what we're doing.",5
+684,685,1642.707,1644.209,There are two rafts,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,685,1642.707,1644.209,SPEAKER_06,There are two rafts,4
+685,686,1644.409,1645.41,"about 150 feet out
+in the water.",SPEAKER_06,1.0009999999999764,US,US01,1,1,S01E01,686,1644.409,1645.41,SPEAKER_06,"about 150 feet out
+in the water.",7
+686,687,1645.91,1649.214,"Your job is to get your
+raft back to the beach.",SPEAKER_06,3.30399999999986,US,US01,1,1,S01E01,687,1645.91,1649.214,SPEAKER_06,"Your job is to get your
+raft back to the beach.",11
+687,688,1649.214,1651.416,"Along the way, a series of
+torches both in the water",SPEAKER_06,2.201999999999998,US,US01,1,1,S01E01,688,1649.214,1651.416,SPEAKER_06,"Along the way, a series of
+torches both in the water",11
+688,689,1651.416,1652.917,and on the land.,SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,689,1651.416,1652.917,SPEAKER_06,and on the land.,4
+689,690,1652.917,1654.419,"First team to light
+all their torches",SPEAKER_06,1.50200000000018,US,US01,1,1,S01E01,690,1652.917,1654.419,SPEAKER_06,"First team to light
+all their torches",7
+690,691,1654.919,1657.422,"and their side of the fire
+spirit wins immunity.",SPEAKER_06,2.502999999999929,US,US01,1,1,S01E01,691,1654.919,1657.422,SPEAKER_06,"and their side of the fire
+spirit wins immunity.",9
+691,692,1657.422,1659.424,"Here are the rules:
+Each tribe member",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,692,1657.422,1659.424,SPEAKER_06,"Here are the rules:
+Each tribe member",7
+692,693,1659.424,1661.426,"has to have one
+hand on the raft",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,693,1659.424,1661.426,SPEAKER_06,"has to have one
+hand on the raft",8
+693,694,1661.426,1663.128,at all times-- atalltimes.,SPEAKER_06,1.7019999999999982,US,US01,1,1,S01E01,694,1661.426,1663.128,SPEAKER_06,at all times-- atalltimes.,4
+694,695,1663.128,1664.629,Nobody can swim ahead.,SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,695,1663.128,1664.629,SPEAKER_06,Nobody can swim ahead.,4
+695,696,1664.629,1665.83,Nobody can fall behind.,SPEAKER_06,1.2010000000000218,US,US01,1,1,S01E01,696,1664.629,1665.83,SPEAKER_06,Nobody can fall behind.,4
+696,697,1665.83,1667.832,"The other rule: you have
+to light every torch.",SPEAKER_06,2.00200000000018,US,US01,1,1,S01E01,697,1665.83,1667.832,SPEAKER_06,"The other rule: you have
+to light every torch.",9
+697,698,1668.033,1669.034,Don't put me in the position,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,698,1668.033,1669.034,SPEAKER_06,Don't put me in the position,6
+698,699,1669.034,1670.535,"of having to make
+a judgment call.",SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,699,1669.034,1670.535,SPEAKER_06,"of having to make
+a judgment call.",7
+699,700,1670.535,1672.037,"I don't want to. There's
+too much at stake.",SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,700,1670.535,1672.037,SPEAKER_06,"I don't want to. There's
+too much at stake.",9
+700,701,1672.537,1673.038,Clear?,SPEAKER_06,0.5009999999999764,US,US01,1,1,S01E01,701,1672.537,1673.038,SPEAKER_06,Clear?,1
+701,702,1673.538,1674.039,ALL: Clear.,SPEAKER_06,0.5009999999999764,US,US01,1,1,S01E01,702,1673.538,1674.039,SPEAKER_06,ALL: Clear.,2
+702,703,1674.539,1676.041,"All right, swim out
+to your rafts.",SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,703,1674.539,1676.041,SPEAKER_06,"All right, swim out
+to your rafts.",7
+703,704,1676.441,1677.942,Wait for my signal.,SPEAKER_06,1.133718750000071,US,US01,1,1,S01E01,704,1676.441,1677.942,SPEAKER_06,Wait for my signal.,4
+704,705,1686.551,1688.053,"Okay, Sue, listen up.",UNKNOWN,0.0,US,US01,1,1,S01E01,705,1686.551,1688.053,UNKNOWN,"Okay, Sue, listen up.",4
+705,706,1688.253,1690.755,You're going to hold this.,UNKNOWN,0.0,US,US01,1,1,S01E01,706,1688.253,1690.755,UNKNOWN,You're going to hold this.,5
+706,707,1690.755,1692.557,"How's that feel
+for you carrying?",UNKNOWN,0.0,US,US01,1,1,S01E01,707,1690.755,1692.557,UNKNOWN,"How's that feel
+for you carrying?",6
+707,708,1692.757,1694.259,JEFF: Here we go!,SPEAKER_17,0.759375000000091,US,US01,1,1,S01E01,708,1692.757,1694.259,SPEAKER_17,JEFF: Here we go!,4
+708,709,1694.659,1695.66,A storm is approaching!,SPEAKER_06,0.9740312499998254,US,US01,1,1,S01E01,709,1694.659,1695.66,SPEAKER_06,A storm is approaching!,4
+709,710,1695.66,1698.163,"Waterproof matches and
+immunity at stake!",SPEAKER_06,2.2114062499997544,US,US01,1,1,S01E01,710,1695.66,1698.163,SPEAKER_06,"Waterproof matches and
+immunity at stake!",6
+710,711,1698.163,1699.164,Go!,SPEAKER_06,0.31984375000024556,US,US01,1,1,S01E01,711,1698.163,1699.164,SPEAKER_06,Go!,1
+711,712,1699.564,1701.066,Go! Here we go!,SPEAKER_11,0.5750312499999382,US,US01,1,1,S01E01,712,1699.564,1701.066,SPEAKER_11,Go! Here we go!,4
+712,713,1701.166,1702.667,Keep going. You got to lift.,SPEAKER_11,0.9779062499997053,US,US01,1,1,S01E01,713,1701.166,1702.667,SPEAKER_11,Keep going. You got to lift.,6
+713,714,1703.068,1705.07,"Come on, team!",SPEAKER_11,0.759375000000091,US,US01,1,1,S01E01,714,1703.068,1705.07,SPEAKER_11,"Come on, team!",3
+714,715,1707.572,1709.674,"Here we go! Light
+it! Light it!",UNKNOWN,0.0,US,US01,1,1,S01E01,715,1707.572,1709.674,UNKNOWN,"Here we go! Light
+it! Light it!",7
+715,716,1710.075,1712.077,Dry run it. Dry run it.,UNKNOWN,0.0,US,US01,1,1,S01E01,716,1710.075,1712.077,UNKNOWN,Dry run it. Dry run it.,6
+716,717,1712.077,1713.078,"Go, go, go!",UNKNOWN,0.0,US,US01,1,1,S01E01,717,1712.077,1713.078,UNKNOWN,"Go, go, go!",3
+717,718,1713.078,1714.579,Slow it down.,UNKNOWN,0.0,US,US01,1,1,S01E01,718,1713.078,1714.579,UNKNOWN,Slow it down.,3
+718,719,1714.579,1715.58,Go!,UNKNOWN,0.0,US,US01,1,1,S01E01,719,1714.579,1715.58,UNKNOWN,Go!,1
+719,720,1716.081,1718.183,"Here we go. Come on,
+y'all. Come on.",UNKNOWN,0.0,US,US01,1,1,S01E01,720,1716.081,1718.183,UNKNOWN,"Here we go. Come on,
+y'all. Come on.",8
+720,721,1718.283,1719.784,Do not wait for me.,UNKNOWN,0.0,US,US01,1,1,S01E01,721,1718.283,1719.784,UNKNOWN,Do not wait for me.,5
+721,722,1719.884,1721.386,(all yelling),UNKNOWN,0.0,US,US01,1,1,S01E01,722,1719.884,1721.386,UNKNOWN,(all yelling),2
+722,723,1721.386,1723.188,"No, no, no!",UNKNOWN,0.0,US,US01,1,1,S01E01,723,1721.386,1723.188,UNKNOWN,"No, no, no!",3
+723,724,1723.488,1726.491,Go. Go. We got it.,UNKNOWN,0.0,US,US01,1,1,S01E01,724,1723.488,1726.491,UNKNOWN,Go. Go. We got it.,5
+724,725,1726.591,1727.592,Good job.,UNKNOWN,0.0,US,US01,1,1,S01E01,725,1726.591,1727.592,UNKNOWN,Good job.,2
+725,726,1728.093,1729.194,Go!,UNKNOWN,0.0,US,US01,1,1,S01E01,726,1728.093,1729.194,UNKNOWN,Go!,1
+726,727,1729.194,1731.196,(all yelling),UNKNOWN,0.0,US,US01,1,1,S01E01,727,1729.194,1731.196,UNKNOWN,(all yelling),2
+727,728,1732.297,1733.798,Go!,UNKNOWN,0.0,US,US01,1,1,S01E01,728,1732.297,1733.798,UNKNOWN,Go!,1
+728,729,1733.898,1734.899,(all yelling),UNKNOWN,0.0,US,US01,1,1,S01E01,729,1733.898,1734.899,UNKNOWN,(all yelling),2
+729,730,1734.899,1735.9,Throw it!,UNKNOWN,0.0,US,US01,1,1,S01E01,730,1734.899,1735.9,UNKNOWN,Throw it!,2
+730,731,1736.201,1737.702,Go! Here we go! Come on!,UNKNOWN,0.0,US,US01,1,1,S01E01,731,1736.201,1737.702,UNKNOWN,Go! Here we go! Come on!,6
+731,732,1737.902,1739.404,To the flag!,SPEAKER_11,0.38812499999994543,US,US01,1,1,S01E01,732,1737.902,1739.404,SPEAKER_11,To the flag!,3
+732,733,1739.404,1740.405,Calm down.,SPEAKER_11,0.22403124999982538,US,US01,1,1,S01E01,733,1739.404,1740.405,SPEAKER_11,Calm down.,2
+733,734,1740.405,1741.906,Pick it up. Pick it up.,SPEAKER_11,0.4556249999998272,US,US01,1,1,S01E01,734,1740.405,1741.906,SPEAKER_11,Pick it up. Pick it up.,6
+734,735,1741.906,1742.907,Here comes the wave.,UNKNOWN,0.0,US,US01,1,1,S01E01,735,1741.906,1742.907,UNKNOWN,Here comes the wave.,4
+735,736,1743.408,1744.409,Pick it up. Pick it up.,SPEAKER_11,0.48178125000004,US,US01,1,1,S01E01,736,1743.408,1744.409,SPEAKER_11,Pick it up. Pick it up.,6
+736,737,1744.409,1745.91,Let's go.,SPEAKER_11,0.6994687500000509,US,US01,1,1,S01E01,737,1744.409,1745.91,SPEAKER_11,Let's go.,2
+737,738,1746.411,1748.012,Move it! Move it! Move it!,UNKNOWN,0.0,US,US01,1,1,S01E01,738,1746.411,1748.012,UNKNOWN,Move it! Move it! Move it!,6
+738,739,1748.113,1749.114,"Move it, move it, move it!",UNKNOWN,0.0,US,US01,1,1,S01E01,739,1748.113,1749.114,UNKNOWN,"Move it, move it, move it!",6
+739,740,1749.614,1750.615,"Move it, move it, move it!",UNKNOWN,0.0,US,US01,1,1,S01E01,740,1749.614,1750.615,UNKNOWN,"Move it, move it, move it!",6
+740,741,1751.116,1752.617,Make sure you get it.,UNKNOWN,0.0,US,US01,1,1,S01E01,741,1751.116,1752.617,UNKNOWN,Make sure you get it.,5
+741,742,1756.121,1757.322,Let's go!,SPEAKER_11,0.3712500000001455,US,US01,1,1,S01E01,742,1756.121,1757.322,SPEAKER_11,Let's go!,2
+742,743,1757.322,1759.324,Here we go! Let's go!,SPEAKER_11,0.1518750000000182,US,US01,1,1,S01E01,743,1757.322,1759.324,SPEAKER_11,Here we go! Let's go!,5
+743,744,1759.424,1760.425,Stop!,UNKNOWN,0.0,US,US01,1,1,S01E01,744,1759.424,1760.425,UNKNOWN,Stop!,1
+744,745,1760.425,1761.326,"Come on, team!",UNKNOWN,0.0,US,US01,1,1,S01E01,745,1760.425,1761.326,UNKNOWN,"Come on, team!",3
+745,746,1761.326,1762.327,We're doing good.,UNKNOWN,0.0,US,US01,1,1,S01E01,746,1761.326,1762.327,UNKNOWN,We're doing good.,3
+746,747,1762.827,1763.828,Three!,SPEAKER_11,0.34265624999989086,US,US01,1,1,S01E01,747,1762.827,1763.828,SPEAKER_11,Three!,1
+747,748,1763.828,1765.33,Come on!,SPEAKER_11,0.45562500000005457,US,US01,1,1,S01E01,748,1763.828,1765.33,SPEAKER_11,Come on!,2
+748,749,1765.33,1766.831,Go!,SPEAKER_11,0.038156249999701686,US,US01,1,1,S01E01,749,1765.33,1766.831,SPEAKER_11,Go!,1
+749,750,1766.831,1768.333,We're still there! Seven!,SPEAKER_11,0.3162187500001892,US,US01,1,1,S01E01,750,1766.831,1768.333,SPEAKER_11,We're still there! Seven!,4
+750,751,1768.333,1770.335,"We're doing it, we're
+doing it, we're doing it.",UNKNOWN,0.0,US,US01,1,1,S01E01,751,1768.333,1770.335,UNKNOWN,"We're doing it, we're
+doing it, we're doing it.",9
+751,752,1770.835,1772.837,We're still there. Come on.,SPEAKER_11,0.6918749999999818,US,US01,1,1,S01E01,752,1770.835,1772.837,SPEAKER_11,We're still there. Come on.,5
+752,753,1772.837,1775.84,Come on! We're still there!,UNKNOWN,0.0,US,US01,1,1,S01E01,753,1772.837,1775.84,UNKNOWN,Come on! We're still there!,5
+753,754,1775.84,1777.342,We're still there!,SPEAKER_11,0.37353124999981446,US,US01,1,1,S01E01,754,1775.84,1777.342,SPEAKER_11,We're still there!,3
+754,755,1777.342,1779.344,We win!,SPEAKER_11,0.2508437500000582,US,US01,1,1,S01E01,755,1777.342,1779.344,SPEAKER_11,We win!,2
+755,756,1779.344,1780.845,Going back!,UNKNOWN,0.0,US,US01,1,1,S01E01,756,1779.344,1780.845,UNKNOWN,Going back!,2
+756,757,1781.045,1783.047,It's lit! It's lit!,SPEAKER_11,0.4760312499997781,US,US01,1,1,S01E01,757,1781.045,1783.047,SPEAKER_11,It's lit! It's lit!,4
+757,758,1783.047,1784.048,"No, keep it there.",SPEAKER_11,0.9414687500002401,US,US01,1,1,S01E01,758,1783.047,1784.048,SPEAKER_11,"No, keep it there.",4
+758,759,1784.048,1785.049,We got it!,UNKNOWN,0.0,US,US01,1,1,S01E01,759,1784.048,1785.049,UNKNOWN,We got it!,3
+759,760,1785.049,1787.051,Yay!,UNKNOWN,0.0,US,US01,1,1,S01E01,760,1785.049,1787.051,UNKNOWN,Yay!,1
+760,761,1788.753,1790.255,"Yay! Yeah, baby!",UNKNOWN,0.0,US,US01,1,1,S01E01,761,1788.753,1790.255,UNKNOWN,"Yay! Yeah, baby!",3
+761,762,1790.755,1792.257,(screaming),UNKNOWN,0.0,US,US01,1,1,S01E01,762,1790.755,1792.257,UNKNOWN,(screaming),1
+762,763,1792.557,1794.058,Yes!,UNKNOWN,0.0,US,US01,1,1,S01E01,763,1792.557,1794.058,UNKNOWN,Yes!,1
+763,764,1795.66,1797.662,"JEFF: Guys, great competition.",SPEAKER_06,0.6581249999999272,US,US01,1,1,S01E01,764,1795.66,1797.662,SPEAKER_06,"JEFF: Guys, great competition.",4
+764,765,1797.662,1799.164,Really close.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,765,1797.662,1799.164,SPEAKER_06,Really close.,2
+765,766,1799.164,1802.167,"Pagong, you get
+fire in the form",SPEAKER_06,3.002999999999929,US,US01,1,1,S01E01,766,1799.164,1802.167,SPEAKER_06,"Pagong, you get
+fire in the form",7
+766,767,1802.167,1803.668,of 50 waterproof matches.,SPEAKER_06,1.5009999999999764,US,US01,1,1,S01E01,767,1802.167,1803.668,SPEAKER_06,of 50 waterproof matches.,4
+767,768,1803.668,1806.171,(team yelling),SPEAKER_06,1.701093750000382,US,US01,1,1,S01E01,768,1803.668,1806.171,SPEAKER_06,(team yelling),2
+768,769,1806.171,1807.672,And more importantly...,SPEAKER_06,1.1216562499998872,US,US01,1,1,S01E01,769,1806.171,1807.672,SPEAKER_06,And more importantly...,3
+769,770,1808.173,1810.675,"immunity from tomorrow's
+Tribal Council.",SPEAKER_06,1.779031249999889,US,US01,1,1,S01E01,770,1808.173,1810.675,SPEAKER_06,"immunity from tomorrow's
+Tribal Council.",5
+770,771,1810.675,1812.677,"You'll stay on the
+island a few more days.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,771,1810.675,1812.677,SPEAKER_06,"You'll stay on the
+island a few more days.",9
+771,772,1812.677,1814.679,"Yes! This is happening
+every time!",SPEAKER_06,1.3489687500002674,US,US01,1,1,S01E01,772,1812.677,1814.679,SPEAKER_06,"Yes! This is happening
+every time!",6
+772,773,1814.679,1816.681,"Every time, this is happening!",SPEAKER_11,1.64253124999982,US,US01,1,1,S01E01,773,1814.679,1816.681,SPEAKER_11,"Every time, this is happening!",5
+773,774,1816.681,1818.183,Every time!,SPEAKER_11,1.5019999999999527,US,US01,1,1,S01E01,774,1816.681,1818.183,SPEAKER_11,Every time!,2
+774,775,1818.183,1819.184,JEFF: Tagi.,SPEAKER_11,1.0009999999999764,US,US01,1,1,S01E01,775,1818.183,1819.184,SPEAKER_11,JEFF: Tagi.,2
+775,776,1819.684,1820.685,That's why we're winning.,SPEAKER_11,1.0009999999999764,US,US01,1,1,S01E01,776,1819.684,1820.685,SPEAKER_11,That's why we're winning.,4
+776,777,1821.186,1822.187,We're going to stay...,SPEAKER_11,1.0009999999999764,US,US01,1,1,S01E01,777,1821.186,1822.187,SPEAKER_11,We're going to stay...,4
+777,778,1822.687,1823.188,Our island!,SPEAKER_11,0.5010000000002037,US,US01,1,1,S01E01,778,1822.687,1823.188,SPEAKER_11,Our island!,2
+778,779,1823.688,1824.689,Tagi.,SPEAKER_06,0.31865625000000364,US,US01,1,1,S01E01,779,1823.688,1824.689,SPEAKER_06,Tagi.,1
+779,780,1824.689,1825.69,Nice competition.,SPEAKER_06,1.0009999999999764,US,US01,1,1,S01E01,780,1824.689,1825.69,SPEAKER_06,Nice competition.,2
+780,781,1825.69,1827.192,You know the drill.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,781,1825.69,1827.192,SPEAKER_06,You know the drill.,4
+781,782,1827.192,1829.694,"You have a date with me tomorrow
+for the Tribal Council,",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,782,1827.192,1829.694,SPEAKER_06,"You have a date with me tomorrow
+for the Tribal Council,",11
+782,783,1829.694,1831.196,where one of you will be,SPEAKER_06,0.8856562499997835,US,US01,1,1,S01E01,783,1829.694,1831.196,SPEAKER_06,where one of you will be,6
+783,784,1831.196,1832.697,the first person voted off.,SPEAKER_06,1.392468750000262,US,US01,1,1,S01E01,784,1831.196,1832.697,SPEAKER_06,the first person voted off.,5
+784,785,1895.26,1897.262,You guys seen Dirk?,SPEAKER_01,0.928124999999909,US,US01,1,1,S01E01,785,1895.26,1897.262,SPEAKER_01,You guys seen Dirk?,4
+785,786,1897.462,1898.963,Where the hell did he go?,SPEAKER_01,1.2032812499996908,US,US01,1,1,S01E01,786,1897.462,1898.963,SPEAKER_01,Where the hell did he go?,6
+786,787,1901.866,1904.869,"Oh, he goes... He brought
+his bible with him?",SPEAKER_17,1.489906249999649,US,US01,1,1,S01E01,787,1901.866,1904.869,SPEAKER_17,"Oh, he goes... He brought
+his bible with him?",9
+787,788,1904.869,1905.77,Yeah. Yeah.,SPEAKER_17,0.7713437500003693,US,US01,1,1,S01E01,788,1904.869,1905.77,SPEAKER_17,Yeah. Yeah.,2
+788,789,1905.77,1907.272,I think he's pretty religious.,SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,789,1905.77,1907.272,SPEAKER_27,I think he's pretty religious.,5
+789,790,1907.772,1910.275,"He was telling me he was a
+youth minister or something.",SPEAKER_27,1.9858437500001855,US,US01,1,1,S01E01,790,1907.772,1910.275,SPEAKER_27,"He was telling me he was a
+youth minister or something.",11
+790,791,1910.275,1912.677,(reading quietly),UNKNOWN,0.0,US,US01,1,1,S01E01,791,1910.275,1912.677,UNKNOWN,(reading quietly),2
+791,792,1930.194,1931.195,Rain's coming.,SPEAKER_26,0.7762499999998909,US,US01,1,1,S01E01,792,1930.194,1931.195,SPEAKER_26,Rain's coming.,2
+792,793,1931.195,1932.697,Again?,SPEAKER_26,0.5568749999999909,US,US01,1,1,S01E01,793,1931.195,1932.697,SPEAKER_26,Again?,1
+793,794,1933.197,1933.698,That's all right.,UNKNOWN,0.0,US,US01,1,1,S01E01,794,1933.197,1933.698,UNKNOWN,That's all right.,3
+794,795,1934.198,1935.7,I could always use a wash.,SPEAKER_27,1.3837499999999636,US,US01,1,1,S01E01,795,1934.198,1935.7,SPEAKER_27,I could always use a wash.,6
+795,796,1935.7,1938.202,"RUDY: Before we got
+on the island here,",SPEAKER_26,2.1866562499997144,US,US01,1,1,S01E01,796,1935.7,1938.202,SPEAKER_26,"RUDY: Before we got
+on the island here,",8
+796,797,1938.202,1940.705,"I formed opinions
+about people,",SPEAKER_26,2.502999999999929,US,US01,1,1,S01E01,797,1938.202,1940.705,SPEAKER_26,"I formed opinions
+about people,",5
+797,798,1940.705,1943.408,"but I changed my mind
+just on that trip in.",SPEAKER_26,2.7029999999999745,US,US01,1,1,S01E01,798,1940.705,1943.408,SPEAKER_26,"but I changed my mind
+just on that trip in.",10
+798,799,1943.708,1944.709,"Rich, for one.",SPEAKER_26,0.4924062499999309,US,US01,1,1,S01E01,799,1943.708,1944.709,SPEAKER_26,"Rich, for one.",3
+799,800,1944.709,1947.211,"I mean, this guy
+is... He's strong.",SPEAKER_26,2.5019999999999527,US,US01,1,1,S01E01,800,1944.709,1947.211,SPEAKER_26,"I mean, this guy
+is... He's strong.",7
+800,801,1947.211,1948.212,He's smart.,SPEAKER_26,1.0009999999999764,US,US01,1,1,S01E01,801,1947.211,1948.212,SPEAKER_26,He's smart.,2
+801,802,1948.212,1949.714,The guy surprises me.,SPEAKER_26,1.0086562499998308,US,US01,1,1,S01E01,802,1948.212,1949.714,SPEAKER_26,The guy surprises me.,4
+802,803,1949.714,1951.516,"You know, he's fat, but he's...",SPEAKER_26,1.2075312499998745,US,US01,1,1,S01E01,803,1949.714,1951.516,SPEAKER_26,"You know, he's fat, but he's...",6
+803,804,1951.516,1953.017,(chuckling): he's good.,SPEAKER_26,0.6655937500001983,US,US01,1,1,S01E01,804,1951.516,1953.017,SPEAKER_26,(chuckling): he's good.,3
+804,805,1953.518,1954.519,You can lay it over those.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,805,1953.518,1954.519,SPEAKER_27,You can lay it over those.,6
+805,806,1954.519,1955.52,RICHARD: I like Rudy.,SPEAKER_27,0.5988437500002419,US,US01,1,1,S01E01,806,1954.519,1955.52,SPEAKER_27,RICHARD: I like Rudy.,4
+806,807,1955.52,1956.521,I'm not bothered,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,807,1955.52,1956.521,SPEAKER_27,I'm not bothered,3
+807,808,1957.021,1958.022,"by his straightforwardness
+at all.",SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,808,1957.021,1958.022,SPEAKER_27,"by his straightforwardness
+at all.",5
+808,809,1958.022,1959.023,I don't think,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,809,1958.022,1959.023,SPEAKER_27,I don't think,3
+809,810,1959.023,1959.924,it's even a problem.,SPEAKER_27,0.9010000000000673,US,US01,1,1,S01E01,810,1959.023,1959.924,SPEAKER_27,it's even a problem.,4
+810,811,1959.924,1961.426,I-I like it that he's saying,SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,811,1959.924,1961.426,SPEAKER_27,I-I like it that he's saying,6
+811,812,1961.426,1963.127,"""Hey, do this,"" or,
+""Hey, do that,""",SPEAKER_27,1.7010000000000218,US,US01,1,1,S01E01,812,1961.426,1963.127,SPEAKER_27,"""Hey, do this,"" or,
+""Hey, do that,""",7
+812,813,1963.127,1965.63,"but people are thinking of that
+as very direct and arrogant.",SPEAKER_27,2.5030000000001564,US,US01,1,1,S01E01,813,1963.127,1965.63,SPEAKER_27,"but people are thinking of that
+as very direct and arrogant.",11
+813,814,1965.63,1967.632,"That's the word I'm hearing,
+and I'm thinking to myself",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,814,1965.63,1967.632,SPEAKER_27,"That's the word I'm hearing,
+and I'm thinking to myself",10
+814,815,1968.132,1970.635,"""Well, they thinkhe'sarrogant;
+Oh, my God, I'm out of here!""",SPEAKER_27,2.502999999999929,US,US01,1,1,S01E01,815,1968.132,1970.635,SPEAKER_27,"""Well, they thinkhe'sarrogant;
+Oh, my God, I'm out of here!""",10
+815,816,1973.538,1975.039,(thuds),UNKNOWN,0.0,US,US01,1,1,S01E01,816,1973.538,1975.039,UNKNOWN,(thuds),1
+816,817,1980.244,1981.746,"Oh, my gosh.",SPEAKER_13,0.7756562499998836,US,US01,1,1,S01E01,817,1980.244,1981.746,SPEAKER_13,"Oh, my gosh.",3
+817,818,1982.246,1983.247,What do we got?,SPEAKER_03,0.2599687500000982,US,US01,1,1,S01E01,818,1982.246,1983.247,SPEAKER_03,What do we got?,4
+818,819,1983.247,1986.25,"The good news is we'll
+be having fire tonight.",SPEAKER_03,2.46153124999978,US,US01,1,1,S01E01,819,1983.247,1986.25,SPEAKER_03,"The good news is we'll
+be having fire tonight.",9
+819,820,1986.25,1989.053,"The bad news is one of us
+won't be here to enjoy it.",SPEAKER_03,2.803000000000111,US,US01,1,1,S01E01,820,1986.25,1989.053,SPEAKER_03,"The bad news is one of us
+won't be here to enjoy it.",13
+820,821,1989.354,1990.355,We got Tribal Council tonight.,SPEAKER_19,0.9809062499998618,US,US01,1,1,S01E01,821,1989.354,1990.355,SPEAKER_19,We got Tribal Council tonight.,5
+821,822,1990.655,1991.656,"""Pack your bags,
+get ready to go,",SPEAKER_19,0.5437812499997108,US,US01,1,1,S01E01,822,1990.655,1991.656,SPEAKER_19,"""Pack your bags,
+get ready to go,",7
+822,823,1992.156,1994.158,"which one it will be, the
+world will soon know.""",SPEAKER_19,2.0019999999999527,US,US01,1,1,S01E01,823,1992.156,1994.158,SPEAKER_19,"which one it will be, the
+world will soon know.""",10
+823,824,1994.158,1997.161,"KELLY: Unfortunately, we're going
+to have to vote somebody off.",SPEAKER_19,3.0030000000001564,US,US01,1,1,S01E01,824,1994.158,1997.161,SPEAKER_19,"KELLY: Unfortunately, we're going
+to have to vote somebody off.",10
+824,825,1997.462,1998.963,"There's going to be
+a lot of tension",SPEAKER_19,1.5009999999999764,US,US01,1,1,S01E01,825,1997.462,1998.963,SPEAKER_19,"There's going to be
+a lot of tension",8
+825,826,1998.963,2000.965,and one of us is going to leave.,SPEAKER_19,1.3140312499997435,US,US01,1,1,S01E01,826,1998.963,2000.965,SPEAKER_19,and one of us is going to leave.,8
+826,827,2001.065,2003.568,"Well, what time we
+got to do this at?",SPEAKER_19,1.8259687500001291,US,US01,1,1,S01E01,827,2001.065,2003.568,SPEAKER_19,"Well, what time we
+got to do this at?",9
+827,828,2003.668,2005.67,"It just said, ""Get
+ready to go.""",SPEAKER_01,1.985906249999971,US,US01,1,1,S01E01,828,2003.668,2005.67,SPEAKER_01,"It just said, ""Get
+ready to go.""",7
+828,829,2005.67,2009.173,"Just, ""Pack your bags,
+get ready to go.""",SPEAKER_01,0.4103437500000382,US,US01,1,1,S01E01,829,2005.67,2009.173,SPEAKER_01,"Just, ""Pack your bags,
+get ready to go.""",8
+829,830,2010.675,2012.677,"I can't believe we
+have to pack up.",SPEAKER_04,1.8562500000000455,US,US01,1,1,S01E01,830,2010.675,2012.677,SPEAKER_04,"I can't believe we
+have to pack up.",8
+830,831,2012.677,2014.679,We're just getting settled.,SPEAKER_04,1.2993750000000546,US,US01,1,1,S01E01,831,2012.677,2014.679,SPEAKER_04,We're just getting settled.,4
+831,832,2014.679,2015.68,"Well, somebody's gone.",SPEAKER_27,0.5209062499998254,US,US01,1,1,S01E01,832,2014.679,2015.68,SPEAKER_27,"Well, somebody's gone.",3
+832,833,2015.68,2017.181,"So, it's time to think",SPEAKER_27,1.5009999999999764,US,US01,1,1,S01E01,833,2015.68,2017.181,SPEAKER_27,"So, it's time to think",5
+833,834,2017.181,2018.683,"about who are they
+going to vote for?",SPEAKER_27,1.5019999999999527,US,US01,1,1,S01E01,834,2017.181,2018.683,SPEAKER_27,"about who are they
+going to vote for?",8
+834,835,2019.183,2020.184,Why are they going to vote?,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,835,2019.183,2020.184,SPEAKER_27,Why are they going to vote?,6
+835,836,2020.685,2021.686,I've narrowed it down to four.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,836,2020.685,2021.686,SPEAKER_27,I've narrowed it down to four.,6
+836,837,2021.686,2022.687,I'm one of them.,SPEAKER_27,1.0009999999999764,US,US01,1,1,S01E01,837,2021.686,2022.687,SPEAKER_27,I'm one of them.,4
+837,838,2024.288,2025.289,"Well, it could mean a lot",SPEAKER_03,0.7642812499998399,US,US01,1,1,S01E01,838,2024.288,2025.289,SPEAKER_03,"Well, it could mean a lot",6
+838,839,2025.289,2027.792,"uh, either staying
+or being voted out.",SPEAKER_03,2.502999999999929,US,US01,1,1,S01E01,839,2025.289,2027.792,SPEAKER_03,"uh, either staying
+or being voted out.",7
+839,840,2027.792,2029.794,"You know, last
+night's competition,",SPEAKER_03,2.00200000000018,US,US01,1,1,S01E01,840,2027.792,2029.794,SPEAKER_03,"You know, last
+night's competition,",5
+840,841,2030.294,2033.798,"I really feel responsible
+because I couldn't keep up",SPEAKER_03,3.5039999999999054,US,US01,1,1,S01E01,841,2030.294,2033.798,SPEAKER_03,"I really feel responsible
+because I couldn't keep up",9
+841,842,2033.798,2036.3,"and I was dragged
+totally off my feet.",SPEAKER_03,2.3198437500002456,US,US01,1,1,S01E01,842,2033.798,2036.3,SPEAKER_03,"and I was dragged
+totally off my feet.",8
+842,843,2036.3,2039.303,"I do feel that that
+stumble probably cost us",SPEAKER_03,2.881406249999827,US,US01,1,1,S01E01,843,2036.3,2039.303,SPEAKER_03,"I do feel that that
+stumble probably cost us",9
+843,844,2039.303,2041.806,"the immunity challenge,
+and that's a big one.",SPEAKER_03,2.502999999999929,US,US01,1,1,S01E01,844,2039.303,2041.806,SPEAKER_03,"the immunity challenge,
+and that's a big one.",8
+844,845,2041.806,2044.308,"Up until, uh,
+probably last night,",SPEAKER_26,1.9126562499998272,US,US01,1,1,S01E01,845,2041.806,2044.308,SPEAKER_26,"Up until, uh,
+probably last night,",6
+845,846,2044.308,2046.31,"I never gave it a
+second thought",SPEAKER_26,2.0019999999999527,US,US01,1,1,S01E01,846,2044.308,2046.31,SPEAKER_26,"I never gave it a
+second thought",7
+846,847,2046.31,2048.813,"about who I was
+going to vote off",SPEAKER_26,2.5030000000001564,US,US01,1,1,S01E01,847,2046.31,2048.813,SPEAKER_26,"about who I was
+going to vote off",8
+847,848,2048.813,2051.816,"or if I got voted off, but
+after last night, uh...",SPEAKER_26,1.4050312499994106,US,US01,1,1,S01E01,848,2048.813,2051.816,SPEAKER_26,"or if I got voted off, but
+after last night, uh...",11
+848,849,2052.216,2056.22,"I thought about it then,
+and I decided then.",SPEAKER_26,3.4262187500003165,US,US01,1,1,S01E01,849,2052.216,2056.22,SPEAKER_26,"I thought about it then,
+and I decided then.",9
+849,850,2056.22,2058.923,"I feel pretty secure, actually,
+about the vote tonight.",SPEAKER_24,2.133281249999527,US,US01,1,1,S01E01,850,2056.22,2058.923,SPEAKER_24,"I feel pretty secure, actually,
+about the vote tonight.",9
+850,851,2059.123,2061.125,"Kelly and I get
+along real well",SPEAKER_24,1.2809062500000437,US,US01,1,1,S01E01,851,2059.123,2061.125,SPEAKER_24,"Kelly and I get
+along real well",7
+851,852,2061.225,2062.727,and we've been talking,SPEAKER_24,1.5019999999999527,US,US01,1,1,S01E01,852,2061.225,2062.727,SPEAKER_24,and we've been talking,4
+852,853,2062.827,2064.829,"about strategy, and, you
+know, who's not contributing",SPEAKER_24,2.0019999999999527,US,US01,1,1,S01E01,853,2062.827,2064.829,SPEAKER_24,"about strategy, and, you
+know, who's not contributing",8
+853,854,2065.229,2067.231,"as much, and who would
+be best to vote off,",SPEAKER_24,2.0020000000004075,US,US01,1,1,S01E01,854,2065.229,2067.231,SPEAKER_24,"as much, and who would
+be best to vote off,",10
+854,855,2067.231,2070.034,"and I think we-we've come
+to a mutual decision",SPEAKER_24,2.8029999999998836,US,US01,1,1,S01E01,855,2067.231,2070.034,SPEAKER_24,"and I think we-we've come
+to a mutual decision",9
+855,856,2070.034,2072.036,"and we've talked
+to Sue about it.",SPEAKER_24,2.0019999999999527,US,US01,1,1,S01E01,856,2070.034,2072.036,SPEAKER_24,"and we've talked
+to Sue about it.",7
+856,857,2072.036,2074.939,"Stacey came up to
+me, and it's, like,",SPEAKER_24,2.9029999999997926,US,US01,1,1,S01E01,857,2072.036,2074.939,SPEAKER_24,"Stacey came up to
+me, and it's, like,",8
+857,858,2075.239,2076.24,she don't like Rudy,SPEAKER_18,0.6684062499998618,US,US01,1,1,S01E01,858,2075.239,2076.24,SPEAKER_18,she don't like Rudy,4
+858,859,2076.641,2077.642,"and she's, like,",SPEAKER_18,0.6697812499996871,US,US01,1,1,S01E01,859,2076.641,2077.642,SPEAKER_18,"and she's, like,",3
+859,860,2077.642,2079.644,"""Oh, I think we're going
+to vote for Rudy,""",SPEAKER_18,2.0019999999999527,US,US01,1,1,S01E01,860,2077.642,2079.644,SPEAKER_18,"""Oh, I think we're going
+to vote for Rudy,""",9
+860,861,2079.644,2081.646,"and vote him off 'cause
+he's so barking.""",SPEAKER_18,2.0020000000004075,US,US01,1,1,S01E01,861,2079.644,2081.646,SPEAKER_18,"and vote him off 'cause
+he's so barking.""",8
+861,862,2081.646,2084.148,"Well, anybody's too barking
+and too bossy to Stacey",SPEAKER_18,2.5019999999999527,US,US01,1,1,S01E01,862,2081.646,2084.148,SPEAKER_18,"Well, anybody's too barking
+and too bossy to Stacey",9
+862,863,2084.148,2086.15,"because she doesn't
+move her ass.",SPEAKER_18,2.0019999999999527,US,US01,1,1,S01E01,863,2084.148,2086.15,SPEAKER_18,"because she doesn't
+move her ass.",6
+863,864,2086.35,2088.352,"The chicks think I'm voting
+for one person, and I'm not.",SPEAKER_18,2.0019999999999527,US,US01,1,1,S01E01,864,2086.35,2088.352,SPEAKER_18,"The chicks think I'm voting
+for one person, and I'm not.",11
+864,865,2097.762,2100.264,"This is Tribal Council,
+where each week",SPEAKER_06,1.2825000000002547,US,US01,1,1,S01E01,865,2097.762,2100.264,SPEAKER_06,"This is Tribal Council,
+where each week",7
+865,866,2100.264,2102.767,"one member will be
+voted off the island.",SPEAKER_06,2.017906249999214,US,US01,1,1,S01E01,866,2100.264,2102.767,SPEAKER_06,"one member will be
+voted off the island.",8
+866,867,2102.767,2104.769,"Last night, in a
+crushing defeat",SPEAKER_06,1.0870937500003492,US,US01,1,1,S01E01,867,2102.767,2104.769,SPEAKER_06,"Last night, in a
+crushing defeat",6
+867,868,2104.769,2107.271,"Tagi lost the
+immunity challenge,",SPEAKER_06,2.5020000000004075,US,US01,1,1,S01E01,868,2104.769,2107.271,SPEAKER_06,"Tagi lost the
+immunity challenge,",5
+868,869,2107.271,2111.275,"so, tonight, they will come here
+and vote the first person off.",SPEAKER_06,4.003999999999905,US,US01,1,1,S01E01,869,2107.271,2111.275,SPEAKER_06,"so, tonight, they will come here
+and vote the first person off.",12
+869,870,2111.576,2113.578,"It all begins with
+a dangerous hike",SPEAKER_06,1.5732812499995816,US,US01,1,1,S01E01,870,2111.576,2113.578,SPEAKER_06,"It all begins with
+a dangerous hike",7
+870,871,2113.678,2115.179,through the jungle.,SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,871,2113.678,2115.179,SPEAKER_06,through the jungle.,3
+871,872,2118.282,2120.284,"With so little time
+to get acquainted,",SPEAKER_06,1.30990625000004,US,US01,1,1,S01E01,872,2118.282,2120.284,SPEAKER_06,"With so little time
+to get acquainted,",7
+872,873,2120.685,2122.186,everyone is vulnerable.,SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,873,2120.685,2122.186,SPEAKER_06,everyone is vulnerable.,3
+873,874,2123.588,2125.59,"Rich's talk-versus-action
+approach",SPEAKER_06,1.3509062499997526,US,US01,1,1,S01E01,874,2123.588,2125.59,SPEAKER_06,"Rich's talk-versus-action
+approach",3
+874,875,2126.09,2128.092,"may be more annoying
+than helpful.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,875,2126.09,2128.092,SPEAKER_06,"may be more annoying
+than helpful.",6
+875,876,2130.394,2133.397,"Sonja's tumble
+cost them dearly.",SPEAKER_06,2.1599999999998545,US,US01,1,1,S01E01,876,2130.394,2133.397,SPEAKER_06,"Sonja's tumble
+cost them dearly.",5
+876,877,2133.397,2135.399,One thing's for certain:,UNKNOWN,0.0,US,US01,1,1,S01E01,877,2133.397,2135.399,UNKNOWN,One thing's for certain:,4
+877,878,2135.399,2138.402,"At Tribal Council,
+youareheld accountable",SPEAKER_06,2.8566562500000146,US,US01,1,1,S01E01,878,2135.399,2138.402,SPEAKER_06,"At Tribal Council,
+youareheld accountable",5
+878,879,2138.903,2139.403,for your actions.,SPEAKER_06,0.5,US,US01,1,1,S01E01,879,2138.903,2139.403,SPEAKER_06,for your actions.,3
+879,880,2139.904,2140.905,Therewillbe a vote.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,880,2139.904,2140.905,SPEAKER_06,Therewillbe a vote.,3
+880,881,2141.205,2142.707,Someoneisgoing home.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,881,2141.205,2142.707,SPEAKER_06,Someoneisgoing home.,2
+881,882,2142.707,2144.208,I see torches.,SPEAKER_01,0.8495312499994725,US,US01,1,1,S01E01,882,2142.707,2144.208,SPEAKER_01,I see torches.,3
+882,883,2144.709,2146.21,"Oh, that looks pretty hairy.",SPEAKER_01,1.5010000000002037,US,US01,1,1,S01E01,883,2144.709,2146.21,SPEAKER_01,"Oh, that looks pretty hairy.",5
+883,884,2146.21,2148.212,(birds chirping),SPEAKER_01,0.21971875000053842,US,US01,1,1,S01E01,884,2146.21,2148.212,SPEAKER_01,(birds chirping),2
+884,885,2151.215,2152.717,(gong sounds),UNKNOWN,0.0,US,US01,1,1,S01E01,885,2151.215,2152.717,UNKNOWN,(gong sounds),2
+885,886,2152.717,2155.72,Make our way around.,SPEAKER_08,0.9956250000004729,US,US01,1,1,S01E01,886,2152.717,2155.72,SPEAKER_08,Make our way around.,4
+886,887,2167.532,2169.033,We begin Tribal Council,UNKNOWN,0.0,US,US01,1,1,S01E01,887,2167.532,2169.033,UNKNOWN,We begin Tribal Council,4
+887,888,2169.033,2170.034,with a ritual.,SPEAKER_06,0.9074062499998945,US,US01,1,1,S01E01,888,2169.033,2170.034,SPEAKER_06,with a ritual.,3
+888,889,2170.034,2172.036,Behind each of you is a torch.,SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,889,2170.034,2172.036,SPEAKER_06,Behind each of you is a torch.,7
+889,890,2172.036,2175.039,"I'd like you to grab the
+torch and approach the fire.",SPEAKER_06,3.0030000000001564,US,US01,1,1,S01E01,890,2172.036,2175.039,SPEAKER_06,"I'd like you to grab the
+torch and approach the fire.",11
+890,891,2175.039,2177.542,Go ahead and dip your torches,SPEAKER_06,0.53384374999996,US,US01,1,1,S01E01,891,2175.039,2177.542,SPEAKER_06,Go ahead and dip your torches,6
+891,892,2177.542,2179.544,in the flame and light them.,SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,892,2177.542,2179.544,SPEAKER_06,in the flame and light them.,6
+892,893,2179.944,2182.446,"Put them back in their
+slot, and take a seat.",SPEAKER_06,1.8950312500001019,US,US01,1,1,S01E01,893,2179.944,2182.446,SPEAKER_06,"Put them back in their
+slot, and take a seat.",10
+893,894,2182.446,2183.447,We do this because--,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,894,2182.446,2183.447,SPEAKER_06,We do this because--,4
+894,895,2183.848,2186.35,"as I'm sure you've
+discovered--",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,895,2183.848,2186.35,SPEAKER_06,"as I'm sure you've
+discovered--",5
+895,896,2186.35,2187.552,"on the island, fire
+represents life.",SPEAKER_06,1.2020000000002256,US,US01,1,1,S01E01,896,2186.35,2187.552,SPEAKER_06,"on the island, fire
+represents life.",6
+896,897,2188.052,2190.054,"These torches now represent
+your life, your identity",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,897,2188.052,2190.054,SPEAKER_06,"These torches now represent
+your life, your identity",8
+897,898,2190.054,2191.556,here at Tribal Council.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,898,2190.054,2191.556,SPEAKER_06,here at Tribal Council.,4
+898,899,2191.556,2193.257,The good news is,SPEAKER_06,0.6404062500000691,US,US01,1,1,S01E01,899,2191.556,2193.257,SPEAKER_06,The good news is,4
+899,900,2193.257,2195.259,"you will take these torches
+with you when you leave",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,900,2193.257,2195.259,SPEAKER_06,"you will take these torches
+with you when you leave",10
+900,901,2195.259,2196.26,"so you will have fire,",SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,901,2195.259,2196.26,SPEAKER_06,"so you will have fire,",5
+901,902,2196.26,2197.762,"and you will bring
+them back with you",SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,902,2196.26,2197.762,SPEAKER_06,"and you will bring
+them back with you",8
+902,903,2198.262,2199.263,to each Tribal Council.,SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,903,2198.262,2199.263,SPEAKER_06,to each Tribal Council.,4
+903,904,2199.263,2200.264,Go ahead and have a seat.,SPEAKER_06,0.7785937500002547,US,US01,1,1,S01E01,904,2199.263,2200.264,SPEAKER_06,Go ahead and have a seat.,6
+904,905,2200.765,2202.767,"Well, leave it to me
+to state the obvious,",SPEAKER_06,1.3247812499994325,US,US01,1,1,S01E01,905,2200.765,2202.767,SPEAKER_06,"Well, leave it to me
+to state the obvious,",9
+905,906,2202.767,2205.269,"but this is not a
+place you want to be.",SPEAKER_06,1.7970937500003856,US,US01,1,1,S01E01,906,2202.767,2205.269,SPEAKER_06,"but this is not a
+place you want to be.",10
+906,907,2205.57,2208.573,"You tread in dangerous territory
+every time you come here.",SPEAKER_06,2.9120312499994725,US,US01,1,1,S01E01,907,2205.57,2208.573,SPEAKER_06,"You tread in dangerous territory
+every time you come here.",10
+907,908,2208.573,2210.074,Tribal Council is basically,SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,908,2208.573,2210.074,SPEAKER_06,Tribal Council is basically,4
+908,909,2210.074,2212.076,"where you account for your
+actions on the island.",SPEAKER_06,0.98696874999996,US,US01,1,1,S01E01,909,2210.074,2212.076,SPEAKER_06,"where you account for your
+actions on the island.",9
+909,910,2212.076,2214.078,Some of those actions,SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,910,2212.076,2214.078,SPEAKER_06,Some of those actions,4
+910,911,2214.078,2215.58,will come back to help you.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,911,2214.078,2215.58,SPEAKER_06,will come back to help you.,6
+911,912,2215.58,2217.582,"Some of them may come
+back to haunt you,",SPEAKER_06,1.7584687500002474,US,US01,1,1,S01E01,912,2215.58,2217.582,SPEAKER_06,"Some of them may come
+back to haunt you,",9
+912,913,2217.582,2219.083,"but tonight, based
+on those actions,",SPEAKER_06,1.1876562499996908,US,US01,1,1,S01E01,913,2217.582,2219.083,SPEAKER_06,"but tonight, based
+on those actions,",6
+913,914,2219.483,2221.485,"one of you will be the first
+person voted off the island.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,914,2219.483,2221.485,SPEAKER_06,"one of you will be the first
+person voted off the island.",12
+914,915,2221.485,2223.988,"So, before we get to the vote,",SPEAKER_06,1.6207812499992542,US,US01,1,1,S01E01,915,2221.485,2223.988,SPEAKER_06,"So, before we get to the vote,",7
+915,916,2223.988,2225.489,"let's talk about
+what's been going on.",SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,916,2223.988,2225.489,SPEAKER_06,"let's talk about
+what's been going on.",7
+916,917,2225.489,2227.491,"I'm curious just about
+you guys getting here",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,917,2225.489,2227.491,SPEAKER_06,"I'm curious just about
+you guys getting here",8
+917,918,2227.491,2228.492,and finding this place.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,918,2227.491,2228.492,SPEAKER_06,and finding this place.,4
+918,919,2228.993,2230.995,How was the journey over here?,SPEAKER_06,1.4235937500002365,US,US01,1,1,S01E01,919,2228.993,2230.995,SPEAKER_06,How was the journey over here?,6
+919,920,2230.995,2231.996,Saw two deadly snakes.,SPEAKER_01,0.923468750000211,US,US01,1,1,S01E01,920,2230.995,2231.996,SPEAKER_01,Saw two deadly snakes.,4
+920,921,2231.996,2232.997,Really?,SPEAKER_18,0.6060312499998872,US,US01,1,1,S01E01,921,2231.996,2232.997,SPEAKER_18,Really?,1
+921,922,2232.997,2233.998,SUSAN: Grand Canyon,SPEAKER_18,1.0010000000002037,US,US01,1,1,S01E01,922,2232.997,2233.998,SPEAKER_18,SUSAN: Grand Canyon,3
+922,923,2234.298,2234.799,mud slides...,SPEAKER_18,0.5010000000002037,US,US01,1,1,S01E01,923,2234.298,2234.799,SPEAKER_18,mud slides...,2
+923,924,2235.299,2236.3,It was great.,SPEAKER_18,0.821343749999869,US,US01,1,1,S01E01,924,2235.299,2236.3,SPEAKER_18,It was great.,3
+924,925,2236.3,2237.301,It was fun.,SPEAKER_09,0.2928437500004293,US,US01,1,1,S01E01,925,2236.3,2237.301,SPEAKER_09,It was fun.,3
+925,926,2237.301,2239.203,We're still starving.,SPEAKER_07,1.513281250000091,US,US01,1,1,S01E01,926,2237.301,2239.203,SPEAKER_07,We're still starving.,3
+926,927,2239.604,2240.605,We've eaten but not really.,SPEAKER_09,0.9071562499998436,US,US01,1,1,S01E01,927,2239.604,2240.605,SPEAKER_09,We've eaten but not really.,5
+927,928,2240.605,2242.106,"SONJA: The competition
+is stiffer.",SPEAKER_04,1.5010000000002037,US,US01,1,1,S01E01,928,2240.605,2242.106,SPEAKER_04,"SONJA: The competition
+is stiffer.",5
+928,929,2242.607,2243.107,The competition,SPEAKER_04,0.5,US,US01,1,1,S01E01,929,2242.607,2243.107,SPEAKER_04,The competition,2
+929,930,2243.608,2244.609,"we had last night was tough,",SPEAKER_04,1.000999999999749,US,US01,1,1,S01E01,930,2243.608,2244.609,SPEAKER_04,"we had last night was tough,",6
+930,931,2244.609,2246.611,tougher than I had anticipated.,SPEAKER_04,1.4507187499998508,US,US01,1,1,S01E01,931,2244.609,2246.611,SPEAKER_04,tougher than I had anticipated.,5
+931,932,2246.611,2248.112,"How are you holding
+up, physically?",SPEAKER_06,1.4447812500002328,US,US01,1,1,S01E01,932,2246.611,2248.112,SPEAKER_06,"How are you holding
+up, physically?",6
+932,933,2248.112,2249.614,"SONJA: Well, pretty
+well, you know.",SPEAKER_04,0.9049062499993852,US,US01,1,1,S01E01,933,2248.112,2249.614,SPEAKER_04,"SONJA: Well, pretty
+well, you know.",6
+933,934,2250.114,2253.618,"I'll fight to the finish,
+but, uh, I have my blisters",SPEAKER_04,1.7507187500000327,US,US01,1,1,S01E01,934,2250.114,2253.618,SPEAKER_04,"I'll fight to the finish,
+but, uh, I have my blisters",11
+934,935,2253.618,2256.12,"and whatnot, but
+I'm-I'm doing okay.",SPEAKER_04,2.397968750000018,US,US01,1,1,S01E01,935,2253.618,2256.12,SPEAKER_04,"and whatnot, but
+I'm-I'm doing okay.",6
+935,936,2256.12,2257.622,"What happened after
+Quest for Fire?",SPEAKER_06,1.2854062499995962,US,US01,1,1,S01E01,936,2256.12,2257.622,SPEAKER_06,"What happened after
+Quest for Fire?",6
+936,937,2257.622,2259.123,That was a great competition--,SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,937,2257.622,2259.123,SPEAKER_06,That was a great competition--,5
+937,938,2259.323,2260.324,"obviously, a lot at stake.",SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,938,2259.323,2260.324,SPEAKER_06,"obviously, a lot at stake.",5
+938,939,2260.324,2261.325,"SONJA: Oh, God.",SPEAKER_06,0.9569687500002146,US,US01,1,1,S01E01,939,2260.324,2261.325,SPEAKER_06,"SONJA: Oh, God.",3
+939,940,2261.325,2262.326,We came close.,SPEAKER_06,0.5050312499997744,US,US01,1,1,S01E01,940,2261.325,2262.326,SPEAKER_06,We came close.,3
+940,941,2262.326,2263.828,We almost got it.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,941,2262.326,2263.828,SPEAKER_06,We almost got it.,4
+941,942,2263.828,2265.329,"SUSAN: Aw, man, we were
+dragged down two times",SPEAKER_18,1.5010000000002037,US,US01,1,1,S01E01,942,2263.828,2265.329,SPEAKER_18,"SUSAN: Aw, man, we were
+dragged down two times",9
+942,943,2265.329,2266.831,and we were right there.,SPEAKER_18,1.5019999999999527,US,US01,1,1,S01E01,943,2265.329,2266.831,SPEAKER_18,and we were right there.,5
+943,944,2266.831,2267.832,We almost got it.,SPEAKER_18,1.000999999999749,US,US01,1,1,S01E01,944,2266.831,2267.832,SPEAKER_18,We almost got it.,4
+944,945,2267.832,2268.833,SUSAN: There's no way.,SPEAKER_18,1.0010000000002037,US,US01,1,1,S01E01,945,2267.832,2268.833,SPEAKER_18,SUSAN: There's no way.,4
+945,946,2269.333,2270.334,"All right, guys, well...",SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,946,2269.333,2270.334,SPEAKER_06,"All right, guys, well...",4
+946,947,2270.334,2272.336,it's obviously a fun group.,SPEAKER_06,0.9806562499993561,US,US01,1,1,S01E01,947,2270.334,2272.336,SPEAKER_06,it's obviously a fun group.,5
+947,948,2272.336,2273.838,"This is not a
+pleasant process...",SPEAKER_06,1.5020000000004075,US,US01,1,1,S01E01,948,2272.336,2273.838,SPEAKER_06,"This is not a
+pleasant process...",6
+948,949,2274.338,2275.339,"No, not at all.",SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,949,2274.338,2275.339,SPEAKER_06,"No, not at all.",4
+949,950,2275.339,2276.841,"JEFF: And I know
+also, from listening",SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,950,2275.339,2276.841,SPEAKER_06,"JEFF: And I know
+also, from listening",7
+950,951,2277.041,2278.542,"to you guys talk,
+that there are",SPEAKER_06,1.500999999999749,US,US01,1,1,S01E01,951,2277.041,2278.542,SPEAKER_06,"to you guys talk,
+that there are",7
+951,952,2278.743,2280.745,"a lot of different
+reasons why you're here.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,952,2278.743,2280.745,SPEAKER_06,"a lot of different
+reasons why you're here.",8
+952,953,2280.745,2282.747,"Obviously, $1 million-- big
+motivator for anybody,",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,953,2280.745,2282.747,SPEAKER_06,"Obviously, $1 million-- big
+motivator for anybody,",7
+953,954,2283.247,2283.748,but I'm sensing,SPEAKER_06,0.15709375000051296,US,US01,1,1,S01E01,954,2283.247,2283.748,SPEAKER_06,but I'm sensing,3
+954,955,2284.248,2285.85,"there could be
+personal reasons,",SPEAKER_06,1.0460937499997272,US,US01,1,1,S01E01,955,2284.248,2285.85,SPEAKER_06,"there could be
+personal reasons,",5
+955,956,2285.85,2287.351,"different journeys
+you might be on",SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,956,2285.85,2287.351,SPEAKER_06,"different journeys
+you might be on",6
+956,957,2287.351,2288.853,that-that this encompasses.,SPEAKER_06,1.5019999999999527,US,US01,1,1,S01E01,957,2287.351,2288.853,SPEAKER_06,that-that this encompasses.,3
+957,958,2289.353,2290.354,"Whatever it is,",SPEAKER_06,0.6049062499992033,US,US01,1,1,S01E01,958,2289.353,2290.354,SPEAKER_06,"Whatever it is,",3
+958,959,2290.354,2291.856,"to fulfill that agenda,",SPEAKER_06,1.5020000000004075,US,US01,1,1,S01E01,959,2290.354,2291.856,SPEAKER_06,"to fulfill that agenda,",4
+959,960,2291.856,2293.858,"you have to survive
+tonight's Tribal Council.",SPEAKER_06,0.9980937499999527,US,US01,1,1,S01E01,960,2291.856,2293.858,SPEAKER_06,"you have to survive
+tonight's Tribal Council.",7
+960,961,2293.858,2295.86,That's the way it's set up.,SPEAKER_06,0.7952812500002437,US,US01,1,1,S01E01,961,2293.858,2295.86,SPEAKER_06,That's the way it's set up.,6
+961,962,2296.16,2298.162,"So, what we're going
+to do is vote",SPEAKER_06,1.494156249999378,US,US01,1,1,S01E01,962,2296.16,2298.162,SPEAKER_06,"So, what we're going
+to do is vote",8
+962,963,2298.162,2299.664,and how it will work is,SPEAKER_06,1.5020000000004075,US,US01,1,1,S01E01,963,2298.162,2299.664,SPEAKER_06,and how it will work is,6
+963,964,2300.064,2301.065,you'll come down here.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,964,2300.064,2301.065,SPEAKER_06,you'll come down here.,4
+964,965,2301.065,2302.066,You'll go across this bridge,SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,965,2301.065,2302.066,SPEAKER_06,You'll go across this bridge,5
+965,966,2302.566,2303.567,into our voting confessional.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,966,2302.566,2303.567,SPEAKER_06,into our voting confessional.,4
+966,967,2304.068,2306.07,"Write the name of the person
+you want to vote off--",SPEAKER_06,1.8927812500000982,US,US01,1,1,S01E01,967,2304.068,2306.07,SPEAKER_06,"Write the name of the person
+you want to vote off--",11
+967,968,2306.57,2307.571,"large, clear letters.",SPEAKER_06,0.8472187499996835,US,US01,1,1,S01E01,968,2306.57,2307.571,SPEAKER_06,"large, clear letters.",3
+968,969,2307.571,2309.073,"Hold it up, and
+speak your piece.",SPEAKER_06,0.744531249999909,US,US01,1,1,S01E01,969,2307.571,2309.073,SPEAKER_06,"Hold it up, and
+speak your piece.",7
+969,970,2309.073,2310.074,We can't hear you.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,970,2309.073,2310.074,SPEAKER_06,We can't hear you.,4
+970,971,2310.274,2312.276,"Fold it up, put it
+in the container,",SPEAKER_06,1.0075937500000691,US,US01,1,1,S01E01,971,2310.274,2312.276,SPEAKER_06,"Fold it up, put it
+in the container,",8
+971,972,2312.276,2314.278,"come back, and take a seat.",SPEAKER_06,1.908093750000262,US,US01,1,1,S01E01,972,2312.276,2314.278,SPEAKER_06,"come back, and take a seat.",6
+972,973,2314.478,2317.982,"Now, once the votes are
+tallied, the decision is final",SPEAKER_06,1.586250000000291,US,US01,1,1,S01E01,973,2314.478,2317.982,SPEAKER_06,"Now, once the votes are
+tallied, the decision is final",10
+973,974,2317.982,2319.483,and you have to leave,SPEAKER_06,0.6582812500000728,US,US01,1,1,S01E01,974,2317.982,2319.483,SPEAKER_06,and you have to leave,5
+974,975,2319.483,2322.186,"the Tribal Council
+area immediately.",SPEAKER_06,2.6998437499996726,US,US01,1,1,S01E01,975,2319.483,2322.186,SPEAKER_06,"the Tribal Council
+area immediately.",5
+975,976,2322.286,2323.788,It's time to vote.,UNKNOWN,0.0,US,US01,1,1,S01E01,976,2322.286,2323.788,UNKNOWN,It's time to vote.,4
+976,977,2323.788,2325.289,You're first.,SPEAKER_06,0.6581249999999272,US,US01,1,1,S01E01,977,2323.788,2325.289,SPEAKER_06,You're first.,2
+977,978,2342.707,2344.709,I'll do the best I can.,UNKNOWN,0.0,US,US01,1,1,S01E01,978,2342.707,2344.709,UNKNOWN,I'll do the best I can.,6
+978,979,2347.011,2351.015,"Got to remove the weakest
+link in the... crew.",SPEAKER_18,3.0471562499992615,US,US01,1,1,S01E01,979,2347.011,2351.015,SPEAKER_18,"Got to remove the weakest
+link in the... crew.",9
+979,980,2366.13,2368.132,Stacey.,SPEAKER_27,0.639781249999487,US,US01,1,1,S01E01,980,2366.13,2368.132,SPEAKER_27,Stacey.,1
+980,981,2368.332,2371.836,"Um, tough call.",SPEAKER_27,0.8477187500006949,US,US01,1,1,S01E01,981,2368.332,2371.836,SPEAKER_27,"Um, tough call.",3
+981,982,2372.136,2372.636,(sighs),UNKNOWN,0.0,US,US01,1,1,S01E01,982,2372.136,2372.636,UNKNOWN,(sighs),1
+982,983,2373.137,2374.638,Subtle reasons...,SPEAKER_27,1.425156249999418,US,US01,1,1,S01E01,983,2373.137,2374.638,SPEAKER_27,Subtle reasons...,2
+983,984,2374.638,2376.64,"I'm not sure exactly
+what they are.",SPEAKER_27,2.0019999999999527,US,US01,1,1,S01E01,984,2374.638,2376.64,SPEAKER_27,"I'm not sure exactly
+what they are.",7
+984,985,2383.447,2383.948,He's just...,UNKNOWN,0.0,US,US01,1,1,S01E01,985,2383.447,2383.948,UNKNOWN,He's just...,2
+985,986,2384.448,2385.95,He's an ornery guy...,SPEAKER_25,1.0259062499999345,US,US01,1,1,S01E01,986,2384.448,2385.95,SPEAKER_25,He's an ornery guy...,4
+986,987,2385.95,2387.952,doesn't really help that much.,SPEAKER_25,2.0020000000004075,US,US01,1,1,S01E01,987,2385.95,2387.952,SPEAKER_25,doesn't really help that much.,5
+987,988,2387.952,2391.455,"For a Navy SEAL, he doesn't
+know how to start fire...",SPEAKER_25,3.2158437500002037,US,US01,1,1,S01E01,988,2387.952,2391.455,SPEAKER_25,"For a Navy SEAL, he doesn't
+know how to start fire...",11
+988,989,2391.956,2393.958,"and he just criticizes
+everything.",SPEAKER_25,1.2714062499994725,US,US01,1,1,S01E01,989,2391.956,2393.958,SPEAKER_25,"and he just criticizes
+everything.",5
+989,990,2398.462,2399.964,I'm picking her,SPEAKER_12,0.03803125000013097,US,US01,1,1,S01E01,990,2398.462,2399.964,SPEAKER_12,I'm picking her,3
+990,991,2399.964,2403.467,"because I think she's the
+reason we lost yesterday.",SPEAKER_12,3.5030000000001564,US,US01,1,1,S01E01,991,2399.964,2403.467,SPEAKER_12,"because I think she's the
+reason we lost yesterday.",9
+991,992,2427.591,2430.594,"I'll miss his, uh, skills",SPEAKER_02,2.351781249999476,US,US01,1,1,S01E01,992,2427.591,2430.594,SPEAKER_02,"I'll miss his, uh, skills",5
+992,993,2430.594,2434.598,"and, um, his speaking
+his mind openly.",SPEAKER_02,1.9682812499995634,US,US01,1,1,S01E01,993,2430.594,2434.598,SPEAKER_02,"and, um, his speaking
+his mind openly.",7
+993,994,2446.61,2449.113,"Before I read these votes,
+I just want to commend you",SPEAKER_06,0.9582812499997999,US,US01,1,1,S01E01,994,2446.61,2449.113,SPEAKER_06,"Before I read these votes,
+I just want to commend you",11
+994,995,2449.113,2451.615,"on the courage it's
+taken to get this far.",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,995,2449.113,2451.615,SPEAKER_06,"on the courage it's
+taken to get this far.",9
+995,996,2451.615,2453.617,"There were a lot of
+steps along the way.",SPEAKER_06,2.0020000000004075,US,US01,1,1,S01E01,996,2451.615,2453.617,SPEAKER_06,"There were a lot of
+steps along the way.",9
+996,997,2454.118,2455.619,"Any of you could've
+turned around.",SPEAKER_06,1.5010000000002037,US,US01,1,1,S01E01,997,2454.118,2455.619,SPEAKER_06,"Any of you could've
+turned around.",6
+997,998,2456.12,2457.121,"Nobody did, and in my book",SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,998,2456.12,2457.121,SPEAKER_06,"Nobody did, and in my book",6
+998,999,2457.121,2459.623,"that gives you bragging
+rights for life.",SPEAKER_06,2.5019999999999527,US,US01,1,1,S01E01,999,2457.121,2459.623,SPEAKER_06,"that gives you bragging
+rights for life.",7
+999,1000,2459.623,2461.625,"So, with that, I'll
+read the votes.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,1000,2459.623,2461.625,SPEAKER_06,"So, with that, I'll
+read the votes.",7
+1000,1001,2464.528,2468.532,First vote-- Sonja.,SPEAKER_06,0.6075000000000728,US,US01,1,1,S01E01,1001,2464.528,2468.532,SPEAKER_06,First vote-- Sonja.,3
+1001,1002,2475.539,2476.54,Sonja.,SPEAKER_06,0.23778124999989814,US,US01,1,1,S01E01,1002,2475.539,2476.54,SPEAKER_06,Sonja.,1
+1002,1003,2482.546,2483.547,Stacey.,SPEAKER_06,0.46103124999945067,US,US01,1,1,S01E01,1003,2482.546,2483.547,SPEAKER_06,Stacey.,1
+1003,1004,2492.056,2493.057,Sonja.,UNKNOWN,0.0,US,US01,1,1,S01E01,1004,2492.056,2493.057,UNKNOWN,Sonja.,1
+1004,1005,2498.562,2499.563,Rudy.,SPEAKER_23,0.35437499999989086,US,US01,1,1,S01E01,1005,2498.562,2499.563,SPEAKER_23,Rudy.,1
+1005,1006,2506.07,2507.571,Rudy.,SPEAKER_23,0.35437499999989086,US,US01,1,1,S01E01,1006,2506.07,2507.571,SPEAKER_23,Rudy.,1
+1006,1007,2514.178,2515.179,Rudy.,SPEAKER_23,0.4524062499995125,US,US01,1,1,S01E01,1007,2514.178,2515.179,SPEAKER_23,Rudy.,1
+1007,1008,2515.179,2516.68,That's three for Sonja,SPEAKER_23,1.3700937499997963,US,US01,1,1,S01E01,1008,2515.179,2516.68,SPEAKER_23,That's three for Sonja,4
+1008,1009,2517.181,2518.682,and three for Rudy.,SPEAKER_06,1.35934374999988,US,US01,1,1,S01E01,1009,2517.181,2518.682,SPEAKER_06,and three for Rudy.,4
+1009,1010,2520.885,2523.387,The first person,SPEAKER_06,0.9316562500002874,US,US01,1,1,S01E01,1010,2520.885,2523.387,SPEAKER_06,The first person,3
+1010,1011,2523.487,2525.99,voted off the island...,SPEAKER_06,1.1620937500001673,US,US01,1,1,S01E01,1011,2523.487,2525.99,SPEAKER_06,voted off the island...,4
+1011,1012,2525.99,2529.493,Sonja.,SPEAKER_06,0.5906249999998181,US,US01,1,1,S01E01,1012,2525.99,2529.493,SPEAKER_06,Sonja.,1
+1012,1013,2529.493,2531.996,"Sonja, I need you
+to grab your torch",SPEAKER_06,1.62628124999992,US,US01,1,1,S01E01,1013,2529.493,2531.996,SPEAKER_06,"Sonja, I need you
+to grab your torch",8
+1013,1014,2532.096,2533.597,and bring it to me.,SPEAKER_06,0.804968750000171,US,US01,1,1,S01E01,1014,2532.096,2533.597,SPEAKER_06,and bring it to me.,5
+1014,1015,2550.514,2552.516,The tribe has spoken.,SPEAKER_06,0.944999999999709,US,US01,1,1,S01E01,1015,2550.514,2552.516,SPEAKER_06,The tribe has spoken.,4
+1015,1016,2559.023,2561.025,"Go get 'em, you guys.",SPEAKER_03,1.0565312499998072,US,US01,1,1,S01E01,1016,2559.023,2561.025,SPEAKER_03,"Go get 'em, you guys.",5
+1016,1017,2561.325,2563.827,"RICH: Thanks, Sonja.",SPEAKER_03,1.1922812499997235,US,US01,1,1,S01E01,1017,2561.325,2563.827,SPEAKER_03,"RICH: Thanks, Sonja.",3
+1017,1018,2563.827,2565.029,Thanks. Thank you.,SPEAKER_03,0.6302187499995853,US,US01,1,1,S01E01,1018,2563.827,2565.029,SPEAKER_03,Thanks. Thank you.,3
+1018,1019,2565.029,2566.53,It's time for you to go.,UNKNOWN,0.0,US,US01,1,1,S01E01,1019,2565.029,2566.53,UNKNOWN,It's time for you to go.,6
+1019,1020,2577.942,2580.945,"JEFF: Well, to the
+rest of you, I guess",SPEAKER_06,1.890906250000171,US,US01,1,1,S01E01,1020,2577.942,2580.945,SPEAKER_06,"JEFF: Well, to the
+rest of you, I guess",9
+1020,1021,2581.045,2582.046,a somber congratulations.,SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,1021,2581.045,2582.046,SPEAKER_06,a somber congratulations.,3
+1021,1022,2582.046,2584.048,"You've survived the
+Tribal Council.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,1022,2582.046,2584.048,SPEAKER_06,"You've survived the
+Tribal Council.",5
+1022,1023,2584.048,2585.049,You have fire.,SPEAKER_06,1.0010000000002037,US,US01,1,1,S01E01,1023,2584.048,2585.049,SPEAKER_06,You have fire.,3
+1023,1024,2585.349,2586.35,You can head back to camp,SPEAKER_06,1.000999999999749,US,US01,1,1,S01E01,1024,2585.349,2586.35,SPEAKER_06,You can head back to camp,6
+1024,1025,2586.35,2588.352,"and I will see you tomorrow
+for the next challenge.",SPEAKER_06,2.0019999999999527,US,US01,1,1,S01E01,1025,2586.35,2588.352,SPEAKER_06,"and I will see you tomorrow
+for the next challenge.",10
+1025,1026,2588.352,2589.753,Good night.,SPEAKER_06,1.31646875000024,US,US01,1,1,S01E01,1026,2588.352,2589.753,SPEAKER_06,Good night.,2
+1026,1027,2612.71,2613.711,"JEFF: Next week, onSurvivor...",SPEAKER_06,0.6706562499998654,US,US01,1,1,S01E01,1027,2612.71,2613.711,SPEAKER_06,"JEFF: Next week, onSurvivor...",4
+1027,1028,2614.211,2615.512,I've been working my ass off,SPEAKER_05,0.42978125000036016,US,US01,1,1,S01E01,1028,2614.211,2615.512,SPEAKER_05,I've been working my ass off,6
+1028,1029,2615.512,2618.015,"and a lot of you have been
+laying on your ass watching me.",SPEAKER_05,2.5029999999997017,US,US01,1,1,S01E01,1029,2615.512,2618.015,SPEAKER_05,"and a lot of you have been
+laying on your ass watching me.",13
+1029,1030,2618.015,2619.617,Don't give me any of that ....,SPEAKER_05,1.3872187500005566,US,US01,1,1,S01E01,1030,2618.015,2619.617,SPEAKER_05,Don't give me any of that ....,7
+1030,1031,2619.617,2622.62,"RUDY: Me and Richard got to
+be pretty good friends--",SPEAKER_26,2.1040312499999345,US,US01,1,1,S01E01,1031,2619.617,2622.62,SPEAKER_26,"RUDY: Me and Richard got to
+be pretty good friends--",10
+1031,1032,2622.62,2625.122,"not in a homosexual
+way, that's for sure.",SPEAKER_26,2.5019999999999527,US,US01,1,1,S01E01,1032,2622.62,2625.122,SPEAKER_26,"not in a homosexual
+way, that's for sure.",8
+1032,1033,2625.623,2626.624,(screaming and laughing),SPEAKER_26,0.05671875000052751,US,US01,1,1,S01E01,1033,2625.623,2626.624,SPEAKER_26,(screaming and laughing),3
+1033,1034,2626.624,2628.626,"Swallow it, Gervase!",UNKNOWN,0.0,US,US01,1,1,S01E01,1034,2626.624,2628.626,UNKNOWN,"Swallow it, Gervase!",3
+1034,1035,2628.926,2630.93,== www.harpseal.cn ==,UNKNOWN,0.0,US,US01,1,1,S01E01,1035,2628.926,2630.93,UNKNOWN,== www.harpseal.cn ==,3
+1035,1036,2635.453,2638.037,survivor season1 episode1,UNKNOWN,0.0,US,US01,1,1,S01E01,1036,2635.453,2638.037,UNKNOWN,survivor season1 episode1,3
+1036,1037,2639.036,2643.14,"Well, I think this has been,
+uh, an awesome experience.",SPEAKER_03,2.9477812499994798,US,US01,1,1,S01E01,1037,2639.036,2643.14,SPEAKER_03,"Well, I think this has been,
+uh, an awesome experience.",10
+1037,1038,2643.14,2647.645,"Being the first to be voted
+out is a little humiliating.",SPEAKER_03,4.505000000000109,US,US01,1,1,S01E01,1038,2643.14,2647.645,SPEAKER_03,"Being the first to be voted
+out is a little humiliating.",11
+1038,1039,2647.645,2650.648,"On the other hand, the
+team did the right thing.",SPEAKER_03,3.0030000000001564,US,US01,1,1,S01E01,1039,2647.645,2650.648,SPEAKER_03,"On the other hand, the
+team did the right thing.",10
+1039,1040,2650.648,2652.65,"They're a terrific
+group of people.",SPEAKER_03,2.0019999999999527,US,US01,1,1,S01E01,1040,2650.648,2652.65,SPEAKER_03,"They're a terrific
+group of people.",6
+1040,1041,2653.15,2655.152,"They're very strong physically,",SPEAKER_03,2.0019999999999527,US,US01,1,1,S01E01,1041,2653.15,2655.152,SPEAKER_03,"They're very strong physically,",4
+1041,1042,2655.152,2658.055,"and I-I think in their shoes,
+I'd probably do the same thing.",SPEAKER_03,2.9029999999997926,US,US01,1,1,S01E01,1042,2655.152,2658.055,SPEAKER_03,"and I-I think in their shoes,
+I'd probably do the same thing.",12
