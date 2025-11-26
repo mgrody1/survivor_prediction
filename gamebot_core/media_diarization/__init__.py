@@ -14,6 +14,10 @@ from .config import (
     BASE_VIDEO_DIR,
     BASE_SUBTITLE_DIR,
     AUDIO_OUT_DIR,
+    DIARIZED_PARQUET_DIR,
+    EMBEDDINGS_DIR,
+    MANUAL_LABELS_PATH,
+    AUTO_LABELS_PATH,
     HF_TOKEN,
     PYANNOTE_MODEL,
     VERSION_COUNTRY,
@@ -29,6 +33,14 @@ from .pipeline import (
     list_all_episode_videos,
 )
 from .ray_backend import run_diarization, should_use_ray
+from .labels import load_speaker_labels, apply_speaker_labels
+from .embeddings import (
+    compute_cluster_embeddings_for_episode,
+    save_cluster_embeddings,
+    load_all_embeddings,
+    propagate_castaway_labels,
+    auto_label_unlabeled_clusters,
+)
 
 __all__ = [
     # Config
@@ -36,6 +48,10 @@ __all__ = [
     "BASE_VIDEO_DIR",
     "BASE_SUBTITLE_DIR",
     "AUDIO_OUT_DIR",
+    "DIARIZED_PARQUET_DIR",
+    "EMBEDDINGS_DIR",
+    "MANUAL_LABELS_PATH",
+    "AUTO_LABELS_PATH",
     "HF_TOKEN",
     "PYANNOTE_MODEL",
     "VERSION_COUNTRY",
@@ -51,4 +67,13 @@ __all__ = [
     # Ray backend
     "run_diarization",
     "should_use_ray",
+    # Manual labels
+    "load_speaker_labels",
+    "apply_speaker_labels",
+    # Embeddings
+    "compute_cluster_embeddings_for_episode",
+    "save_cluster_embeddings",
+    "load_all_embeddings",
+    "propagate_castaway_labels",
+    "auto_label_unlabeled_clusters",
 ]

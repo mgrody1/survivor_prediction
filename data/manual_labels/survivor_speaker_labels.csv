@@ -1,0 +1,4 @@
+version_season,episode,speaker_label,castaway_id,castaway,confidence,notes
+US01,1,SPEAKER_0,US01jeffp01,Jeff Probst,high,Host - appears in all episodes
+US01,1,SPEAKER_1,US01richardh01,Richard Hatch,high,Winner - distinctive voice
+US01,1,SPEAKER_2,US01rudyb01,Rudy Boesch,medium,Navy SEAL - gruff voice

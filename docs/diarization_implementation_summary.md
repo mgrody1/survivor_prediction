@@ -4,15 +4,35 @@
 
 The speaker diarization pipeline processes Survivor TV episode video files to identify who is speaking when, aligned with subtitle text. This is an **optional feature** disabled by default because most users won't have access to source media files.
 
+**Quick Navigation**:
+- **Want to label speakers?** → [Speaker Labeling & Voice Embeddings](diarization_speaker_labeling.md)
+- **Need Docker setup?** → [Docker Deployment Guide](diarization_docker_setup.md)
+- **Understanding architecture?** → Continue reading below
+
+**Typical Workflow:**
+1. Run diarization on all episodes (batch process, no dependencies)
+2. Manually label Episode 1 speakers
+3. Use embeddings to auto-suggest labels for remaining episodes
+4. Iteratively refine until satisfied
+
+See [Speaker Labeling Guide](diarization_speaker_labeling.md) for detailed workflow.
+
+---
+
 ## Architecture
 
 ### Data Flow
 
 ```
-Source Media → Audio Extraction → Diarization → Subtitle Alignment → Database Storage
-     ↓               ↓                  ↓                ↓                    ↓
-  .mkv files    ffmpeg extract    pyannote.audio   srt alignment    bronze.diarization_segments
+Source Media → Audio Extraction → Diarization → Subtitle Alignment → Manual Labels → Storage (Split)
+     ↓               ↓                  ↓                ↓                 ↓              ↓
+  .mkv files    ffmpeg extract    pyannote.audio   srt alignment    CSV merge    Database (metadata)
+                                                                                  Parquet (text + labels)
 ```
+
+**Storage Split (Privacy-First):**
+- **Database** (`bronze.diarization_segments`): Timing metadata only (version_season, episode, speaker_label, start_time, end_time)
+- **Parquet Files** (`data_cache/survivor_diarized/`): Full data including subtitle_text, castaway labels, word_count
 
 ### Storage Layer
 
@@ -20,15 +40,15 @@ Data is stored in the **bronze layer** (`bronze.diarization_segments`) with the 
 
 ```sql
 CREATE TABLE bronze.diarization_segments (
-    version_season VARCHAR(10) NOT NULL,      -- e.g., "US01", "AU05"
-    episode INT NOT NULL,                      -- Episode number within season
-    subtitle_index INT NOT NULL,               -- Subtitle sequence number
-    start_time NUMERIC(10,3) NOT NULL,         -- Segment start in seconds
-    end_time NUMERIC(10,3) NOT NULL,           -- Segment end in seconds
-    speaker_label VARCHAR(50) NOT NULL,        -- e.g., "SPEAKER_00"
-    subtitle_text TEXT,                        -- Subtitle content
-    word_count INT,                            -- Word count in subtitle
-    ingest_run_id BIGINT NOT NULL,             -- FK to bronze.ingestion_runs
+    diarization_segment_id BIGINT PRIMARY KEY,  -- Auto-increment
+    version_season TEXT NOT NULL,               -- e.g., "US01", "AU05"
+    episode INT NOT NULL,                       -- Episode number within season
+    subtitle_index INT NOT NULL,                -- Subtitle sequence number
+    start_time DOUBLE PRECISION NOT NULL,       -- Segment start in seconds
+    end_time DOUBLE PRECISION NOT NULL,         -- Segment end in seconds
+    duration DOUBLE PRECISION,                  -- Computed (end_time - start_time)
+    speaker_label TEXT NOT NULL,                -- e.g., "SPEAKER_0", "SPEAKER_1"
+    ingest_run_id UUID NOT NULL,                -- FK to bronze.ingestion_runs
 
     -- Constraints
     UNIQUE (version_season, episode, subtitle_index),
@@ -38,11 +58,22 @@ CREATE TABLE bronze.diarization_segments (
 );
 ```
 
+**Privacy-First Design:**
+- **NO subtitle_text**: Copyrighted content stays in local parquet files only
+- **NO castaway column**: Speaker identities (biometric-linked) stay in local parquet files only
+- **Database contains**: Only timing metadata and cluster IDs (non-sensitive)
+
+**Local Parquet Files** (`data_cache/survivor_diarized/`):
+- Contains: subtitle_text, castaway labels (from manual CSV), word_count
+- Storage: Local filesystem only, never committed to git or uploaded to database
+- Purpose: Enables NLP analysis and manual labeling workflow
+
 ### Why Bronze Layer?
 
-- **Raw data**: Contains minimally processed diarization output
-- **Speaker labels**: Not yet mapped to actual castaway names (still "SPEAKER_00", etc.)
-- **Future transformations**: Silver/gold layers can aggregate by castaway, compute speaking metrics, analyze dialogue patterns
+- **Timing metadata**: Database stores when speakers spoke (start/end times)
+- **Cluster assignments**: Links subtitle segments to speaker cluster IDs
+- **Privacy boundary**: Separates public metadata from copyrighted/biometric data
+- **Future transformations**: Silver/gold layers can aggregate speaking time metrics without needing the actual text
 
 ## Configuration
 
@@ -55,17 +86,22 @@ All configuration is optional and disabled by default:
 ENABLE_DIARIZATION=false
 
 # Required only if enabled
-SURVIVOR_VIDEO_DIR=/path/to/videos          # Directory with .mkv files
-SURVIVOR_SUBTITLE_DIR=/path/to/subtitles    # Directory with .srt files
-SURVIVOR_AUDIO_OUT_DIR=data_cache/audio     # Where to cache extracted audio
-HF_TOKEN=your_huggingface_token             # For pyannote.audio model access
+SURVIVOR_VIDEO_DIR=/path/to/videos              # Directory with .mkv files
+SURVIVOR_SUBTITLE_DIR=/path/to/subtitles        # Directory with .srt files
+SURVIVOR_AUDIO_OUT_DIR=data_cache/audio         # Where to cache extracted audio
+SURVIVOR_DIARIZED_DIR=data_cache/diarized       # Where to save parquet files
+HF_TOKEN=your_huggingface_token                 # For pyannote.audio model access
 
 # Optional configuration
-VERSION_COUNTRY=US                           # For version_season format
+VERSION_COUNTRY=US                               # For version_season format
 PYANNOTE_DIARIZATION_MODEL=pyannote/speaker-diarization-3.1
-USE_RAY=false                                # Distributed processing
-RAY_ADDRESS=auto                             # Ray cluster address
+USE_RAY=false                                    # Distributed processing
+RAY_ADDRESS=auto                                 # Ray cluster address
 ```
+
+**Automatic Paths (created when ENABLE_DIARIZATION=true):**
+- `data_cache/survivor_embeddings/` - Voice embedding parquet files (see [Speaker Labeling](diarization_speaker_labeling.md))
+- `data/manual_labels/survivor_speaker_labels.csv` - Manual castaway→speaker mappings
 
 ### Key Design Decisions
 
@@ -73,6 +109,7 @@ RAY_ADDRESS=auto                             # Ray cluster address
 2. **Feature flag**: `ENABLE_DIARIZATION=false` by default - users opt-in
 3. **Config validation**: Raises errors if enabled but paths not set
 4. **Docker-first**: Designed for volume mounts, not local paths
+5. **Privacy-first**: Copyrighted text and biometric data never enter the database
 
 ## Components
 
@@ -109,10 +146,51 @@ Core processing functions:
   - Parses season/episode numbers from filename
   - Builds version_season format (e.g., "US01")
   - Creates DataFrame with proper schema
-  - Calls `db_utils.load_dataset_to_table()`
+  - Applies manual castaway labels from CSV (if available)
+  - Calls `_insert_dataframe_to_table()` to insert data
   - Returns row count inserted
 
-### 3. Ray Backend Module (`ray_backend.py`)
+**Manual labeling:**
+- `apply_speaker_labels()`: Merges manual castaway labels from CSV into diarized DataFrame
+- Reads from `data/manual_labels/survivor_speaker_labels.csv`
+- Matches by (version_season, episode, speaker_label)
+- See [Speaker Labeling & Voice Embeddings](diarization_speaker_labeling.md) for complete workflow
+
+### 3. Labels Module (`labels.py`)
+
+Manual speaker identification:
+
+- `load_speaker_labels()`: Read manual castaway labels from CSV
+- `apply_speaker_labels()`: Merge labels into diarized DataFrame
+- CSV format: `(version_season, episode, speaker_label, castaway, confidence, notes)`
+- Handles episode-specific labels (pyannote assigns different cluster IDs per episode)
+
+**Why episode-specific?** Pyannote.audio assigns speaker cluster IDs independently for each episode:
+- Episode 1: Jeff Probst = `SPEAKER_0`
+- Episode 2: Jeff Probst = `SPEAKER_7` (different cluster ID, same person!)
+
+This is solved by voice embeddings (see next module).
+
+### 4. Embeddings Module (`embeddings.py`)
+
+Voice-based speaker identification across episodes:
+
+**Embedding extraction:**
+- `compute_cluster_embeddings_for_episode()`: Extract voice embeddings for each speaker cluster
+- `save_cluster_embeddings()` / `load_all_embeddings()`: Parquet storage (local only, never database)
+- Uses `pyannote/embedding` model to create 512-dimensional voice "fingerprints"
+
+**Label propagation:**
+- `propagate_castaway_labels()`: Match unlabeled clusters to labeled castaways using cosine similarity
+- Computes centroid embeddings from ALL labeled episodes for each castaway
+- Matches new episode clusters via similarity threshold (default 0.80)
+- `auto_label_unlabeled_clusters()`: End-to-end workflow with CSV output for review
+
+**Privacy:** Embeddings are biometric data - stored ONLY in local parquet files, never in database.
+
+See [Speaker Labeling & Voice Embeddings](diarization_speaker_labeling.md) for complete workflow.
+
+### 5. Ray Backend Module (`ray_backend.py`)
 
 Optional distributed processing:
 
@@ -126,7 +204,7 @@ Optional distributed processing:
 
 **Note:** Database connections may not serialize properly in Ray. Users with Ray clusters may need to pass connection strings instead of connection objects.
 
-### 4. Airflow DAG (`survivor_diarization_dag.py`)
+### 6. Airflow DAG (`survivor_diarization_dag.py`)
 
 Orchestration with three tasks:
 
@@ -159,7 +237,23 @@ cp .env.example .env
 # 2. Install dependencies
 pipenv install pyannote.audio torch srt
 
-# 3. Process episodes programmatically
+# 3. Process episodes with flexible filtering
+# Process only Episode 1 of all seasons (recommended for initial labeling)
+pipenv run python scripts/diarization_pipeline.py --episode 1
+
+# Process all episodes of Season 1
+pipenv run python scripts/diarization_pipeline.py --season 1
+
+# Process specific episodes of Season 1
+pipenv run python scripts/diarization_pipeline.py --season 1 --episodes 1 2 3
+
+# Process all episodes
+pipenv run python scripts/diarization_pipeline.py
+
+# Process episodes 5-10 from sorted file list
+pipenv run python scripts/diarization_pipeline.py --range 5 10
+
+# 4. Or use programmatically
 python
 >>> from gamebot_core.media_diarization import list_all_episode_videos, run_diarization
 >>> from gamebot_core.db_utils import get_connection, start_ingest_run, end_ingest_run
@@ -169,6 +263,9 @@ python
 >>> episodes = list_all_episode_videos()
 >>> row_counts = run_diarization(episodes, conn, ingest_run_id)
 >>> end_ingest_run(conn, ingest_run_id, "success", sum(row_counts))
+```
+
+**See `.env.example` for more usage examples and filtering options.**
 ```
 
 ### Docker / Airflow
@@ -236,16 +333,16 @@ The exported SQLite file will contain the `diarization_segments` table with all 
 
 ## Future Enhancements
 
-### Speaker-to-Castaway Mapping
+### Speaker-to-Castaway Mapping (IMPLEMENTED ✓)
 
-Current implementation assigns generic speaker labels ("SPEAKER_00", "SPEAKER_01"). Future work could:
+Manual labeling and voice embeddings are now supported! See [Speaker Labeling & Voice Embeddings](diarization_speaker_labeling.md) for:
 
-1. **Roster matching**: Use episode cast lists to map speakers to names
-2. **Voice profiles**: Build voice models for known castaways
-3. **Manual labeling**: Provide UI for correcting speaker assignments
-4. **Transfer learning**: Use previous seasons' labeled data
+1. **Manual labeling**: CSV-based episode-specific castaway labels
+2. **Voice embeddings**: 512-dimensional speaker fingerprints using pyannote/embedding
+3. **Label propagation**: Cosine similarity matching across episodes
+4. **Auto-suggestions**: Embedding-based label recommendations for review
 
-### Silver/Gold Layer Features
+### Silver/Gold Layer Features (Future Work)
 
 Potential downstream transformations:
 
@@ -305,6 +402,8 @@ Ray cannot serialize database connection objects. Solutions:
 
 ## References
 
+- **Speaker Labeling & Voice Embeddings**: See [diarization_speaker_labeling.md](diarization_speaker_labeling.md) for manual castaway labeling and embedding-based label propagation
+- **Docker Setup**: See [diarization_docker_setup.md](diarization_docker_setup.md) for containerized deployment
 - **pyannote.audio**: https://github.com/pyannote/pyannote-audio
 - **Speaker diarization paper**: https://arxiv.org/abs/2104.04045
 - **Ray documentation**: https://docs.ray.io/

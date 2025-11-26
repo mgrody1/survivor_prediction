@@ -326,6 +326,7 @@ pipenv run python scripts/create_notebook.py model    # ML modeling
 | Resource | Description |
 |----------|-------------|
 | [Environment Configuration](docs/environment_guide.md) | Context-aware setup system |
+| [Speaker Labeling & Voice Embeddings](docs/diarization_speaker_labeling.md) | Manual castaway labeling and embedding-based label propagation |
 | [GitHub Actions Guide](docs/github_actions_quickstart.md) | CI/CD and release workflows |
 | [Contributing Guide](CONTRIBUTING.md) | Development workflow and PR process |
 

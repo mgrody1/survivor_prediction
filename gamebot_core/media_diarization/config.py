@@ -61,10 +61,22 @@ DIARIZED_PARQUET_DIR = Path(
     os.getenv("SURVIVOR_DIARIZED_DIR", "data_cache/survivor_diarized")
 )
 
+# Speaker embeddings (private, local-only)
+EMBEDDINGS_DIR = DIARIZED_PARQUET_DIR.parent / "survivor_embeddings"
+
+# Manual castaway labels CSV (Episode 1 only, human-curated)
+MANUAL_LABELS_PATH = Path("data/manual_labels/survivor_speaker_labels.csv")
+
+# Auto-generated labels CSV (Episodes 2+, system-generated)
+AUTO_LABELS_PATH = Path("data/auto_labels/survivor_auto_labels.csv")
+
 # Ensure output directories exist (only when enabled)
 if ENABLE_DIARIZATION:
     AUDIO_OUT_DIR.mkdir(parents=True, exist_ok=True)
     DIARIZED_PARQUET_DIR.mkdir(parents=True, exist_ok=True)
+    EMBEDDINGS_DIR.mkdir(parents=True, exist_ok=True)
+    MANUAL_LABELS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    AUTO_LABELS_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 # =============================================================================
 # Hugging Face Configuration

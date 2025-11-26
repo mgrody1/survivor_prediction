@@ -2,6 +2,12 @@
 
 This file provides **exact code snippets** for integrating the diarization pipeline into Docker deployments.
 
+**Related Documentation**:
+- [Speaker Labeling & Voice Embeddings](diarization_speaker_labeling.md) - Manual castaway labeling and embedding-based label propagation
+- [Diarization Implementation Summary](diarization_implementation_summary.md) - Architecture overview
+
+---
+
 ## 1. Development Deployment (`airflow/docker-compose.yaml`)
 
 ### Add Volume Mounts

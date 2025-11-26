@@ -912,14 +912,20 @@ def process_single_episode(
     df["subtitle_text"] = df["text"]
     df["word_count"] = df["text"].apply(lambda t: len(str(t).split()))
 
-    # Step 6: Save to parquet WITH subtitle text (for local NLP processing)
+    # Step 5b: Apply manual castaway labels (if available)
+    from .labels import apply_speaker_labels
+
+    df = apply_speaker_labels(df)
+    logger.info(f"  Applied castaway labels: {df['castaway'].value_counts().to_dict()}")
+
+    # Step 6: Save to parquet WITH subtitle text and castaway labels (for local NLP processing)
     # This contains copyrighted content and stays local only
     DIARIZED_PARQUET_DIR.mkdir(parents=True, exist_ok=True)
     parquet_path = (
         DIARIZED_PARQUET_DIR / f"{version_season}_E{episode_num:02d}_diarized.parquet"
     )
     df.to_parquet(parquet_path, index=False)
-    logger.info(f"  Saved parquet with text: {parquet_path.name}")
+    logger.info(f"  Saved parquet with text and labels: {parquet_path.name}")
 
     # Step 7: Save to database WITHOUT subtitle text (copyright compliance)
     # Only timing metadata - allows distributed analysis without copyright issues
